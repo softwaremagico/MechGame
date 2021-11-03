@@ -11,3 +11,11 @@ Este repositorio contiene las reglas y las instrucciones necesarias para jugar a
 - Un montón de dados. La mayoría de acciones se resuelven con dados de distintos colores. El jugador únicamente tiene que contar los puntos obtenidos en cada dado. 
 - Fichas variadas. Mantiene las cualidades y diferencias de cada mech para que el juego sea divertido. 
 - Instructivo. Desarrollé este juego para enseñar a sumar y restar. Potencia las matemáticas básicas en los más pequeños. 
+
+![Thor](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Thor.svg)
+![Vulture](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Vulture%20MK%20IV.svg)
+![Hellstar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellstar.svg)
+![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)
+![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)
+![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)
+![Stalking Spider](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Stalking%20Spider.svg)
