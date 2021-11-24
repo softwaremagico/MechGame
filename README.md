@@ -20,4 +20,10 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)
 ![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)
 ![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)
-![Stalking Spider](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Stalking%20Spider.svg)
+
+## Fichas
+La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. El resultado actual es:
+
+![Thor Sheet](https://github.com/softwaremagico/MechGame/blob/main/Mechs/PNG/Thor.png)
+
+Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el reglamento. 
