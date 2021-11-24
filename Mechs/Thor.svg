@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="Thor.svg">
+   sodipodi:docname="Thor.svg"
+   inkscape:export-filename="./Thor.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <marker
@@ -207,7 +210,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1946683"
-     inkscape:cx="574.39185"
+     inkscape:cx="498.22008"
      inkscape:cy="431.40118"
      inkscape:document-units="mm"
      inkscape:current-layer="layer12"
