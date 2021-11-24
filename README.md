@@ -26,4 +26,4 @@ La parte más interesante de este proyecto es la creación de las fichas para ca
 
 ![Thor Sheet](https://github.com/softwaremagico/MechGame/blob/main/Mechs/PNG/Thor.png)
 
-Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el reglamento. 
+Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el ![Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). 
