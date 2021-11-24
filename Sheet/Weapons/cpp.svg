@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -413,7 +413,7 @@
            y="46.076206"
            x="42.532104"
            id="tspan1086-8-2"
-           sodipodi:role="line">10</tspan></text>
+           sodipodi:role="line">15</tspan></text>
       <text
          id="text1088-0-9-7"
          y="46.057468"
@@ -543,7 +543,7 @@
            y="46.076206"
            x="34.195385"
            id="tspan1086-9-3"
-           sodipodi:role="line">10</tspan></text>
+           sodipodi:role="line">15</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path1524"
