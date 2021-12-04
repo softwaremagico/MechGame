@@ -156,6 +156,16 @@ Encaramiento
 
 \begin_layout Subsubsection*
 Daños por la espalda
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+espalda
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -198,6 +208,22 @@ Cuerpo a Cuerpo
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsubsection*
+Embestida
+\end_layout
+
+\begin_layout Standard
+Todos los mechs pueden hacer un ataque de embestida.
+ Esta acción consiste en lanzar toda la mesa de tu mech contra el mech enemigo,
+ en un intento de causarle más daños a este que a ti mismo.
+ Tira un dado de combate cuerpo a cuerpo (negro), resta todas las defensas
+ de tu enemigo y el resultado final es el daño que se causan ambos mechs.
+ Tira por separado la localización de daños para ver que áreas son las afectadas
+ por el daño.
+ Este ataque necesita que los dos mechs estén en contacto.
+ 
 \end_layout
 
 \begin_layout Subsubsection
@@ -289,7 +315,53 @@ Daños
 \end_layout
 
 \begin_layout Subsubsection*
-Mech apagado
+Apagado de emergencia
+\end_layout
+
+\begin_layout Subsection
+Módos de juego
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Modo
+\begin_inset space ~
+\end_inset
+
+Andanada
+\end_layout
+
+\end_inset
+
+Modo
+\begin_inset space ~
+\end_inset
+
+Andanada
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Modo
+\begin_inset space ~
+\end_inset
+
+Trifulca
+\end_layout
+
+\end_inset
+
+Modo
+\begin_inset space ~
+\end_inset
+
+Trifulca
 \end_layout
 
 \begin_layout Section
@@ -447,7 +519,29 @@ Dados
 \end_layout
 
 \begin_layout Subsubsection
+Tipo de daño
+\end_layout
+
+\begin_layout Subsubsection
 Características especiales
+\end_layout
+
+\begin_layout Standard
+Algunas armas tienen algunas características que las hacen únicas.
+ Junto al tipo de daño del arma aparecerá algún símbolo especial en el caso
+ de que el árma tenga alguna característica especial.
+ Toda la información la tienes en la Sección 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Características-especiales"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ 
 \end_layout
 
 \begin_layout Subsubsection
@@ -483,7 +577,17 @@ Tonelaje
 \end_layout
 
 \begin_layout Subsubsection*
-Valor
+Coste
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Coste
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -519,6 +623,12 @@ Daño
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Características-especiales"
+
+\end_inset
+
 Características especiales
 \end_layout
 
@@ -548,6 +658,19 @@ Fuego Indirecto
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Múltiples Disparos
+\end_layout
+
+\end_inset
+
+Múltiples Disparos
 \end_layout
 
 \begin_layout Standard
