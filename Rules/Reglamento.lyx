@@ -674,6 +674,34 @@ Múltiples Disparos
 \end_layout
 
 \begin_layout Standard
+El arma realiza múltiples disparos.
+ Contando como una única acción, el arma puede realizar más de una tirada
+ de daño.
+ Cada tirada de daño tiene 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Fuego Disperso
+\end_layout
+
+\end_inset
+
+Fuego Disperso
+\end_layout
+
+\begin_layout Standard
+Los disparos afectan a más de una localización.
+ Por tanto, una vez calculado el daño efecturado y sustraído cualquier defensa
+ o cobertura que el enemigo que tenga, se deberá tirar los dados de localización
+ por cada punto de daño de forma separada.
+ 
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
