@@ -254,6 +254,71 @@ Cobertura
 
 \end_layout
 
+\begin_layout Subsubsection*
+Cobertura ligera
+\end_layout
+
+\begin_layout Standard
+La cobertura ligera cubre vagamente a un mech, pero sin proteger completamente
+ ninguna de sus partes.
+ Puede ser un muro que le llega hasta las rodillas, o unos grandes setos
+ que lo ocultan parcialmente, pero no bloquea los disparos enemigos.
+\end_layout
+
+\begin_layout Subsubsection*
+Cobertura parcial
+\end_layout
+
+\begin_layout Standard
+Algo superior a la cobertura ligera, no llega tampoco a esconder alguna
+ de las partes del mech, si bien protege algo mejor.
+ Por ejemplo, un muro que está por encima de las rodillas del mech, pero
+ por debajo de la cintura.
+ O por ejemplo una arboleda que oculta parcialmente algunas parte del mech,
+ pero no las protege del todo.
+ También un mech que esté en contacto con otro mech amigo (y detrás de este
+ desde el punto de vista del atacante) puede gozar de esta cobertura parcial.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Cobertura táctica
+\end_layout
+
+\begin_layout Standard
+Una defensa casi prepara especialmente para el mech.
+ El sueño de todo capitán.
+ Únicamente las armas y la cabina sobresalen de esta, cubriendo completamente
+ de cintura para abajo, así como parcialmente el torso.
+ Es la mejor cobertura a la que puede aspirar un mech mientras que puede
+ disparar cómodamente.
+\end_layout
+
+\begin_layout Subsubsection*
+Cobertura total
+\end_layout
+
+\begin_layout Standard
+Cubre completamente el mech.
+ Esto hace que no pueda ser disparado salvo por aquellas armas con fuego
+ indirecto.
+ A cambio, el mech tampoco puede disparar al otro lado de la cobertura.
+ Algunos ejemplos serían un mech detrás de un edificio más alto que él o
+ un desnivel de terreno que lo cubra totalmente de sus atacantes.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Cobertura total envolvente
+\end_layout
+
+\begin_layout Standard
+El mech está dentro de un refugio, que lo cubre completamente.
+ Es incapaz de atacar pero resulta imposible que le ataquen.
+ Un ejemplo sería un mech que está dentro de un edificio sin grandes aberturas.
+ 
+\end_layout
+
 \begin_layout Subsubsection
 Localizaciones
 \begin_inset Index idx
@@ -595,6 +660,86 @@ Armas
 \end_layout
 
 \begin_layout Subsection
+Tipos
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón 
+\end_layout
+
+\end_inset
+
+Cañón 
+\end_layout
+
+\begin_layout Standard
+Un sistema que lanza un obús inteligente que explota cuando está lo suficienteme
+nte cerca del objetivo para causar daño.
+ Evidentemente, cuando más grande sea el obus, mayor es la explosión y su
+ radio de acción.
+ Aunque no tiene un área suficientemente grande para impactar a más de un
+ mech enemigo de forma práctica, cuanto mayor sea la explosión, más fácil
+ resulta impactar a un enemigo a pesar de estar detrás de una cobertura
+ o en movimiento.
+ Los cañones más pequeños por tanto lo tienen más difícil para alcanzar
+ a un enemigo debido a su limitada área de explosión.
+ A cambio, su munición más ligera hace que tengan un mayor alcance.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón de Esquirlas
+\end_layout
+
+\end_inset
+
+Cañón de Esquirlas
+\end_layout
+
+\begin_layout Standard
+El cañón de esquirlas es un cañón que en vez de lanzar un obús, lanza un
+ montón de metralla hacia el objetivo con la intención de que algo le alcance
+ y le produzca daños lo suficientemente serios.
+ Las esquirlas pierden fuerza con la distancia y por tanto su alcance es
+ menor que los cañones que usan un obús inteligente.
+ Los distintos tamaños de los cañones únicamente cambian la cantidad de
+ metralla que pueden lanzar de un solo disparo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón de Partículas
+\end_layout
+
+\end_inset
+
+Cañón de Partículas
+\end_layout
+
+\begin_layout Standard
+Un cañón que lanza un haz luminoso formado por partículas que contienen
+ una gran carga eléctrica que derrite al enemigo.
+ Destaca en los campos de batalla por la intensidad del destello de luz
+ que emite y el ruido que genera al surcar los cielos.
+ Aunque es altamente destructivo resulta relativamente fácil predecir sus
+ disparos y los pilotos aventajados suelen cubrirse a tiempo para evitar
+ sufrir daños por este arma.
+ 
+\end_layout
+
+\begin_layout Subsection
 Alcance
 \begin_inset Index idx
 status open
@@ -677,7 +822,8 @@ Múltiples Disparos
 El arma realiza múltiples disparos.
  Contando como una única acción, el arma puede realizar más de una tirada
  de daño.
- Cada tirada de daño tiene 
+ Cada tirada de daño tiene que realizar una tirada de localización distinta.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
