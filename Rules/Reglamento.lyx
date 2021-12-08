@@ -216,12 +216,12 @@ Embestida
 
 \begin_layout Standard
 Todos los mechs pueden hacer un ataque de embestida.
- Esta acción consiste en lanzar toda la mesa de tu mech contra el mech enemigo,
+ Esta acción consiste en lanzar toda la masa de tu mech contra el mech enemigo,
  en un intento de causarle más daños a este que a ti mismo.
  Tira un dado de combate cuerpo a cuerpo (negro), resta todas las defensas
  de tu enemigo y el resultado final es el daño que se causan ambos mechs.
- Tira por separado la localización de daños para ver que áreas son las afectadas
- por el daño.
+ Tira por separado la localización de daños para cada mech involucrado para
+ ver que áreas son las afectadas por el daño.
  Este ataque necesita que los dos mechs estén en contacto.
  
 \end_layout
@@ -691,6 +691,17 @@ nte cerca del objetivo para causar daño.
  
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename /home/jorge/workspace/MechGame/Sheet/Weapons/LargeCannon.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection*
 \begin_inset Index idx
 status open
@@ -844,6 +855,27 @@ Los disparos afectan a más de una localización.
  Por tanto, una vez calculado el daño efecturado y sustraído cualquier defensa
  o cobertura que el enemigo que tenga, se deberá tirar los dados de localización
  por cada punto de daño de forma separada.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daño por Calor
+\end_layout
+
+\end_inset
+
+Daño por Calor
+\end_layout
+
+\begin_layout Standard
+Algunos disparos -como los de los lanzallamas- además de generar daño normal,
+ aumentan el índice de calor del enemigo.
+ Un ataque con esta característica añade tantos puntos de calor como daño
+ causado después de aplicar todas las defensas del enemigo.
  
 \end_layout
 
