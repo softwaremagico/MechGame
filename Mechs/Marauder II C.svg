@@ -147,10 +147,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84475805"
-     inkscape:cx="509.42014"
-     inkscape:cy="308.15736"
+     inkscape:cx="231.82586"
+     inkscape:cy="305.78982"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer12"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -3317,13 +3317,6 @@
          x="103.3451"
          y="14.964682"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:Robotech;-inkscape-font-specification:Robotech;stroke-width:0.26458332">--</tspan></text>
-    <circle
-       transform="translate(7.8935014,-115.9948)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29209095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.87627268, 0.29209088999999999;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3810-76-0-1"
-       cx="65.842476"
-       cy="160.58437"
-       r="1.6063988" />
     <g
        style="display:inline"
        transform="matrix(0.35279356,0,0,0.35279356,116.93622,-40.818248)"
@@ -3622,5 +3615,12 @@
        height="8.2894325"
        x="232.78032"
        y="147.58035" />
+    <circle
+       transform="translate(7.8935014,-115.9948)"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29209095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.87627268, 0.29209088999999999;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3810-76-0-1"
+       cx="65.842476"
+       cy="160.58437"
+       r="1.6063988" />
   </g>
 </svg>
