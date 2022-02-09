@@ -147,15 +147,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84475806"
-     inkscape:cx="611.90795"
-     inkscape:cy="489.41729"
+     inkscape:cx="334.31368"
+     inkscape:cy="487.04975"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="false"
@@ -174,7 +174,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2414,7 +2414,7 @@
          id="tspan1548"
          x="237.47523"
          y="242.97656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Robotech;-inkscape-font-specification:Robotech;stroke-width:0.26458332">20</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Robotech;-inkscape-font-specification:Robotech;stroke-width:0.26458332">10</tspan></text>
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.71056741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.13170223, 0.71056741;stroke-dashoffset:0;stroke-opacity:1"
        id="rect925-7-3-61-49-15-5"
