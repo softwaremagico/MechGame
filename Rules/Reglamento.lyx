@@ -110,6 +110,26 @@ Introducción
 Diferencia con otros juegos oficiales de Battlemech
 \end_layout
 
+\begin_layout Subsection
+Migración de modelos de mechs a este sistema
+\end_layout
+
+\begin_layout Subsubsection*
+Movimiento
+\end_layout
+
+\begin_layout Subsubsection*
+Armas
+\end_layout
+
+\begin_layout Subsubsection*
+Calor
+\end_layout
+
+\begin_layout Subsubsection*
+Blindaje
+\end_layout
+
 \begin_layout Section
 Acciones
 \end_layout
@@ -220,12 +240,17 @@ Todos los mechs pueden hacer un ataque de embestida.
  en un intento de causarle más daños a este que a ti mismo.
  Tira un dado de combate cuerpo a cuerpo (negro), resta todas las defensas
  de tu enemigo y el resultado final es el daño que se causan ambos mechs.
- Tira por separado la localización de daños para cada mech involucrado para
+ Tira por separado la localización de daños por cada mech involucrado para
  ver que áreas son las afectadas por el daño.
  Este ataque necesita que los dos mechs estén en contacto.
  
 \end_layout
 
+\begin_layout Standard
+Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
+ ignoran la cobertura.
+\end_layout
+
 \begin_layout Subsubsection
 Defensa
 \begin_inset Index idx
@@ -252,6 +277,11 @@ Cobertura
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
+ ignoran la cobertura.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -287,11 +317,11 @@ Cobertura táctica
 
 \begin_layout Standard
 Una defensa casi prepara especialmente para el mech.
- El sueño de todo capitán.
+ El sueño de todo piloto.
  Únicamente las armas y la cabina sobresalen de esta, cubriendo completamente
  de cintura para abajo, así como parcialmente el torso.
- Es la mejor cobertura a la que puede aspirar un mech mientras que puede
- disparar cómodamente.
+ Es la mejor cobertura a la que puede aspirar un piloto sin impedir que
+ este pueda disparar cómodamente.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -315,7 +345,19 @@ Cobertura total envolvente
 \begin_layout Standard
 El mech está dentro de un refugio, que lo cubre completamente.
  Es incapaz de atacar pero resulta imposible que le ataquen.
- Un ejemplo sería un mech que está dentro de un edificio sin grandes aberturas.
+ Un ejemplo sería un mech que está dentro de un hangar con las puertas cerradas.
+\end_layout
+
+\begin_layout Subsubsection
+Cobertura y Defensa
+\end_layout
+
+\begin_layout Standard
+Un mech que disfruta de ambas bonificaciones, podrá elegir que dados tirar,
+ pero no podrá sumar ambas modificaciones.
+ Por ejemplo, un mech que corra para cubrise detrás de un edificio podrá
+ elegir para cada disparo, si quiere utilizar sus dados de defensa o sus
+ dados de cobertura, pero no ambos.
  
 \end_layout
 
@@ -434,6 +476,19 @@ Pilotos de Mech
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Acciones de piloto
+\end_layout
+
+\end_inset
+
+Acciones de piloto
+\end_layout
+
+\begin_layout Subsection
 Experiencia
 \begin_inset Index idx
 status open
@@ -453,6 +508,23 @@ Ficha
 
 \begin_layout Subsection
 Datos
+\end_layout
+
+\begin_layout Subsection
+Descripción
+\end_layout
+
+\begin_layout Subsubsection*
+Cuadrúpedo
+\end_layout
+
+\begin_layout Standard
+El mech es un cuadrúpedo.
+ Habitualmente esto le da una mayor velocidad de desplazamiento.
+ Sin embargo, limita también los daños que puede tener.
+ Con una extremidad destruida (brazo o pierna) el mech será incapaz de correr.
+ Con dos extremidades destruídas, el mech se considera inutilizado.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -694,7 +766,7 @@ nte cerca del objetivo para causar daño.
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/jorge/workspace/MechGame/Sheet/Weapons/LargeCannon.svg
+	filename ../Sheet/Weapons/LargeCannon.svg
 	scale 60
 
 \end_inset
@@ -726,6 +798,17 @@ El cañón de esquirlas es un cañón que en vez de lanzar un obús, lanza un
  
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeSplinterCannon.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection*
 \begin_inset Index idx
 status open
@@ -744,10 +827,103 @@ Un cañón que lanza un haz luminoso formado por partículas que contienen
  una gran carga eléctrica que derrite al enemigo.
  Destaca en los campos de batalla por la intensidad del destello de luz
  que emite y el ruido que genera al surcar los cielos.
- Aunque es altamente destructivo resulta relativamente fácil predecir sus
- disparos y los pilotos aventajados suelen cubrirse a tiempo para evitar
- sufrir daños por este arma.
+ Aunque es altamente destructivo un disparo directo, resulta relativamente
+ fácil predecir sus disparos y los pilotos aventajados suelen cubrirse a
+ tiempo para evitar sufrir grandes daños por este arma.
  
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/CPP.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles
+\end_layout
+
+\end_inset
+
+Misiles
+\end_layout
+
+\begin_layout Standard
+Armas que en general son soportes para proyectiles autopropulsados.
+ Algunos son simples cohetes que vuelan recto hasta impactar contra un objetivo
+ o quedarse sin combustible.
+ Otros más inteligentes están ligados con el ordenador fijador de blancos
+ y permiten buscar al objetivo así como rodear algunos elementos que puedan
+ ocultar al objetivo.
+ Existen varios tipos de misiles:
+\end_layout
+
+\begin_layout Itemize
+Misiles de corto alcance.
+ Misiles que vuelan normalmente en línea recta.
+ No tienen demasiado alcance pero suelen hacer más daño por misil que otras
+ versiones.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeSRM.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Misiles de largo alcance.
+ Misiles de largo alcance que sobrevuelan grandes distancias buscando a
+ su objetivo.
+ Son más ligeros y realizan menor daño que otras versiones.
+ Debido a que necesitan un tiempo para establecer el blanco enemigo, no
+ pueden ser disparados a distancias muy cercanas.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeLRM.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Misiles tácticos.
+ Mísiles que utilizan parte de su combustible como explosivo al detonar.
+ Por lo que cuanto mayor es la distancia recorrida, menor es el daño causado.
+ Debido a que necesitan un tiempo para establecer el blanco enemigo, no
+ pueden ser disparados a distancias muy cercanas.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeTacticalMissiles.svg
+	scale 60
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -762,6 +938,67 @@ Alcance
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Normalmente las armas disponen de tres rangos de alcance: corto, medio y
+ largo.
+ Corto es el primer rango que aparece en el alcance del arma, mientras que
+ medio es el rango central e igualmente con largo, que es el rango que incluye
+ la máxima distancia del arma.
+ Existen algunas excepciones, por ejemplo un mísil de largo alcance no puede
+ disparar a corto alcance, pero un laser pequeño únicamente puede disparar
+ a corto alcance.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Corto alcance
+\end_layout
+
+\begin_layout Itemize
+El piloto puede gastar una acción de piloto para repetir un dado cualquiera
+ en una tirada de localización de daño.
+ El nuevo resultado será el definitivo y no podrá cambiarse a través del
+ gasto de una nueva acción de piloto.
+ 
+\end_layout
+
+\begin_layout Itemize
+El piloto puede gastar tantas acciones como le queden para sumar daño a
+ un único disparo.
+ El jugador puede decidir gastar acciones de piloto después de tirar la
+ localización del daño.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Medio alcance
+\end_layout
+
+\begin_layout Itemize
+No se pueden gastar acciones del piloto para repetir la tirada de localizaciones.
+ 
+\end_layout
+
+\begin_layout Itemize
+Únicamente se puede gastar una acción del piloto para añadir daño al arma
+ por disparo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Largo alcance
+\end_layout
+
+\begin_layout Itemize
+No se pueden gastar acciones del piloto para repetir la tirada de localizaciones.
+ 
+\end_layout
+
+\begin_layout Itemize
+No se pueden gastar acciones del piloto para añadir daño al arma.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -788,8 +1025,22 @@ name "subsec:Características-especiales"
 Características especiales
 \end_layout
 
+\begin_layout Standard
+La mayoría de armas tienen características especiales que las diferencian
+ unas de otras además de por el daño causado.
+ Por tanto, es posible encontrar alguno de los siguientes símbolos junto
+ al tipo de daño de cada arma.
+ Si es así, debes aplicar las características opcionales abajo descritas.
+ 
+\end_layout
+
 \begin_layout Subsubsection*
-Frágil
+\begin_inset Graphics
+	filename ../Sheet/icons/fragile.svg
+
+\end_inset
+
+ Frágil
 \begin_inset Index idx
 status open
 
@@ -799,11 +1050,26 @@ Frágil
 
 \end_inset
 
+ 
+\end_layout
 
+\begin_layout Standard
+Un arma marcada como frágil puede romperse durante su uso.
+ De esta forma, si un ataque con un arma falla todos sus dados antes de
+ aplicar cualquier otro modificador (es decir, el resultado de daño es cero
+ antes de aplicar la defense del objetivo), el arma se daña por si sola
+ y no puede volver a utilizarse.
+ Las armas lanzamisiles no pueden ser frágiles.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
-Fuego Indirecto
+\begin_inset Graphics
+	filename ../Sheet/icons/IndirectFire.svg
+
+\end_inset
+
+ Fuego Indirecto
 \begin_inset Index idx
 status open
 
@@ -813,7 +1079,60 @@ Fuego Indirecto
 
 \end_inset
 
+ 
+\end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/turret.svg
+
+\end_inset
+
+ Torreta 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Torreta
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+El arma está montada en una torreta por lo que puede disparar en un ángulo
+ de 360º.
+ Eso significa que este arma puede disparar en cualquier dirección.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/90.svg
+
+\end_inset
+
+ 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ángulo limitado
+\end_layout
+
+\end_inset
+
+Ángulo limitado 
+\end_layout
+
+\begin_layout Standard
+El arma no puede rotar junto con el mech, o simplemente el torso de este
+ no puede rotar como otros mechs.
+ Esto limita el ángulo de disparo del arma a 90º.
+ Normalmente significa que el arma puede disparar hacia delante.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -834,20 +1153,30 @@ El arma realiza múltiples disparos.
  Contando como una única acción, el arma puede realizar más de una tirada
  de daño.
  Cada tirada de daño tiene que realizar una tirada de localización distinta.
+ Todos los disparos se realizan contra un mismo objetivo, aunque el jugador
+ puede elegir no realizar todos los disparos si así lo desea.
+ El calor generado por el arma es independiente del número de disparos realizado
+s.
  
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/spread.svg
+
+\end_inset
+
+ 
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Fuego Disperso
+Daño Disperso
 \end_layout
 
 \end_inset
 
-Fuego Disperso
+Daño Disperso 
 \end_layout
 
 \begin_layout Standard
@@ -859,6 +1188,12 @@ Los disparos afectan a más de una localización.
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/thermometer.svg
+
+\end_inset
+
+ 
 \begin_inset Index idx
 status open
 
@@ -868,7 +1203,7 @@ Daño por Calor
 
 \end_inset
 
-Daño por Calor
+Daño por Calor 
 \end_layout
 
 \begin_layout Standard
