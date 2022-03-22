@@ -1389,6 +1389,33 @@ Un arma marcada como frágil puede romperse durante su uso.
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/bad aim.svg
+
+\end_inset
+
+ Mira Precisa
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Mira Precisa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El arma necesita cierta estabilidad para apuntar.
+ Lo que significa que para poder disparar, el mech no debe haber corrido.
+ En el caso de que primero dispare y luego mueva, el mech no tendrá permitido
+ correr si ya ha disparado un arma con este símbolo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/IndirectFire.svg
 
 \end_inset
@@ -1448,7 +1475,7 @@ status open
 
 \end_inset
 
-Ángulo limitado 
+Ángulo Limitado 
 \end_layout
 
 \begin_layout Standard
@@ -1544,6 +1571,18 @@ Organizar una batalla
 
 \begin_layout Subsubsection*
 Generando tu lanza
+\end_layout
+
+\begin_layout Subsubsection*
+Terreno de juego
+\end_layout
+
+\begin_layout Standard
+La distancia recomendad de separación inicial entre ambos bandos es de un
+ metro.
+ Una distancia menor a esta puede dar demasiada ventaja al jugador que empiece
+ su turno primero.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
