@@ -111,23 +111,292 @@ Diferencia con otros juegos oficiales de Battlemech
 \end_layout
 
 \begin_layout Subsection
-Migración de modelos de mechs a este sistema
+Migración de modelos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Migración de modelos
+\end_layout
+
+\end_inset
+
+ de mechs a este sistema
+\end_layout
+
+\begin_layout Standard
+Si deseas migrar un mech del juego original de Battlemech a este sistema
+ de juego, te dejo aquí las reglas que estoy aplicando yo para generar las
+ fichas de cada uno de ellos.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
 Movimiento
 \end_layout
 
+\begin_layout Standard
+El movimiento lo calculo con el valor de movimiento del mech orginal multiplicad
+o x2.
+ El movimiento actual es en centímetros.
+ En mi versión de juego, el movimiento genera calor y este además depende
+ de la masa movida.
+ Calcula el calor generado como las toneladas de peso del mech dividido
+ entre 30 (y redondeado hacia arriba).
+ Por ejemplo, un mech de 65 toneladas generará 3 de calor al mover y otros
+ 3 de calor al correr haciendo un total de 6 de calor.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Salto
+\end_layout
+
+\begin_layout Standard
+El salto genera un calor igual al movimiento +1.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Defensa
+\end_layout
+
+\begin_layout Standard
+El número de dados de defensa viene dado por el movimiento final dividido
+ entre 5.
+ En el caso de correr, sería movimiento dividido entre 2.5.
+ En ambos casos, redondea el valor al número más cercano.
+\end_layout
+
 \begin_layout Subsubsection*
 Armas
+\end_layout
+
+\begin_layout Standard
+Lo más sencillo es coger las armas ya preparadas en el juego y colocarlas
+ en la ficha.
+ Son ligeramente diferentes al del juego original y con propiedades distintas.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
 Calor
 \end_layout
 
+\begin_layout Standard
+El valor del calor aquí es ligeramente distinto e incluso el tope es algo
+ inferior.
+ Lo que necesitas convertir es el valor de disipación del calor.
+ Coge el valor original y dividelo entre dos.
+ 
+\end_layout
+
 \begin_layout Subsubsection*
 Blindaje
+\end_layout
+
+\begin_layout Standard
+Este es el cálculo más complejo.
+ Dependiendo de la zona se calcula con las siguientes reglas:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Estructura Interna (EI)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Blindaje (B)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Torso Central
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+(EI cabeza + EI Torso Central)*0.15+(1 mech pequeño, 2 mech medio, 3 mech
+ pesado, 4 asalto)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+((EI cabeza + EI Torso Central + B cabeza + B Torso Central +B Trasero Torso
+ Central)*0.15 (1 mech pequeño, 2 mech medio, 3 mech pesado, 4 asalto)) -
+ EI Torso Central
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Torso Lateral
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+EI Torso Lateral * 0.15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+(EI Torso Lateral + B Torso Lateral + B Trasero Torso Lateral) * 0.15 - EI
+ Torso Lateral
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Brazo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+EI Brazo * 0.15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+(EI Brazo + B Brazo) * 0.15 - EI Brazo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pierna
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+EI Pierna * 0.15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+(EI Pierna + B Pierna) * 0.15 - EI Pierna
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El tamaño del mech viene descrito en la sección 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Tonelaje"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Todos los valores se redondean al valor más cercano.
+ Es decir, un blindaje de 2.67 serán redondeados a 3 puntos de blindaje en
+ este sistema, mientras que un valor de 2.45 serán 2 puntos de blindaje.
+ Sientete libre de compensar blindajes entre secciones para equilibrar o
+ cambiar sus puntos de coste.
+ 
 \end_layout
 
 \begin_layout Section
@@ -150,13 +419,41 @@ Movimiento
 
 \begin_layout Subsubsection*
 Andar
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Andar
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Correr
+\end_layout
+
+\end_inset
+
 Correr
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Saltar
+\end_layout
+
+\end_inset
+
 Saltar
 \end_layout
 
@@ -180,7 +477,17 @@ Daños por la espalda
 status open
 
 \begin_layout Plain Layout
-espalda
+Espalda
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daños, espalda
 \end_layout
 
 \end_inset
@@ -232,6 +539,16 @@ Cuerpo a Cuerpo
 
 \begin_layout Subsubsection*
 Embestida
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Embestida
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -404,7 +721,7 @@ Calor
 \end_layout
 
 \begin_layout Subsubsection
-Cálculo del calor y enfriado de un Mech
+Cálculo del calor y disipación de calor de un Mech
 \end_layout
 
 \begin_layout Subsubsection
@@ -413,7 +730,7 @@ Daños
 status open
 
 \begin_layout Plain Layout
-Daños
+Calor, daños
 \end_layout
 
 \end_inset
@@ -423,52 +740,6 @@ Daños
 
 \begin_layout Subsubsection*
 Apagado de emergencia
-\end_layout
-
-\begin_layout Subsection
-Módos de juego
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Modo
-\begin_inset space ~
-\end_inset
-
-Andanada
-\end_layout
-
-\end_inset
-
-Modo
-\begin_inset space ~
-\end_inset
-
-Andanada
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Modo
-\begin_inset space ~
-\end_inset
-
-Trifulca
-\end_layout
-
-\end_inset
-
-Modo
-\begin_inset space ~
-\end_inset
-
-Trifulca
 \end_layout
 
 \begin_layout Section
@@ -515,7 +786,22 @@ Descripción
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/quadruped.svg
+
+\end_inset
+
+ Cuadrúpedo
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
 Cuadrúpedo
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -556,7 +842,12 @@ Defensa
 \end_layout
 
 \begin_layout Subsubsection*
-Sistema antimisiles
+\begin_inset Graphics
+	filename ../Sheet/icons/ams.svg
+
+\end_inset
+
+ Sistema antimisiles
 \begin_inset Index idx
 status open
 
@@ -584,7 +875,12 @@ Calor
 \end_layout
 
 \begin_layout Subsubsection*
-Disipación del calor
+\begin_inset Graphics
+	filename ../Sheet/icons/heatsink.svg
+
+\end_inset
+
+ Disipación del calor
 \end_layout
 
 \begin_layout Subsection
@@ -687,7 +983,7 @@ Localización
 status open
 
 \begin_layout Plain Layout
-Localización
+Localizaciónes, armas
 \end_layout
 
 \end_inset
@@ -700,6 +996,12 @@ Otros
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Tonelaje"
+
+\end_inset
+
 Tonelaje
 \begin_inset Index idx
 status open
@@ -711,9 +1013,23 @@ Tonelaje
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+El tonelaje clasifica el mech.
+ Los mech ligeros rondan entre las 20 y 35 toneladas, los medios entre las
+ 40 y 55 toneladas, los pesados entre las 60 y 75, y por último los de asalto
+ entre las 80 y 100 toneladas.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Coste"
+
+\end_inset
+
 Coste
 \begin_inset Index idx
 status open
@@ -725,6 +1041,14 @@ Coste
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+El coste es un valor orientativo del mech para poder jugar partidas equilibradas
+ entre distintos bandos.
+ Por ejemplo, puedes intentar hacer partidas en el que exista un tope de
+ 150 puntos por bandos, intentando no sobrepasar este valor.
+ 
 \end_layout
 
 \begin_layout Section
@@ -1212,6 +1536,82 @@ Algunos disparos -como los de los lanzallamas- además de generar daño normal,
  Un ataque con esta característica añade tantos puntos de calor como daño
  causado después de aplicar todas las defensas del enemigo.
  
+\end_layout
+
+\begin_layout Section
+Organizar una batalla
+\end_layout
+
+\begin_layout Subsubsection*
+Generando tu lanza
+\end_layout
+
+\begin_layout Subsubsection*
+Iniciativa ¿quién empieza primero?
+\end_layout
+
+\begin_layout Standard
+La forma más equilibrada de obtener quién empieza primero es hacer el que
+ el total del coste (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Coste"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) de su bando sea menor que el del adversario.
+ Dado que las listas deberían ser secretas inicialmente, la iniciativa sirve
+ para equilibrar la lista con un valor inferior a la de su adversario.
+ 
+\end_layout
+
+\begin_layout Subsection
+Módos de juego
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Modo
+\begin_inset space ~
+\end_inset
+
+Andanada
+\end_layout
+
+\end_inset
+
+Modo
+\begin_inset space ~
+\end_inset
+
+Andanada
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Modo
+\begin_inset space ~
+\end_inset
+
+Trifulca
+\end_layout
+
+\end_inset
+
+Modo
+\begin_inset space ~
+\end_inset
+
+Trifulca
 \end_layout
 
 \begin_layout Standard
