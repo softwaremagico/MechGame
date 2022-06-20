@@ -28,6 +28,11 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Agromech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II%20MOD.svg)
 ![Agromech MOD-B](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MOD-B.svg)
 
+
+![MorningStar CV](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/MorningStar%20CV.svg)
+![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)
+![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)
+
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. El resultado actual es:
 
