@@ -1632,6 +1632,39 @@ Algunos disparos -como los de los lanzallamas- además de generar daño normal,
  
 \end_layout
 
+\begin_layout Subsection
+Otros
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename /home/jhortelano/workspace/MechGame/Sheet/icons/command.svg
+
+\end_inset
+
+Commando
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Commando
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Representa a una unidad de comando.
+ Las unidades de comando coordinand mejor a todas aquellas unidades cercanas
+ a esta, mejorando sus habilidades.
+ Cualquier unidad a 30 cms de esta unidad cuenta con un +1 a las habilidades
+ de piloto (con un máximo de 3).
+ Dos unidades de comando no suman sus bonuses dando un +2.
+ 
+\end_layout
+
 \begin_layout Section
 Organizar una batalla
 \end_layout
