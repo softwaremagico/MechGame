@@ -34,8 +34,12 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)
 
 ## Fichas
-La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. El resultado actual es:
+La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
 
-![Thor Sheet](https://github.com/softwaremagico/MechGame/blob/main/Mechs/PNG/Thor.png)
+![Thor Sheet](https://github.com/softwaremagico/MechGame/blob/main/PNG/Thor.png)
+
+Y la ficha simplificada para vehículos es:
+
+![Tokugawa Sheet](https://github.com/softwaremagico/MechGame/blob/main/PNG/Tokugawa%20Tank.png)
 
 Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el ![Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). 
