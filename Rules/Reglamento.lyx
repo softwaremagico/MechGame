@@ -998,6 +998,15 @@ Calor
 
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename /home/jhortelano/workspace/MechGame/Sheet/icons/no-heat.svg
+
+\end_inset
+
+Sin calor
+\end_layout
+
 \begin_layout Subsubsection
 Alcance
 \begin_inset Index idx
@@ -1017,7 +1026,17 @@ Dados
 \end_layout
 
 \begin_layout Subsubsection
-Tipo de daño
+Tipo de daño 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daño
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -1446,9 +1465,39 @@ Frágil
 Un arma marcada como frágil puede romperse durante su uso.
  De esta forma, si un ataque con un arma falla todos sus dados antes de
  aplicar cualquier otro modificador (es decir, el resultado de daño es cero
- antes de aplicar la defense del objetivo), el arma se daña por si sola
+ antes de aplicar la defensa del objetivo), el arma se daña por si sola
  y no puede volver a utilizarse.
  Las armas lanzamisiles no pueden ser frágiles.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename /home/jhortelano/workspace/MechGame/Sheet/icons/jam.svg
+
+\end_inset
+
+ Encasquillable
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Encasquillable
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+El arma se puede encasquillar si realiza más de un disparo por turno.
+ En este caso, si en el segundo o sucesivos disparos fallan todos sus dados,
+ es decir, no obtiene ningún punto de daño antes de aplicar la defensa del
+ objetivo, el arma se queda encasquillada y no podrá disparar el próximo
+ turno.
+ Evidentemente, esta propiedad solamente se aplica a los cañones y armas
+ que utilizan casquillos de munición.
  
 \end_layout
 
@@ -1476,6 +1525,7 @@ El arma necesita cierta estabilidad para apuntar.
  Lo que significa que para poder disparar, el mech no debe haber corrido.
  En el caso de que primero dispare y luego mueva, el mech no tendrá permitido
  correr si ya ha disparado un arma con este símbolo.
+ Se le permite andar normalmente.
  
 \end_layout
 
@@ -1495,6 +1545,18 @@ Fuego Indirecto
 
 \end_inset
 
+ 
+\end_layout
+
+\begin_layout Standard
+El fuego indirecto facilita alcanzar a enemigos que están detrás de cobertura.
+ Las armas que tienen este símbolo hacen que el enemigo golpeado por ellas
+ tenga un dado menos de cobertura para protegerse de este disparo.
+ 
+\emph on
+Por ejemplo, un mech que esté disfrutando de una protección por cobertura
+ de tipo parcial, tirará dos dados de cobertura habitualmente, pero solamente
+ un dado si el arma que le dispara son misiles de largo alcance.
  
 \end_layout
 
@@ -1575,6 +1637,12 @@ El arma realiza múltiples disparos.
  puede elegir no realizar todos los disparos si así lo desea.
  El calor generado por el arma es independiente del número de disparos realizado
 s.
+ 
+\emph on
+Por ejemplo los cañones dobles y los cañones de repetición hacen 2 y 3 disparos
+ respectivamente.
+
+\emph default
  
 \end_layout
 
@@ -1659,10 +1727,13 @@ Commando
 Representa a una unidad de comando.
  Las unidades de comando coordinand mejor a todas aquellas unidades cercanas
  a esta, mejorando sus habilidades.
- Cualquier unidad a 30 cms de esta unidad cuenta con un +1 a las habilidades
- de piloto (con un máximo de 3).
- Dos unidades de comando no suman sus bonuses dando un +2.
+ Una unidad de comandos tiene puntos extra que pueden ser utilizados al
+ igual que los puntos de pilotos, pero sobre cualquier unidad amiga a 30cms.
  
+\emph on
+Por ejemplo, el MorningStar tiene 2 puntos de comando en su ficha, por lo
+ que los puede gastar para que dos mechs aliado a menos de 30cms repita
+ una tirada de localización de daños si están a corto alcance.
 \end_layout
 
 \begin_layout Section
