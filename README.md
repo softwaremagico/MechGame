@@ -14,6 +14,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 - Fichas variadas. Mantiene las cualidades y diferencias de cada mech para que el juego sea divertido. 
 - Instructivo. Desarrollé este juego para enseñar a sumar y restar. Potencia las matemáticas básicas en los más pequeños. 
 
+![Atlas](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/DereckHasbani.svg)
 ![Cygnus](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Cygnus.svg)
 ![Thor](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Thor.svg)
 ![Vulture](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Vulture%20MK%20IV.svg)
