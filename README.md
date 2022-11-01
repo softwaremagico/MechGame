@@ -18,6 +18,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Cygnus](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Cygnus.svg)
 ![Thor](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Thor.svg)
 ![Vulture](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Vulture%20MK%20IV.svg)
+![Catapult](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Catapult.svg)
 ![Hellstar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellstar.svg)
 ![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)
 ![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)
