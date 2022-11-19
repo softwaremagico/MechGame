@@ -1366,7 +1366,7 @@ Corto alcance
 
 \begin_layout Itemize
 El piloto puede gastar una acción de piloto para repetir un dado cualquiera
- en una tirada de localización de daño.
+ del par utilizado en una tirada de localización de daño.
  El nuevo resultado será el definitivo y no podrá cambiarse a través del
  gasto de una nueva acción de piloto.
  
@@ -1473,7 +1473,7 @@ Un arma marcada como frágil puede romperse durante su uso.
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
-	filename /home/jhortelano/workspace/MechGame/Sheet/icons/jam.svg
+	filename ../Sheet/icons/jam.svg
 
 \end_inset
 
@@ -1497,7 +1497,7 @@ El arma se puede encasquillar si realiza más de un disparo por turno.
  objetivo, el arma se queda encasquillada y no podrá disparar el próximo
  turno.
  Evidentemente, esta propiedad solamente se aplica a los cañones y armas
- que utilizan casquillos de munición.
+ que utilizan munición con casquillos.
  
 \end_layout
 
@@ -1700,13 +1700,42 @@ Algunos disparos -como los de los lanzallamas- además de generar daño normal,
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/reroll.svg
+
+\end_inset
+
+ 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Volver a Tirar
+\end_layout
+
+\end_inset
+
+Volver a Tirar
+\end_layout
+
+\begin_layout Standard
+El arma permite volver a tirar uno de los dados de daño de la tirada de
+ daño.
+ La elección de que dado queda en manos del atacante.
+ En el caso de que aparezca un número al lado de este símbolo, significa
+ que se pueden volver a tirar tantos dados como indique el número, pero
+ todos estos dados deben volverse a tirar a la vez.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
-	filename /home/jhortelano/workspace/MechGame/Sheet/icons/command.svg
+	filename ../Sheet/icons/command.svg
 
 \end_inset
 
