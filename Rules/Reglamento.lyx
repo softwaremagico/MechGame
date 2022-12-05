@@ -1765,6 +1765,162 @@ Por ejemplo, el MorningStar tiene 2 puntos de comando en su ficha, por lo
  una tirada de localización de daños si están a corto alcance.
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/infantry.svg
+
+\end_inset
+
+Infanteria
+\end_layout
+
+\begin_layout Standard
+Esta unidad es una unidad compuesta por infantería y se aplican las reglas
+ descritas en la Sección 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Infanteria"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Infanteria"
+
+\end_inset
+
+Infanteria
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Infanteria
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../Sheet/icons/infantry.svg
+
+\end_inset
+
+La infanteria representa un pelotón de soldados armados, que se desplazan
+ por el campo de batalla enfrentándose valientemente a vehículos y mechs
+ muchos más grande que ellos.
+ Aunque en principio no tienen una gran potencia de fuego, son difíciles
+ de impactar por otros mechs debido a su reducido tamaño en comparación.
+ Además, una unidad bien organizada que dispara a un mismo objetivo puede
+ llegar a hacer un daño considerable dependiendo de su número.
+ 
+\end_layout
+
+\begin_layout Subsection
+Movimiento
+\end_layout
+
+\begin_layout Standard
+La infanteria tiene un movimiento como cualquier otra unidad.
+ Si bien, la infantería que no esté motorizada se considera que no puede
+ 
+\begin_inset Quotes eld
+\end_inset
+
+correr
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection
+Combate
+\end_layout
+
+\begin_layout Standard
+La infantería dispara en conjunto y el daño realizado siempre depende del
+ número de peanas disponibles que queden a la unidad.
+ Así una unidad de 5 peanas tirarán un dado de daño dependiendo del arma
+ y lo multiplicará por 5.
+ Haciendo los grandes batallones de infantería temibles en gran número.
+ Independientemente del arma utilizada, siempre se aplica el efecto de 
+\begin_inset Graphics
+	filename ../Sheet/icons/spread.svg
+
+\end_inset
+
+ Daño Disperso.
+ 
+\end_layout
+
+\begin_layout Standard
+La infanteria no sufre penalizaciones por el calor y se ignora en estas
+ unidades.
+ 
+\end_layout
+
+\begin_layout Subsection
+Defensa
+\end_layout
+
+\begin_layout Standard
+La infanteria puede tener defensa al igual que cualquier otro vehículo.
+ En el caso de la cobertura, tirará un dado extra que en comparación con
+ un vehículo.
+ 
+\end_layout
+
+\begin_layout Subsection
+Resistencia
+\end_layout
+
+\begin_layout Standard
+Cuando un mech quiere disparar a un pelotón de infantería, tira el daño
+ normalmente restando la defensa de la infanteria como en cualquier combate
+ normal.
+ Sin embargo, el atacante únicamente puede quitar tantas miniaturas de infanteri
+a si el daño iguala o supera el número de soldados por peana.
+ Es decir, una infanteria normal que tiene cinco soldados por peana, si
+ recibe 9 de daño, únicamente eliminará a una peana.
+ Si hubiera hecho 10 de daño, hubiera eliminado a dos.
+ El daño no se guarda entre disparos, por lo que en el ejemplo anterior
+ de 9 de daño, los 4 puntos restantes se pierden.
+ 
+\end_layout
+
+\begin_layout Standard
+Sin embargo, cuando un ataque se realiza con un arma anti infantería, siempre
+ se elimina una peana por daño o fracción.
+ Es decir, en el ejemplo de 9 de daño, se hubieran eliminado dos peanas
+ si el daño se hace con un lanzallamas.
+ También un daño de 6 hubiera elimintado dos peanas.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Localizaciones
+\end_layout
+
+\begin_layout Standard
+La infantería no tiene localizaciones.
+ Por lo que no es necesario tirar los dados de localizaciones.
+ Además no se le puede destruir un arma o parte, si bien el daño se va mermando
+ según el número de soldados disminuye.
+ 
+\end_layout
+
 \begin_layout Section
 Organizar una batalla
 \end_layout
