@@ -1828,10 +1828,20 @@ La infanteria representa un pelotón de soldados armados, que se desplazan
 
 \begin_layout Subsection
 Movimiento
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Movimiento
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-La infanteria tiene un movimiento como cualquier otra unidad.
+La infanteria tiene movimiento como cualquier otra unidad.
  Si bien, la infantería que no esté motorizada se considera que no puede
  
 \begin_inset Quotes eld
@@ -1842,6 +1852,37 @@ correr
 \end_inset
 
 .
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Cohesión
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cohesión
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Al unirse varias miniaturas para formar un pelotón, estas deben de guardar
+ un mínimo de cohesión.
+ Esto significa que todas las peanas deben de estar a un máximo de 2cms
+ de otra peana.
+ En caso de que estén dentro de escenografía, el máximo aumenta a 5 cms.
+ 
+\end_layout
+
+\begin_layout Standard
+Las unidades pueden dividirse en cualquier momento si así lo deseas.
+ Simplemente separa el grupo lo suficiente para romper su cohesión.
+ A partir de entonces serán considerados dos pelotones distintos que podrán
+ disparar a distintos objetivos.
  
 \end_layout
 
@@ -1865,25 +1906,103 @@ La infantería dispara en conjunto y el daño realizado siempre depende del
  
 \end_layout
 
+\begin_layout Subsubsection*
+Calor
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Calor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-La infanteria no sufre penalizaciones por el calor y se ignora en estas
+La infanteria no sufre penalizaciones por el calor y este se ignora en estas
  unidades.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Alcance
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Alcance
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Las unidades de infanteria tienen un alcance muy limitado.
+ Se considera que únicamente pueden disparar a corto alcance con sus armas.
+ Para medir la distancia, puedes usar cualquier peana de infanteria que
+ forme el pelotón.
+ Se considera que todos los disparos alcanzaran su objetivo si la peana
+ más cercana al objetivo está dentro del alcance.
  
 \end_layout
 
 \begin_layout Subsection
 Defensa
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Defensa
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 La infanteria puede tener defensa al igual que cualquier otro vehículo.
- En el caso de la cobertura, tirará un dado extra que en comparación con
- un vehículo.
+ Resuelvela normalmente
+\end_layout
+
+\begin_layout Subsubsection*
+Cobertura
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cobertura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En el caso de la cobertura, tirará un dado extra que en comparación con
+ cualquier otro vehículo o mech debido a su pequeño tamaño.
+ Si bien, para lanzar un mínimo de un dado la infanteria debe de contar
+ con algún elemento que le de cobertura.
  
 \end_layout
 
 \begin_layout Subsection
 Resistencia
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Resistencia
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1911,6 +2030,16 @@ Sin embargo, cuando un ataque se realiza con un arma anti infantería, siempre
 
 \begin_layout Subsubsection*
 Localizaciones
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Localizaciones
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
