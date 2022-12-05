@@ -137,14 +137,15 @@ Movimiento
 
 \begin_layout Standard
 El movimiento lo calculo con el valor de movimiento del mech orginal multiplicad
-o x2.
+o x2.5.
  El movimiento actual es en centímetros.
  En mi versión de juego, el movimiento genera calor y este además depende
  de la masa movida.
  Calcula el calor generado como las toneladas de peso del mech dividido
- entre 30 (y redondeado hacia arriba).
- Por ejemplo, un mech de 65 toneladas generará 3 de calor al mover y otros
- 3 de calor al correr haciendo un total de 6 de calor.
+ entre 35 (y redondeado hacia arriba).
+ Por ejemplo, un mech de 65 toneladas generará 2 de calor al mover y otros
+ 2 de calor al correr haciendo un total de 4 de calor.
+ Si pesara 75 toneladas el total de calor sería de 6.
  
 \end_layout
 
@@ -163,8 +164,8 @@ Defensa
 
 \begin_layout Standard
 El número de dados de defensa viene dado por el movimiento final dividido
- entre 5.
- En el caso de correr, sería movimiento dividido entre 2.5.
+ entre 6.
+ En el caso de correr, sería movimiento dividido entre 3.
  En ambos casos, redondea el valor al número más cercano.
 \end_layout
 
@@ -395,7 +396,7 @@ noprefix "false"
  Es decir, un blindaje de 2.67 serán redondeados a 3 puntos de blindaje en
  este sistema, mientras que un valor de 2.45 serán 2 puntos de blindaje.
  Sientete libre de compensar blindajes entre secciones para equilibrar o
- cambiar sus puntos de coste.
+ si lo prefieres ajusta sus puntos de coste.
  
 \end_layout
 
@@ -566,6 +567,17 @@ Todos los mechs pueden hacer un ataque de embestida.
 \begin_layout Standard
 Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
  ignoran la cobertura.
+ Además se consideran que son ataques anti infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+anti infantería
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1334,6 +1346,93 @@ Misiles tácticos.
 
 \end_layout
 
+\begin_layout Subsubsection*
+Lanzallamas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Lanzallamas
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Armas que escupen un chorro de fuego.
+ No tienen demasiado alcance pero tiene como especial que pueden aumentar
+ el calor del enemigo.
+ Además todos los lanzallamas se consideran anti infanteria
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+anti infanteria
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/Flamethrower.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Ametralladoras
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ametralladoras
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un arma muy tradicional aunque en versión más grande y eficiente.
+ En general dispara una gran cantidad de pequeños proyectiles que pueden
+ dañar el blindaje enemigo.
+ En comparación con otras armas no tienen mucho alcance, pero son muy utilizadas
+ para protegerse de la infanteria, ya que son anti infanteria
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+anti infanteria
+\end_layout
+
+\end_inset
+
+.
+ Son armas que no generan calor y por lo tanto siempre pueden ser disparadas.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/MachineGun.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Alcance
 \begin_inset Index idx
@@ -1893,16 +1992,27 @@ Combate
 \begin_layout Standard
 La infantería dispara en conjunto y el daño realizado siempre depende del
  número de peanas disponibles que queden a la unidad.
- Así una unidad de 5 peanas tirarán un dado de daño dependiendo del arma
- y lo multiplicará por 5.
+ Así una unidad de 5 miniaturas tirarán un dado de daño dependiendo del
+ arma y lo multiplicará por 5.
  Haciendo los grandes batallones de infantería temibles en gran número.
- Independientemente del arma utilizada, siempre se aplica el efecto de 
+ Debido al alto número de disparos que hace el pelotón, independientemente
+ del arma utilizada, siempre se aplica el efecto de 
 \begin_inset Graphics
 	filename ../Sheet/icons/spread.svg
 
 \end_inset
 
- Daño Disperso.
+ Daño Disperso
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daño Disperso
+\end_layout
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -2020,8 +2130,17 @@ a si el daño iguala o supera el número de soldados por peana.
 \end_layout
 
 \begin_layout Standard
-Sin embargo, cuando un ataque se realiza con un arma anti infantería, siempre
- se elimina una peana por daño o fracción.
+Sin embargo, cuando un ataque se realiza con un arma anti infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+anti infantería
+\end_layout
+
+\end_inset
+
+, siempre se elimina una peana por daño o fracción.
  Es decir, en el ejemplo de 9 de daño, se hubieran eliminado dos peanas
  si el daño se hace con un lanzallamas.
  También un daño de 6 hubiera elimintado dos peanas.
