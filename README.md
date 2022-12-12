@@ -32,7 +32,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Agromech MOD-B](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MOD-B.svg)
 
 
-![DI Schmitt](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/DI%20Schmitt%20CV.svg)
+![DI Schmitt](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/DI%20Schmitt.svg)
 ![MorningStar CV](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/MorningStar%20CV.svg)
 ![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)
 ![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)
