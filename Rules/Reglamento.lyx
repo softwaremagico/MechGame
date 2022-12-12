@@ -538,6 +538,22 @@ Cuerpo a Cuerpo
 
 \end_layout
 
+\begin_layout Standard
+Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
+ ignoran la cobertura.
+ Además se consideran que son ataques anti infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+anti infantería
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Subsubsection*
 Embestida
 \begin_inset Index idx
@@ -687,6 +703,16 @@ Un mech que disfruta de ambas bonificaciones, podrá elegir que dados tirar,
  Por ejemplo, un mech que corra para cubrise detrás de un edificio podrá
  elegir para cada disparo, si quiere utilizar sus dados de defensa o sus
  dados de cobertura, pero no ambos.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Cobertura e infanteria
+\end_layout
+
+\begin_layout Standard
+Si una unidad de infanteria (ya sea motorizada o no) disfruta de algun modificad
+or de cobertura, puede tirar además un dado extra de cobertura.
  
 \end_layout
 
