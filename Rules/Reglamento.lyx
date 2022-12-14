@@ -1892,6 +1892,45 @@ Por ejemplo, el MorningStar tiene 2 puntos de comando en su ficha, por lo
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/rotor.svg
+
+\end_inset
+
+Hélice
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Hélice
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El vehículo está propulsado por una hélice y por tanto vuela (VTOL
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+VTOL
+\end_layout
+
+\end_inset
+
+).
+ Esto signficia que el vehículo siempre está volando, dandole dos dados
+ más a la defensa (ya incluído en la ficha).
+ Por contra, a pesar de la pericia del piloto, lo tiene más difícil para
+ buscar cobertura, por lo que se reduce en un dado la bonificación por cobertura
+ del vehículo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/infantry.svg
 
 \end_inset
