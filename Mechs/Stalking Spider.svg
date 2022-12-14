@@ -146,11 +146,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6895161"
-     inkscape:cx="301.56564"
-     inkscape:cy="294.75896"
+     inkscape:zoom="2.3893366"
+     inkscape:cx="734.30425"
+     inkscape:cy="228.51531"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -1850,7 +1850,7 @@
            y="92.540512"
            x="-9.1432714"
            id="tspan1086-9-8"
-           sodipodi:role="line">10</tspan></text>
+           sodipodi:role="line">15</tspan></text>
       <g
          transform="translate(-51.099799,49.894967)"
          id="g881-7">
@@ -1882,7 +1882,7 @@
            y="92.540512"
            x="-0.80522591"
            id="tspan1086-8-5"
-           sodipodi:role="line">10</tspan></text>
+           sodipodi:role="line">15</tspan></text>
       <text
          id="text1088-0-9-9"
          y="92.521774"
@@ -1893,7 +1893,7 @@
            y="92.521774"
            x="17.185204"
            id="tspan1086-9-2-2"
-           sodipodi:role="line">20</tspan></text>
+           sodipodi:role="line">30</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
