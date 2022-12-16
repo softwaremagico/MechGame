@@ -37,6 +37,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)
 ![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)
 ![Hawk Moth II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Hawk%20Moth%20II.svg)
+![Donar Assault Helicopter](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Donar%20Assault%20Helicopter.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
