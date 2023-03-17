@@ -1854,6 +1854,41 @@ El arma permite volver a tirar uno de los dados de daño de la tirada de
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/no-infantry.svg
+
+\end_inset
+
+ Anti Infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Anti Infantería
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El arma es especialmente efectiva contra infantería.
+ Consulta los detalles en la sección 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Resistencia"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout
@@ -2167,6 +2202,12 @@ En el caso de la cobertura, tirará un dado extra que en comparación con
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Resistencia"
+
+\end_inset
+
 Resistencia
 \begin_inset Index idx
 status open
