@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="60.899571"
-     inkscape:cy="110.39705"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="68.059027"
+     inkscape:cy="126.74889"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,7 +80,7 @@
        id="rect2870" />
     <g
        id="g32216"
-       transform="translate(2.1724453)">
+       transform="matrix(1.3139737,0,0,1.3139737,-45.177517,-42.087929)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0661457, 0.0661457;stroke-dashoffset:0;stroke-opacity:1"
          d="m 157.2694,118.93694 c 0.23894,-0.95683 0.0286,-2.35676 1.16752,-2.78002 1.34899,-0.51714 1.99664,1.498 1.33403,2.38847"
