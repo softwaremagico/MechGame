@@ -2337,6 +2337,17 @@ Organizar una batalla
 Generando tu lanza
 \end_layout
 
+\begin_layout Standard
+Ponte de acuerdo con tu adversario sobre cuantos puntos tenéis para componer
+ vuestro ejército.
+ Un ejemplo sería por ejemplo 200 puntos por bando para partidas de una
+ hora.
+ Utiliza estos puntos para escoger las unidades que compondrán tu ejército.
+ Bajo ningún concepto puedes superar el valor en puntos, aunque siempre
+ puedes tener menos puntos de los pactados.
+ 
+\end_layout
+
 \begin_layout Subsubsection*
 Terreno de juego
 \end_layout
@@ -2415,6 +2426,155 @@ Modo
 \end_inset
 
 Trifulca
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Escenarios"
+
+\end_inset
+
+Escenarios
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Escenarios
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un conjunto de escenarios que te permiten variar tus partidas para hacerlas
+ más interesantes.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Asalto al Convoy
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Asalto al Convoy
+\end_layout
+
+\end_inset
+
+ (1v1)
+\end_layout
+
+\begin_layout Standard
+En el escenario de convoy, uno de los bandos despliega en el centro de la
+ mesa como si estuviera viajando.
+ El bando asaltante coloca la escenografía a su gusto y puede desplegar
+ sus mechs a cualquier punto a 50 cm o más del convoy o hasta 20 cm o más
+ si está fuera de visión de este.
+\end_layout
+
+\begin_layout Standard
+El bando del convoy tiene un 50% más de puntos para la creación de su ejército.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Proteger al VIP
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Proteger al VIP
+\end_layout
+
+\end_inset
+
+ (Solitario)
+\end_layout
+
+\begin_layout Standard
+Uno de los vehículos de un bando debe ser protegido a toda costa.
+ El vehículo debe tener un perfil bajo militar y debe ser significativo
+ (como por ejemplo, un cuartel general móvil).
+ El atacante gana si destruye el objetivo a proteger, mientras que el defensor
+ gana si destruye todas las unidades enemigas.
+ 
+\end_layout
+
+\begin_layout Standard
+Si se juega este escenario en solitario, tu estarás en el bando que debe
+ proteger al VIP y simplemente mueve las unidades enemigas lo más rápido
+ posible hacia el objetivo que intentas proteger.
+ Los mechs enemigos siempre intentarán disparar al VIP si le es posible,
+ salvo que hayan recibido daño de un disparo ese turno de algún enemigo,
+ en cuyo caso devolverán el fuego.
+ En el caso de que esto último resulte imposible, disparará al enemigo más
+ cercano.
+ Si un turno no han recibido daño alguno del enemigo, volverá a disparar
+ al VIP si es posible.
+\end_layout
+
+\begin_layout Standard
+Para equilibrar las tornas, el bando que tiene que proteger al VIP tiene
+ un 50% más de puntos a la hora de realizar su ejército.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Oleada Zombie
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Oleada Zombie
+\end_layout
+
+\end_inset
+
+ (1v1, Solitario)
+\end_layout
+
+\begin_layout Standard
+Este es un escenario no demasiado realista, aunque muy divertido.
+ Un bando escoge un par de mechs únicamente (lo llamaremos el bando normal).
+ El bando zombie escoge mechs de bajo valor, como Agromechs, mechs industriales,
+ etc.
+ pero en ningun caso militares (y especialmente escoge mechs con ataques
+ cuerpo a cuerpo).
+ Ambos bandos tienen los mismos puntos a la hora de generar su ejército,
+ pero se desaconseja el uso de vehículos que no sean mechs para este escenario.
+ 
+\end_layout
+
+\begin_layout Standard
+Escoge un objetivo a mitad del campo de batalla -la cura-, y márcalo de
+ alguna manera.
+ Puede ser un edificio, un vehículo inmobilizado, etc.
+ Mientras no exista ningún mech del bando normal en contacto con este objetivo,
+ la oleada zombie estará en activo, lo que significa que aunque un mech
+ zombie sea destruído, este aparece de nuevo por su lado de la mesa en su
+ próximo turno.
+ Si mantienes un mech en contacto con el objetivo, la oleada zombie estará
+ desactivada y en el caso de que un mech zombie sea destruído, no volverá
+ a aparecer.
+ Sin embargo, si dejas de tener mechs protegiendo el objetivo, automáticamente
+ la oleada vuelve a estar en activo ¡y todos los mechs zombies destruídos
+ aparecerán inmediatamente!
+\end_layout
+
+\begin_layout Standard
+El bando zombie ganará si es capaz de eliminar los mechs del bando normal
+ o si uno de los zombies alcanza el objetivo (se supone que lo destruye).
+ 
+\end_layout
+
+\begin_layout Standard
+El bando normal ganará, si es capaz de mantener un mech en el objetivo central
+ y eliminar todos los mechs del bando contrario.
+ 
 \end_layout
 
 \begin_layout Standard
