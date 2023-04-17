@@ -1889,6 +1889,61 @@ noprefix "false"
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/repair.svg
+
+\end_inset
+
+Reparar
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Reparar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Más que un arma es un artilugio que permite realizar reparaciones urgentes
+ en mitad del campo de batalla, permitiendo reparar un único punto de armadura
+ a cada una de las secciones del mech que todavía no hayan sido destruídas.
+ La estructura interna no puede ser reparada y aquellas secciones que hayan
+ sido completamente destruídas tampoco.
+ Tampoco se puede superar el máximo de armadura de otro vehículo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/grapple.svg
+
+\end_inset
+
+Agarrar
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Agarrar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Una extremidad de la unidad permite levantar objetos pesados aunque no otros
+ vehículos.
+ La utilidad de esta acción depende del tipo de partida que se esté jugando.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout
@@ -1961,60 +2016,6 @@ VTOL
  Por contra, a pesar de la pericia del piloto, lo tiene más difícil para
  buscar cobertura, por lo que se reduce en un dado la bonificación por cobertura
  del vehículo.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/repair.svg
-
-\end_inset
-
-Reparar
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Reparar
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-El vehículo tiene algún artilugio que permite realizar reparaciones urgentes
- en mitad del campo de batalla, permitiendo reparar un único punto de armadura
- a cada una de las secciones del mech que todavía no hayan sido destruídas.
- La estructura interna no puede ser reparada y aquellas secciones que hayan
- sido completamente destruídas tampoco.
- Tampoco se puede superar el máximo de armadura de otro vehículo.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/grapple.svg
-
-\end_inset
-
-Agarrar
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Agarrar
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Es posible levantar objetos pesados aunque no otros vehículos.
- La utilidad de esta acción depende del tipo de partida que se esté jugando.
  
 \end_layout
 
