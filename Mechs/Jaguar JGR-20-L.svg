@@ -146,16 +146,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3893366"
-     inkscape:cx="662.73626"
-     inkscape:cy="204.24079"
+     inkscape:zoom="1.6895161"
+     inkscape:cx="475.57996"
+     inkscape:cy="286.7685"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:snap-global="false"
@@ -1579,7 +1579,7 @@
     </g>
     <g
        id="g3469"
-       transform="matrix(1.3508524,0,0,1.3508524,109.42865,26.317152)">
+       transform="matrix(1.1628399,0,0,1.1628399,108.98172,28.719809)">
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -1659,7 +1659,7 @@
       <path
          inkscape:connector-curvature="0"
          id="rect903-3"
-         d="m 3.3043739,0.96378411 c 0,0 -0.92176,0.0826 -1.6089098,0.21582999 l -0.0332,-0.18603999 c -0.058,-0.0276 -0.2491999,-0.0438 -0.3154299,0.0557 l 0.0352,0.19825 c -0.2257599,0.058 -0.38691005,0.12321 -0.41407005,0.19336 -0.1554699,0.33655 -0.23832,0.52868 -0.2773399,1.03664 l 2.75101965,-0.32423 c 0.009,-0.25228 -0.0111,-1.05431 -0.13721,-1.18946995 z"
+         d="m 3.3043739,0.96378411 c 0,0 -0.92176,0.0826 -1.6089098,0.21582999 l -0.0332,-0.18603999 c -0.058,-0.0276 -0.2491999,-0.0438 -0.3154299,0.0557 l 0.0352,0.19825 c -0.2257599,0.058 -0.38691005,0.12321 -0.41407005,0.19336 -0.1554699,0.33655 -0.23832,0.52868 -0.2773399,1.03664 l 2.75101965,-0.32423 c 0.009,-0.25228 -0.0111,-1.05431 -0.13721,-1.18946993 z"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.213471;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          transform="matrix(-0.93713779,0.12084395,0.12084395,0.93713779,123.41889,-138.05622)"
