@@ -206,8 +206,8 @@ Este es el cálculo más complejo.
 <lyxtabular version="3" rows="5" columns="3">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -247,13 +247,13 @@ Torso Central
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell multirow="3" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size tiny
-(EI cabeza + EI Torso Central)*0.15+(1 mech pequeño, 2 mech medio, 3 mech
+(EI cabeza + EI Torso Central)*0.15 + (1 mech pequeño, 2 mech medio, 3 mech
  pesado, 4 asalto)
 \end_layout
 
@@ -266,8 +266,8 @@ Torso Central
 
 \size tiny
 ((EI cabeza + EI Torso Central + B cabeza + B Torso Central +B Trasero Torso
- Central)*0.15 (1 mech pequeño, 2 mech medio, 3 mech pesado, 4 asalto)) -
- EI Torso Central
+ Central)*0.15 + (1 mech pequeño, 2 mech medio, 3 mech pesado, 4 asalto))
+ - EI Torso Central
 \end_layout
 
 \end_inset
@@ -377,6 +377,10 @@ EI Pierna * 0.15
 
 \end_inset
 
+
+\backslash
+
+\backslash
 
 \end_layout
 
@@ -546,7 +550,7 @@ Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
 status open
 
 \begin_layout Plain Layout
-anti infantería
+Anti Infantería
 \end_layout
 
 \end_inset
@@ -890,7 +894,7 @@ Defensa
 status open
 
 \begin_layout Plain Layout
-Sistema antimisiles
+Sistema Antimisiles
 \end_layout
 
 \end_inset
@@ -1182,6 +1186,112 @@ Tipos
 \end_layout
 
 \begin_layout Subsubsection*
+Láser
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Láser
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un arma que lanza un haz de luz muy energético que permite derretir incluso
+ los blindajes más pesados.
+ Dado que el haz de luz es completamente recto y tiene una duración de algunas
+ décimas de segundo, resulta muy fácil apuntar con este.
+ Sin embargo, pierde efectividad con la distancia.
+ 
+\end_layout
+
+\begin_layout Itemize
+Láse Convencional
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Láse Convencional
+\end_layout
+
+\end_inset
+
+.
+ El módelo más habitual de este arma.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeLaser.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Láser de Alcance Extendido
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Láser de Alcance Extendido
+\end_layout
+
+\end_inset
+
+.
+ Tiene mayor alcance pero genera más calor que el modelo anterior.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeLaserER.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Láser de Pulsos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Láser de Pulsos
+\end_layout
+
+\end_inset
+
+.
+ Concentra el haz en pequeños pulsos que permiten concentrar el daño y perforar
+ mejor los blindajes.
+ Sin embargo generan más calor que la versión básica.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargePulseLaser.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
 \begin_inset Index idx
 status open
 
@@ -1209,10 +1319,107 @@ nte cerca del objetivo para causar daño.
  
 \end_layout
 
+\begin_layout Itemize
+Cañón
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón Convencional
+\end_layout
+
+\end_inset
+
+.
+ El modelo habitual de cañón.
+\end_layout
+
 \begin_layout Standard
 \align center
 \begin_inset Graphics
 	filename ../Sheet/Weapons/LargeCannon.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cañón Ligero
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón Ligero
+\end_layout
+
+\end_inset
+
+.
+ Pesa menos que el modelo convenciónal, pero tiene menos alcance.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LightLargeCannon.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cañon Doble
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañon Doble
+\end_layout
+
+\end_inset
+
+.
+ Básicamente son dos cañones juntos que comparten varios de sus componentes
+ para reducir el peso.
+ Son propensos a encasquillarse.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/DoubleLargeCannon.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cañón Rotatorio
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cañón Rotatorio
+\end_layout
+
+\end_inset
+
+.
+ Varios cañones que giran a gran velocidad para tener un arma que suma todos
+ sus disparos.
+ Son propensos a encasquillarse.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeRotatoryCannon.svg
 	scale 60
 
 \end_inset
@@ -1314,7 +1521,17 @@ Armas que en general son soportes para proyectiles autopropulsados.
 \end_layout
 
 \begin_layout Itemize
-Misiles de corto alcance.
+Misiles de Corto Alcance
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles de Corto Alcance
+\end_layout
+
+\end_inset
+
+.
  Misiles que vuelan normalmente en línea recta.
  No tienen demasiado alcance pero suelen hacer más daño por misil que otras
  versiones.
@@ -1332,7 +1549,45 @@ Misiles de corto alcance.
 \end_layout
 
 \begin_layout Itemize
-Misiles de largo alcance.
+Misiles de Ataque
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles de Ataque
+\end_layout
+
+\end_inset
+
+.
+ Misiles similares a los de corto alcance, pero con sistema de guía mejorado
+ que permite optimizar su puntería.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeStreakSRM.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Misiles de Largo Alcance
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles de Largo Alcance
+\end_layout
+
+\end_inset
+
+.
  Misiles de largo alcance que sobrevuelan grandes distancias buscando a
  su objetivo.
  Son más ligeros y realizan menor daño que otras versiones.
@@ -1353,7 +1608,17 @@ Misiles de largo alcance.
 \end_layout
 
 \begin_layout Itemize
-Misiles tácticos.
+Misiles Tácticos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles Tácticos
+\end_layout
+
+\end_inset
+
+.
  Mísiles que utilizan parte de su combustible como explosivo al detonar.
  Por lo que cuanto mayor es la distancia recorrida, menor es el daño causado.
  Debido a que necesitan un tiempo para establecer el blanco enemigo, no
@@ -1452,6 +1717,141 @@ anti infanteria
 \align center
 \begin_inset Graphics
 	filename ../Sheet/Weapons/MachineGun.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Rifle Gauss
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Rifle Gauss
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un arma compuesta por electroimanes que es capaz de lanzar proyectiles pesados
+ a muy alta velocidad.
+ Genera muy poco calor pero es un arma frágil debido a la tremenda energía
+ que canaliza.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/GaussRifle.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Armas Cuerpo a Cuerpo
+\end_layout
+
+\end_inset
+
+Armas cuerpo a cuerpo
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cuerpo a Cuerpo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Armas -habitualmente improvisadas- que permiten aumentar el daño de la unidad
+ cuando llega a una distancia de contacto (menor a 5cms).
+ Existen muchos modelos pero la mayoría son semejantes.
+\end_layout
+
+\begin_layout Itemize
+Sierras
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sierras
+\end_layout
+
+\end_inset
+
+, garras
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Garras
+\end_layout
+
+\end_inset
+
+, espadas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Espadas
+\end_layout
+
+\end_inset
+
+, etc.
+ Armás que simplemente mejoran la efectividad de la unidad cuerpo a cuerpo.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/Saw.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Pinzas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Pinzas
+\end_layout
+
+\end_inset
+
+.
+ Aparte de añadir un poco de daño, permiten levantar pesos y transportarlos.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/GripperArm.svg
 	scale 60
 
 \end_inset
@@ -2296,7 +2696,7 @@ Sin embargo, cuando un ataque se realiza con un arma anti infantería
 status open
 
 \begin_layout Plain Layout
-anti infantería
+Anti Infantería
 \end_layout
 
 \end_inset
@@ -2332,6 +2732,63 @@ La infantería no tiene localizaciones.
 
 \begin_layout Section
 Organizar una batalla
+\end_layout
+
+\begin_layout Subsubsection*
+Unidades
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Unidades
+\end_layout
+
+\end_inset
+
+, mechs
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Mechs
+\end_layout
+
+\end_inset
+
+, vehículos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Vehículos
+\end_layout
+
+\end_inset
+
+ e infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Infantería
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Denominamos mech, a cualquier robot humanoide, que le da el nombre a este
+ juego.
+ Un vehículo es un coche, tanque, aerodeslizador u otro artilugio sin extremidad
+es móviles.
+ Por infanteria entendemos a un grupo de soldados, armas desplegadas, motos,
+ etc.
+ que tienen pequeño tamaño y no están fuertemente blindados.
+ Por último, cuando nos referimos a unidad, puede ser tanto un mech, como
+ un vehículo o infantería.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -2525,12 +2982,12 @@ Para equilibrar las tornas, el bando que tiene que proteger al VIP tiene
 \end_layout
 
 \begin_layout Subsubsection*
-Oleada Zombie
+Oleada Metálica
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Oleada Zombie
+Oleada Metálica
 \end_layout
 
 \end_inset
@@ -2541,34 +2998,31 @@ Oleada Zombie
 \begin_layout Standard
 Este es un escenario no demasiado realista, aunque muy divertido.
  Un bando escoge un par de mechs únicamente (lo llamaremos el bando normal).
- El bando zombie escoge mechs de bajo valor, como Agromechs, mechs industriales,
- etc.
- pero en ningun caso militares (y especialmente escoge mechs con ataques
- cuerpo a cuerpo).
- Ambos bandos tienen los mismos puntos a la hora de generar su ejército,
- pero se desaconseja el uso de vehículos que no sean mechs para este escenario.
+ El bando de la oleada escoge mechs o vehículos con un valor inferior a
+ 20 puntos.
+ Ambos bandos tienen los mismos puntos a la hora de generar su ejército.
  
 \end_layout
 
 \begin_layout Standard
-Escoge un objetivo a mitad del campo de batalla -la cura-, y márcalo de
- alguna manera.
+Escoge un objetivo a mitad del campo de batalla y márcalo de alguna manera.
  Puede ser un edificio, un vehículo inmobilizado, etc.
- Mientras no exista ningún mech del bando normal en contacto con este objetivo,
- la oleada zombie estará en activo, lo que significa que aunque un mech
- zombie sea destruído, este aparece de nuevo por su lado de la mesa en su
- próximo turno.
- Si mantienes un mech en contacto con el objetivo, la oleada zombie estará
- desactivada y en el caso de que un mech zombie sea destruído, no volverá
- a aparecer.
+ Mientras no exista ninguna unidad del bando normal en contacto con este
+ objetivo, la oleada estará en activo, lo que significa que aunque un mech
+ del bando de la oleada sea destruído, este aparece de nuevo por su lado
+ de la mesa en su próximo turno.
+ Si mantienes un mech en contacto con el objetivo o a menos de 5 cms, la
+ oleada estará desactivada y en el caso de que un mech sea destruído, no
+ volverá a aparecer.
  Sin embargo, si dejas de tener mechs protegiendo el objetivo, automáticamente
- la oleada vuelve a estar en activo ¡y todos los mechs zombies destruídos
- aparecerán inmediatamente!
+ la oleada vuelve a estar en activo ¡y todos los mechs del bando de la oleada
+ anteriomente destruídos aparecerán inmediatamente!
 \end_layout
 
 \begin_layout Standard
-El bando zombie ganará si es capaz de eliminar los mechs del bando normal
- o si uno de los zombies alcanza el objetivo (se supone que lo destruye).
+El bando de la oleada ganará si es capaz de eliminar los mechs del bando
+ normal o si una de sus unidades alcanza el objetivo y se situa a menos
+ de 5 cms (se supone que lo destruye).
  
 \end_layout
 
