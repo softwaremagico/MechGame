@@ -146,11 +146,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1946683"
-     inkscape:cx="619.83732"
-     inkscape:cy="611.4668"
+     inkscape:zoom="2.3893366"
+     inkscape:cx="392.78685"
+     inkscape:cy="171.38648"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
@@ -1236,6 +1236,17 @@
        height="9.5355482"
        x="239.78505"
        y="127.21781" />
+    <rect
+       style="vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.132514;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect860"
+       width="9.4007139"
+       height="0"
+       x="78.567757"
+       y="21.10059" />
+    <path
+       id="rect926-3"
+       style="fill:#000000;stroke-width:0.154071;stroke-linecap:round;stop-color:#000000"
+       d="m 82.685476,-0.38317934 c -0.173618,0.00875 -0.310892,0.1514618 -0.310892,0.3273272 V 7.6479585 c 0,0.181538 0.145788,0.327326 0.327326,0.327326 h 5.34131 c 0.181538,0 0.328011,-0.145788 0.328011,-0.327326 v -7.70381064 c 0,-0.1815384 -0.146473,-0.3273272 -0.328011,-0.3273272 h -5.34131 c -0.0057,0 -0.01087,-2.823e-4 -0.01643,0 z m 2.687089,3.02057964 a 1.1587383,1.1587383 0 0 1 1.159338,1.1586529 1.1587383,1.1587383 0 0 1 -1.159338,1.158653 1.1587383,1.1587383 0 0 1 -1.158653,-1.158653 1.1587383,1.1587383 0 0 1 1.158653,-1.1586529 z" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3033,6 +3044,19 @@
          cy="164.30341"
          r="0.87442946" />
     </g>
+    <ellipse
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.116268;stroke-linecap:round;stop-color:#000000"
+       id="path2135-7"
+       cx="89.576942"
+       cy="22.550837"
+       rx="0.52788025"
+       ry="0.56230849" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:0.12;stroke-linecap:round;stop-color:#000000"
+       id="path4352-5"
+       cx="89.576942"
+       cy="22.550837"
+       r="0.87442946" />
   </g>
   <g
      inkscape:groupmode="layer"
