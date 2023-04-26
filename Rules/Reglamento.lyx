@@ -2421,6 +2421,46 @@ VTOL
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/shield.svg
+
+\end_inset
+
+Escudo
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Escudo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El mech sujeta un escudo tradicional en una de sus manos, lo que lo defiende
+ de todos los ataques frontales.
+ Cada vez que reciba un ataque frontal, no tires 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Localizaciones
+\end_layout
+
+\end_inset
+
+ localización de daño, sino que aplica directamente el daño al escudo.
+ Una vez el escudo se queda sin puntos de blindaje, se considera destruído
+ y el daño restante y subsiguiente se aplicará en las localizaciones normalmente.
+ El blindaje del escudo depende de su tamaño: 5 para los escudos pequeños,
+ 10 para los medianos y 15 para los grandes.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/infantry.svg
 
 \end_inset
