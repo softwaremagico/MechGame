@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Centurion.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    id="svg8"
    version="1.1"
    viewBox="0 0 34.98301 52.516205"
    height="52.516205mm"
-   width="34.983009mm">
+   width="34.983009mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="76.426728"
-     inkscape:cy="81.402001"
+     inkscape:zoom="2"
+     inkscape:cx="209.25"
+     inkscape:cy="177.75"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1848"
+     inkscape:window-width="1846"
      inkscape:window-height="1016"
-     inkscape:window-x="72"
+     inkscape:window-x="74"
      inkscape:window-y="1107"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -42,7 +42,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="false"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -182,6 +183,16 @@
        d="m 158.30997,121.19725 c 0,0 0.33393,-0.0119 0.37879,0.0221 -0.028,0.0286 -0.0486,0.40116 -0.0284,0.47298 -0.0292,0.006 -0.39369,-0.0353 -0.39369,-0.0353 -0.13447,-0.0395 -0.10286,-0.3677 0.0433,-0.45978 z"
        id="rect1932-2"
        inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect9914"
+       style="stroke-width:0.416695;stroke-linejoin:round"
+       d="m 150.27942,119.27063 1.26045,0.0182 -0.0999,1.28577 h -1.16051 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect9914-9"
+       style="stroke-width:0.416695;stroke-linejoin:round"
+       d="m 156.97103,119.27063 -1.26045,0.0182 0.0999,1.28577 h 1.16051 z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

@@ -23,6 +23,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)
 ![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)
 ![Centurion](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Centurion.svg)
+![Centurion Gladiator](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Centurion%20Gladiator.svg)
 ![Avalanche](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Avalanche.svg)
 ![Stalking Spider](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellstar.svg)
 ![Zeus](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Zeus.svg)
@@ -31,6 +32,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 ![Agromech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II%20MOD.svg)
 ![Agromech MOD-B](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MOD-B.svg)
 ![SalvageMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/SalvageMech.svg)
+![MiningMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/MiningMech%20MOD.svg)
 ![ConstructionMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ConstructionMech.svg)
 
 
