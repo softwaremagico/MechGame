@@ -2344,6 +2344,32 @@ Una extremidad de la unidad permite levantar objetos pesados aunque no otros
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/oneShoot.svg
+
+\end_inset
+
+Un Disparo
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Un Disparo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El arma tiene munición para un único disparo.
+ Significa que una vez se utilice el arma, esta quedará inutilizada para
+ el resto de la batalla.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout

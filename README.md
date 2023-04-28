@@ -37,6 +37,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 
 
 ![DI Schmitt](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/DI%20Schmitt.svg)
+![Behemoth II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Behemoth%20II.svg)
 ![MorningStar CV](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/MorningStar%20CV.svg)
 ![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)
 ![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)
