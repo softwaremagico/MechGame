@@ -529,6 +529,12 @@ Disparo
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Cuerpo-a-Cuerpo"
+
+\end_inset
+
 Cuerpo a Cuerpo
 \begin_inset Index idx
 status open
@@ -543,9 +549,19 @@ Cuerpo a Cuerpo
 \end_layout
 
 \begin_layout Standard
-Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
- ignoran la cobertura.
- Además se consideran que son ataques anti infantería
+Los ataques de embestida, golpe y cualquier otro ataque con un arma cuerpo
+ a cuerpo siempre ignoran la cobertura 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+.
+ Además algunos de ellos consideran que son ataques anti infantería
 \begin_inset Index idx
 status open
 
@@ -573,26 +589,48 @@ Embestida
 \end_layout
 
 \begin_layout Standard
-Todos los mechs pueden hacer un ataque de embestida.
+Este es el ataque básico para cualquier mech.
  Esta acción consiste en lanzar toda la masa de tu mech contra el mech enemigo,
  en un intento de causarle más daños a este que a ti mismo.
- Tira un dado de combate cuerpo a cuerpo (negro), resta todas las defensas
- de tu enemigo y el resultado final es el daño que se causan ambos mechs.
- Tira por separado la localización de daños por cada mech involucrado para
- ver que áreas son las afectadas por el daño.
- Este ataque necesita que los dos mechs estén en contacto.
+ Para poder realizar el ataque, el mech atacante debe correr hacia el enemigo
+ en linea recta (debe moverse más que la distancia de movimiento básica)
+ y quedarse contacto con contacto con la figura objetivo, momento en el
+ que se interrumpe el movimiento por el golpe.
  
 \end_layout
 
 \begin_layout Standard
-Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
- ignoran la cobertura.
- Además se consideran que son ataques anti infantería
+Para calcular el daño, tira dos dados de combate cuerpo a cuerpo (negro),
+ resta todas las defensas de tu enemigo y el resultado final es el daño
+ que se le causa.
+ Debes tirar los dados de localizaciones como en cualquier otro ataque.
+ Sin embargo, el atacante también recibe daño por el golpe, por lo que debes
+ lanzar un dado negro y aplicarte el daño íntegro (sin dados de defensa
+ por correr) en la localización que tu elijas.
+ A fin de cuentas, es el atacante el que elije con qué parte de su mech
+ realiza el ataque (brazo, torso, pierna, etc).
+ 
+\end_layout
+
+\begin_layout Standard
+Ten en cuenta que dado que el atacante se queda en contacto con el enemigo,
+ y la mayoría de armas tienen alcance 1, no podrá realizar ningún otro ataque.
+ Además, como se debe correr en línea recta al menos una distancia de movimiento
+ superior al equivalente de andar para considerar que está corriendo, solamente
+ podrás realizar un ataque de embestida cada dos turnos, ya que el mech
+ deberá alejarse para coger carrerilla en un turno y volver a embestir al
+ siguiente.
+ 
+\end_layout
+
+\begin_layout Standard
+Recuerda que los ataques de embestida y como cualquier otro ataque con un
+ arma cuerpo a cuerpo ignoran la cobertura
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-anti infantería
+Ignora Cobertura
 \end_layout
 
 \end_inset
@@ -600,6 +638,125 @@ anti infantería
 .
 \end_layout
 
+\begin_layout Subsubsection*
+Golpe
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Golpe
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un ataque cuerpo a cuerpo más sencillo que cualquier mech puede utilzar
+ también.
+ Consiste en usar una extremidad de este y lanzarla contra el enemigo para
+ causarle el mayor daño posible.
+ Para ello, debes de estar contacto peana con peana con el enemigo como
+ podría pasar después de una embestida.
+ 
+\end_layout
+
+\begin_layout Standard
+Tira un dado negro y resta los dados de defensa del enemigo, el resultado
+ obtenido será el daño que recibirán los dos mechs, tanto el atacante como
+ el defensor.
+ La diferencia es que tendrás que tirar los dados de localizaciones para
+ ver donde golpeas al defensor, mientras que el atacante elige en que extremidad
+ -brazo o pierna- recibe el daño.
+ 
+\end_layout
+
+\begin_layout Standard
+No se puede realizar un ataque de golpe el mismo turno que se realiza un
+ ataque de embestida, si bien puedes correr hacia un mech y no embestirlo
+ para poder realizar un golpe.
+ 
+\end_layout
+
+\begin_layout Standard
+Además de ignorar cobertura
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+, el golpe se considera que es un ataque anti infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Anti Infantería
+\end_layout
+
+\end_inset
+
+ y anti vehículos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Anti Vehículos
+\end_layout
+
+\end_inset
+
+.
+ En el caso de atacar un vehículo, el vehículo recibe el doble de daño que
+ el mech.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Armas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Armas
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Algunos mechs disponen de armas de combate cuerpo a cuerpo.
+ Mira las características del arma para saber el daño causado.
+ Cuando un mech ataca con un arma cuerpo a cuerpo contra un enemigo, el
+ atacante no recibe daño alguno ya que las armas están preparadas para el
+ ataque.
+ Recuerda que los ataques con un arma cuerpo a cuerpo ignoran la cobertura
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Además, cuando se operan armas de combate, el mech necesita realizar movimientos
+ complejos que generan calor.
+ Por lo que revisa las características del arma para saber cuanto calor
+ genera.
+ 
+\end_layout
+
 \begin_layout Subsubsection
 Defensa
 \begin_inset Index idx
@@ -612,6 +769,52 @@ Defensa
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+La defensa de una unidad viene dada principalmente por la velocidad de movimient
+o.
+ Según lo rápido que te desplaces te será más fácil o difícil impactarte
+ con un ataque.
+ Normalmente las unidades tienen dos valores de defensa.
+ El primero corresponde al vehículo cuando está 
+\begin_inset Quotes eld
+\end_inset
+
+andando
+\begin_inset Quotes erd
+\end_inset
+
+ y el segundo si ha hecho una acción de 
+\begin_inset Quotes eld
+\end_inset
+
+correr
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Las unidades detenidas no disponen de defensa, ya que son un blanco estático.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Vehículos voladores y mech con capacidad de salto
+\end_layout
+
+\begin_layout Standard
+Los vehículos suspendidos en el aire tienen una mayor maniobrabilidad y
+ son blancos más difíciles de impactar.
+ Por lo que tienen una bonoficación de dos dados a su defensa, que excepcionalme
+nte se aplica aunque no se hayan movido siempre que estén suspendidos en
+ el aire.
+ Habitualmente esta bonificación ya aparece reflejada en la ficha en los
+ vehículos voladores o se indica como opción en los mechs con capacidad
+ de salto.
 \end_layout
 
 \begin_layout Subsubsection
@@ -629,8 +832,9 @@ Cobertura
 \end_layout
 
 \begin_layout Standard
-Los ataques de embestida y cualquier otro ataque con un arma cuerpo a cuerpo
- ignoran la cobertura.
+El vehículo, infantería o mech puede agazaparse detrás de un objeto lo suficient
+emente grande a su tamaño para que le de algo de protección.
+ Según la superficie cubierta, la protección cambiará:
 \end_layout
 
 \begin_layout Subsubsection*
@@ -695,6 +899,18 @@ Cobertura total envolvente
 El mech está dentro de un refugio, que lo cubre completamente.
  Es incapaz de atacar pero resulta imposible que le ataquen.
  Un ejemplo sería un mech que está dentro de un hangar con las puertas cerradas.
+ No se ve afectado por ataques que ignoran cobertura 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+ ya que no es posible alcanzar el interior del refugio.
+ 
 \end_layout
 
 \begin_layout Subsubsection
@@ -711,7 +927,7 @@ Un mech que disfruta de ambas bonificaciones, podrá elegir que dados tirar,
 \end_layout
 
 \begin_layout Subsubsection
-Cobertura e infanteria
+Cobertura e infantería
 \end_layout
 
 \begin_layout Standard
@@ -1291,6 +1507,26 @@ Láser de Pulsos
 
 \end_layout
 
+\begin_layout Itemize
+Láser Pesado.
+ Un haz más grueso que transmite más energía pero se dispersa un poco más.
+ Habitualmente causando más daño que sus equivalentes normales, pero generando
+ más calor.
+ Además son más pesados como indica su nombre.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/HeavyLargeLaser.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection*
 \begin_inset Index idx
 status open
@@ -1414,6 +1650,8 @@ Cañón Rotatorio
  Varios cañones que giran a gran velocidad para tener un arma que suma todos
  sus disparos.
  Son propensos a encasquillarse.
+ Debido a su gran peso solo los vehículos más grandes pueden utilizarlos.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1608,6 +1846,36 @@ Misiles de Largo Alcance
 \end_layout
 
 \begin_layout Itemize
+Misiles de Medio Alcance
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Misiles de Medio Alcance
+\end_layout
+
+\end_inset
+
+.
+ Misiles con un alcance inferior a los de largo alcance y que no son guiados.
+ Por tanto no ofrecen bonificaciones contra cobertura.
+ A cambio son misiles que pesan menos y pueden ser equipados en vehículos
+ de menor tamaño.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeMRM.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 Misiles Tácticos
 \begin_inset Index idx
 status open
@@ -1637,6 +1905,67 @@ Misiles Tácticos
 
 \end_layout
 
+\begin_layout Itemize
+Thunderbolt
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Thunderbolt
+\end_layout
+
+\end_inset
+
+.
+ Un misil único que se dispara a largo alcance.
+ Similar a los misiles de largo alcance, pero en vez de ser un enjambre
+ de misiles, es un único misil.
+ Por lo que el daño no se reparte entre distintas localizaciones.
+ Puede ser derribado por sistemas anti misiles de forma habitual.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/Thunderbolt.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cohetes
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cohetes
+\end_layout
+
+\end_inset
+
+.
+ Los cohetes son semejantes a misiles no guiados en el que se dispara un
+ enjambre de proyectiles al enemigo con esperanza de causarle daño.
+ Se utilizan como cualquier otro misil, salvo que tienen un único disparo,
+ ya que no tienen sistema de recarga.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/LargeRocketLauncher.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection*
 Lanzallamas
 \begin_inset Index idx
@@ -1655,12 +1984,12 @@ Lanzallamas
 Armas que escupen un chorro de fuego.
  No tienen demasiado alcance pero tiene como especial que pueden aumentar
  el calor del enemigo.
- Además todos los lanzallamas se consideran anti infanteria
+ Además todos los lanzallamas se consideran anti infantería
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-anti infanteria
+Anti Infantería
 \end_layout
 
 \end_inset
@@ -1698,12 +2027,12 @@ Un arma muy tradicional aunque en versión más grande y eficiente.
  En general dispara una gran cantidad de pequeños proyectiles que pueden
  dañar el blindaje enemigo.
  En comparación con otras armas no tienen mucho alcance, pero son muy utilizadas
- para protegerse de la infanteria, ya que son anti infanteria
+ para protegerse de la infantería, ya que son anti infanteria
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-anti infanteria
+Anti Infantería
 \end_layout
 
 \end_inset
@@ -1784,6 +2113,18 @@ Cuerpo a Cuerpo
 Armas -habitualmente improvisadas- que permiten aumentar el daño de la unidad
  cuando llega a una distancia de contacto (menor a 5cms).
  Existen muchos modelos pero la mayoría son semejantes.
+ Revisa la Sección 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Cuerpo-a-Cuerpo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ para más información.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -1807,16 +2148,6 @@ Garras
 
 \end_inset
 
-, espadas
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Espadas
-\end_layout
-
-\end_inset
-
 , etc.
  Armás que simplemente mejoran la efectividad de la unidad cuerpo a cuerpo.
 \end_layout
@@ -1825,6 +2156,33 @@ Espadas
 \align center
 \begin_inset Graphics
 	filename ../Sheet/Weapons/Saw.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hachas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Hachas
+\end_layout
+
+\end_inset
+
+.
+ Armas de gran calidad diseñadas para aprovechar toda la fuerza de un mech.
+ Realizan más daño que otras armas más sencillas.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/Hatchet.svg
 	scale 60
 
 \end_inset
@@ -1852,6 +2210,31 @@ Pinzas
 \align center
 \begin_inset Graphics
 	filename ../Sheet/Weapons/GripperArm.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Pala Excavadora
+\end_layout
+
+\end_inset
+
+Pala Excavadora.
+ Un arma improvisada pero efectiva como cualquier otra.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/Backhoe.svg
 	scale 60
 
 \end_inset
@@ -2274,7 +2657,7 @@ Anti Infantería
 \end_layout
 
 \begin_layout Standard
-El arma es especialmente efectiva contra infantería.
+El arma o ataque es especialmente efectiva contra infantería.
  Consulta los detalles en la sección 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -2286,6 +2669,60 @@ noprefix "false"
 \end_inset
 
 .
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/no-vehicles.svg
+
+\end_inset
+
+ Anti Vehículos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Anti Vehículos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El arma o ataque es especialmente efectiva contra vehículos, por lo que
+ cualquier daño resultante después de aplicar los modificadores por defensa
+ o cobertura, se dobla contra el vehículo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/no-cover.svg
+
+\end_inset
+
+ Ignora Cobertura 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Por el motivo que sea, el ataque ignora completamente la cobertura.
+ Por lo que el defensor únicamente podrá escoger utilizar los dados de defensa
+ si están disponibles.
+ Nota que esto no se puede aplicar a objetivos que estén completamente cubiertos
+ y no sean alcanzables de ningún modo.
  
 \end_layout
 
@@ -2491,7 +2928,17 @@ Localizaciones
 
 \end_inset
 
-Infanteria
+Infantería
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Infantería
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2510,6 +2957,31 @@ noprefix "false"
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/cargo.svg
+
+\end_inset
+
+Carga
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Carga
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El vehículo es capaz de transportar gran cantidad de carga ya sea en su
+ interior o sobre una plataforma especialmente habilitada para ello.
+ 
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
@@ -2517,12 +2989,12 @@ name "sec:Infanteria"
 
 \end_inset
 
-Infanteria
+Infantería
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Infanteria
+Infantería
 \end_layout
 
 \end_inset
@@ -2536,7 +3008,7 @@ Infanteria
 
 \end_inset
 
-La infanteria representa un pelotón de soldados armados, que se desplazan
+La infantería representa un pelotón de soldados armados, que se desplazan
  por el campo de batalla enfrentándose valientemente a vehículos y mechs
  muchos más grande que ellos.
  Aunque en principio no tienen una gran potencia de fuego, son difíciles
@@ -2561,7 +3033,7 @@ Movimiento
 \end_layout
 
 \begin_layout Standard
-La infanteria tiene movimiento como cualquier otra unidad.
+La infantería tiene movimiento como cualquier otra unidad.
  Si bien, la infantería que no esté motorizada se considera que no puede
  
 \begin_inset Quotes eld
@@ -2652,7 +3124,7 @@ Calor
 \end_layout
 
 \begin_layout Standard
-La infanteria no sufre penalizaciones por el calor y este se ignora en estas
+La infantería no sufre penalizaciones por el calor y este se ignora en estas
  unidades.
  
 \end_layout
@@ -2672,9 +3144,9 @@ Alcance
 \end_layout
 
 \begin_layout Standard
-Las unidades de infanteria tienen un alcance muy limitado.
+Las unidades de infantería tienen un alcance muy limitado.
  Se considera que únicamente pueden disparar a corto alcance con sus armas.
- Para medir la distancia, puedes usar cualquier peana de infanteria que
+ Para medir la distancia, puedes usar cualquier peana de infantería que
  forme el pelotón.
  Se considera que todos los disparos alcanzaran su objetivo si la peana
  más cercana al objetivo está dentro del alcance.
@@ -2696,8 +3168,8 @@ Defensa
 \end_layout
 
 \begin_layout Standard
-La infanteria puede tener defensa al igual que cualquier otro vehículo.
- Resuelvela normalmente
+La infantería puede tener defensa al igual que cualquier otro vehículo.
+ Resuelvela normalmente.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -2717,7 +3189,7 @@ Cobertura
 \begin_layout Standard
 En el caso de la cobertura, tirará un dado extra que en comparación con
  cualquier otro vehículo o mech debido a su pequeño tamaño.
- Si bien, para lanzar un mínimo de un dado la infanteria debe de contar
+ Si bien, para lanzar un mínimo de un dado la infantería debe de contar
  con algún elemento que le de cobertura.
  
 \end_layout
@@ -2744,11 +3216,11 @@ Resistencia
 
 \begin_layout Standard
 Cuando un mech quiere disparar a un pelotón de infantería, tira el daño
- normalmente restando la defensa de la infanteria como en cualquier combate
+ normalmente restando la defensa de la infantería como en cualquier combate
  normal.
- Sin embargo, el atacante únicamente puede quitar tantas miniaturas de infanteri
+ Sin embargo, el atacante únicamente puede quitar tantas miniaturas de infanterí
 a si el daño iguala o supera el número de soldados por peana.
- Es decir, una infanteria normal que tiene cinco soldados por peana, si
+ Es decir, una infantería normal que tiene cinco soldados por peana, si
  recibe 9 de daño, únicamente eliminará a una peana.
  Si hubiera hecho 10 de daño, hubiera eliminado a dos.
  El daño no se guarda entre disparos, por lo que en el ejemplo anterior
@@ -2849,7 +3321,7 @@ Denominamos mech, a cualquier robot humanoide, que le da el nombre a este
  juego.
  Un vehículo es un coche, tanque, aerodeslizador u otro artilugio sin extremidad
 es móviles.
- Por infanteria entendemos a un grupo de soldados, armas desplegadas, motos,
+ Por infantería entendemos a un grupo de soldados, armas desplegadas, motos,
  etc.
  que tienen pequeño tamaño y no están fuertemente blindados.
  Por último, cuando nos referimos a unidad, puede ser tanto un mech, como
@@ -3065,7 +3537,7 @@ Oleada Metálica
 Este es un escenario no demasiado realista, aunque muy divertido.
  Un bando escoge un par de mechs únicamente (lo llamaremos el bando normal).
  El bando de la oleada escoge mechs o vehículos con un valor inferior a
- 20 puntos.
+ 20 puntos cada uno.
  Ambos bandos tienen los mismos puntos a la hora de generar su ejército.
  
 \end_layout

@@ -146,16 +146,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29866708"
-     inkscape:cx="-195.87027"
-     inkscape:cy="550.78049"
+     inkscape:zoom="1.1946683"
+     inkscape:cx="125.97639"
+     inkscape:cy="183.31448"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1846"
-     inkscape:window-height="1016"
-     inkscape:window-x="74"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="false"
@@ -1986,6 +1986,17 @@
            style="fill:#000000;stroke:#000000;stroke-width:0.0807897;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
+    <rect
+       style="vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect860-36"
+       width="7.0941477"
+       height="0"
+       x="80.892105"
+       y="-32.207878" />
+    <path
+       id="path916"
+       style="fill:#000000;stroke-width:0.0209163"
+       d="m 82.930425,-50.273207 -0.684713,0.0052 -0.254765,0.0015 v 0.892969 h 0.249081 0.690397 v -0.449585 z m 0.612365,0.396875 v 0.794784 l 5.17e-4,0.794783 h 0.679545 0.679028 l 0.0062,-0.794783 0.0052,-0.794784 h -0.68523 z m 1.832963,0.443901 v 0.450102 0.449585 h 0.679546 0.680062 v -0.449585 -0.450102 h -0.680062 z m -3.384806,0.264067 v 0.894002 c 0.08778,0.0013 0.162166,0.0014 0.264067,0.0052 h 0.676445 v -0.449585 -0.449584 h -0.690398 z m 3.384806,0.905887 v 0.784449 0.783931 h 1.892909 1.618505 v -1.56838 h -1.618505 z m -3.384806,0.376722 v 1.579231 h 1.018543 1.892907 v -0.789616 -0.789615 H 83.00949 Z m 3.384806,1.693953 v 0.177767 0.177767 h -3.262849 -0.121957 v 2.390035 h 6.89622 v -2.745569 h -1.513603 z" />
   </g>
   <g
      inkscape:groupmode="layer"
