@@ -2982,6 +2982,45 @@ El vehículo es capaz de transportar gran cantidad de carga ya sea en su
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/explosion.svg
+
+\end_inset
+
+Carga Explosiva
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Carga Explosiva
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La unidad posee carga altamente explosiva.
+ Ya sea la carga en sí, algún tipo de arma experimental o la munición de
+ esta.
+ Sea como sea, cuando la unidad es destruída hace una gran explosión que
+ puede afectar a todas las unidades cercanas.
+ Tira 5 dados de calor 
+\begin_inset Graphics
+	filename ../Sheet/icons/heat.svg
+
+\end_inset
+
+.
+ El daño causado afecta a todas las unidades a 10 cms del centro de esta
+ unidad.
+ Las unidades pueden tirar defensa o cobertura de forma normal contra este
+ daño.
+ 
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
