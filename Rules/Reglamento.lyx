@@ -834,7 +834,11 @@ Cobertura
 \begin_layout Standard
 El vehículo, infantería o mech puede agazaparse detrás de un objeto lo suficient
 emente grande a su tamaño para que le de algo de protección.
- Según la superficie cubierta, la protección cambiará:
+ Básicamente tira los dados de cobertura y retira tantos dados como el valor
+ obtenido.
+ Siempre se empieza a retirar los dados con menor puntuación primero.
+ Para tener una idea de cuantos dados por cobertura puedes tirar, utiliza
+ los siguientes ejemplos:
 \end_layout
 
 \begin_layout Subsubsection*
@@ -933,6 +937,20 @@ Cobertura e infantería
 \begin_layout Standard
 Si una unidad de infanteria (ya sea motorizada o no) disfruta de algun modificad
 or de cobertura, puede tirar además un dado extra de cobertura.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Daños a la cobertura
+\end_layout
+
+\begin_layout Standard
+En el hipotético caso en que sea importante calcular el daño que se el aplica
+ a la cobertura, simplemente aplícale a esta el resultado obtenido por los
+ dados retirados en la tirada de cobertura.
+ Este daño es el que se le aplica a la cobertura y el restante al objetivo
+ del ataque.
+ La cobertura no puede tirar ninguna otra defensa aunque disponga de esta.
  
 \end_layout
 
@@ -2834,13 +2852,13 @@ Commando
 Representa a una unidad de comando.
  Las unidades de comando coordinand mejor a todas aquellas unidades cercanas
  a esta, mejorando sus habilidades.
- Una unidad de comandos tiene puntos extra que pueden ser utilizados al
- igual que los puntos de pilotos, pero sobre cualquier unidad amiga a 30cms.
+ Una unidad de comandos puede gastar sus puntos de piloto pero sobre cualquier
+ unidad amiga a 30cms.
  
 \emph on
-Por ejemplo, el MorningStar tiene 2 puntos de comando en su ficha, por lo
- que los puede gastar para que dos mechs aliado a menos de 30cms repita
- una tirada de localización de daños si están a corto alcance.
+Por ejemplo, el MorningStar tiene un piloto con 2 puntos de comando en su
+ ficha, por lo que los podría gastar para que dos mechs aliado a menos de
+ 30cms repita una tirada de localización de daños si están a corto alcance.
 \end_layout
 
 \begin_layout Subsubsection*
