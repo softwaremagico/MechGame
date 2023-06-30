@@ -21,7 +21,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Catapult](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Catapult.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Catapult.svg)
 [![Hellstar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellstar.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Hellstar.svg)
 [![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Jaguar%20JGR-20-L.svg)
-[![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Marauder%20II%20C.svg))
+[![Marauder](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Marauder.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Marauder%20II%20C.svg)
 [![Centurion](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Centurion.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Centurion.svg)
 [![Centurion Gladiator](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Centurion%20Gladiator.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Centurion%20Gladiator.svg)
 [![Avalanche](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Avalanche.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Avalanche.svg)
