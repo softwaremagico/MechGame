@@ -26,6 +26,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Centurion Gladiator](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Centurion%20Gladiator.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Centurion%20Gladiator.svg)
 [![Avalanche](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Avalanche.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Avalanche.svg)
 [![Zeus](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Zeus.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Zeus.svg)
+[![Ryoken II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Ryoken%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Ryoken%20II.svg)
 [![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech.svg)
 [![Agromech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II.svg)
 [![Agromech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II%20MOD.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II%20MOD.svg)
