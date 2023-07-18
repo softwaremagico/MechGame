@@ -45,6 +45,8 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![J-37 Ordinance Transport](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/J-37%20Ordinance%20Transport.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/J-37%20Ordinance%20Transport.svg)
 [![Hawk Moth II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Hawk%20Moth%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Hawk%20Moth%20II.svg)
 [![Donar Assault Helicopter](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Donar%20Assault%20Helicopter.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Donar%20Assault%20Helicopter.svg)
+[![Fox Armored Car](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Fox%20Armored%20Car.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Fox%20Armored%20Car.svg)
+[![Scimitar MKII](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Scimitar%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Scimitar%20MK%20II.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
