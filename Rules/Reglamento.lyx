@@ -1357,6 +1357,24 @@ Sistema Antimisiles
 
 \end_layout
 
+\begin_layout Standard
+Una torreta programada para destruir cualquier misil enemigo que entre dentro
+ de su radio de acción de 30cms.
+ Suma los dados especiales de este arma () a la defensa del objetivo cuando
+ cualquier tipo de misil ataque a una unidad amiga dentro de su radio de
+ acción.
+ En el caso de que el jugador escoja utilizar los dados de cobertura, también
+ tiene efecto el sistema antimisiles, por lo que podrás tirar sus dados
+ después de realizar todas las modificaciones al daño por la cobertura.
+ 
+\end_layout
+
+\begin_layout Standard
+Varios sistemas antimisiles amigos son acumulativos, por lo que puedes sumar
+ los dados de todos ellos mientras estés dentro de su alcance.
+ 
+\end_layout
+
 \begin_layout Subsubsection*
 \begin_inset Graphics
 	filename ../Sheet/icons/ECM.svg
@@ -1368,12 +1386,94 @@ Sistema Antimisiles
 status open
 
 \begin_layout Plain Layout
+CME
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
 ECM
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Las contramedidas electrónicas o ECM, es un dispositivo que afecta a los
+ sensores enemigos impidiendo operar correctamente, lo que dificulta el
+ uso de algunas armas y las hace más ineficaces.
+ Cuando una unidad es portadora del ECM, este afecta a todas aquellas a
+ 20 cms, dando las siguientes bonificaciones a todas las unidades dentro
+ de su radio de acción:
+\end_layout
+
+\begin_layout Enumerate
+Si un enemigo dispara con misiles de ataque, este pierde la bonificacion
+ de repetir un dado de daño.
+\end_layout
+
+\begin_layout Enumerate
+Los misiles de largo alcance, los misiles tácticos y los thunderbolt son
+ menos efectivos, por lo que pierden la habilidad de 
+\begin_inset Graphics
+	filename ../Sheet/icons/IndirectFire.svg
+
+\end_inset
+
+ Fuego Indirecto
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Fuego Indirecto
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Todas las armas realizan un dado menos de daño cuando disparan a un objetivo
+ situado a largo alcance, debido a la imposibilidad de usar sistemas de
+ fijación de objetivo mientras el objetivo esté protegido por un ECM.
+ 
+\end_layout
+
+\begin_layout Standard
+Los ECMs no son acumulativos, por lo que solamente te puedes benificiar
+ de uno de ellos a la vez.
+\end_layout
+
+\begin_layout Paragraph*
+Modo disruptivo
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Modo disruptivo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Puedes usar un ECM aliado para cancelar el efecto de un ECM enemigo si esté
+ está dentro del radio de acción de 20 cms.
+ Si bien el ECM que esté en modo disruptivo no podrá beneficiarse tampoco
+ de la protección que ofrece el suyo.
+ En el caso de que una unidad esté dentro del radio de acción de dos o más
+ ECMs aliados, se deben anular todos ellos por un número igual de ECMs enemigos
+ para que la unidad deje de beneficiarse de la protección de este.
 \end_layout
 
 \begin_layout Subsection
@@ -1516,7 +1616,7 @@ Calor
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
-	filename /home/jhortelano/workspace/MechGame/Sheet/icons/no-heat.svg
+	filename ../Sheet/icons/no-heat.svg
 
 \end_inset
 
