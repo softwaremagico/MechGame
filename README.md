@@ -32,6 +32,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Agromech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II%20MOD.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II%20MOD.svg)
 [![Agromech MOD-B](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MOD-B.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MOD-B.svg)
 [![SalvageMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/SalvageMech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/SalvageMech.svg)
+[![MiningMech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/MiningMech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/MiningMech.svg)
 [![MiningMech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/MiningMech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/MiningMech%20MK%20II.svg)
 [![MiningMech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/MiningMech%20MK%20II%20MOD.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/MiningMech%20MK%20II%20MOD.svg)
 [![ConstructionMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ConstructionMech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/ConstructionMech.svg)
