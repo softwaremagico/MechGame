@@ -2959,11 +2959,43 @@ Daño por Calor
 \end_layout
 
 \begin_layout Standard
-Algunos disparos -como los de los lanzallamas- además de generar daño normal,
+Algunas armas -como los de los lanzallamas- además de generar daño normal,
  aumentan el índice de calor del enemigo.
  Un ataque con esta característica añade tantos puntos de calor como daño
  causado después de aplicar todas las defensas del enemigo.
- 
+ En el caso de aplicarse contra vehículos u otras unidades que no tienen
+ contador de calor, se ignora este efecto.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/thermometer-min.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daño por Calor Menor
+\end_layout
+
+\end_inset
+
+Daño por Calor Menor
+\end_layout
+
+\begin_layout Standard
+Semejante al Daño por Calor, algunas armas -como el fusil de plasma- además
+ de generar daño normal, aumentan el índice de calor del enemigo.
+ Un ataque con esta característica añade tantos puntos de calor como 
+\series bold
+la mitad
+\series default
+ de daño causado después de aplicar todas las defensas del enemigo.
+ En el caso de aplicarse contra vehículos u otras unidades que no tienen
+ contador de calor, se ignora este efecto.
 \end_layout
 
 \begin_layout Subsubsection*
