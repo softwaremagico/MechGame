@@ -2757,11 +2757,22 @@ Encasquillable
 \end_layout
 
 \begin_layout Standard
-El arma se puede encasquillar si realiza más de un disparo por turno.
+El arma se puede encasquillar si realiza más de un disparo por turno (ver
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:x2/x3Múltiples-Disparos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
  En este caso, si en el segundo o sucesivos disparos fallan todos sus dados,
  es decir, no obtiene ningún punto de daño antes de aplicar la defensa del
  objetivo, el arma se queda encasquillada y no podrá disparar el próximo
- turno.
+ turno (ni continuar disparando este mismo turno).
  Evidentemente, esta propiedad solamente se aplica a los cañones y armas
  que utilizan munición con casquillos.
  
@@ -2789,9 +2800,10 @@ Mira Lenta
 \begin_layout Standard
 El arma necesita cierta estabilidad para apuntar.
  Lo que significa que para poder disparar, el mech no debe haber corrido.
+ Si ya ha corrido, lanzará un dado menos de daño.
  En el caso de que primero dispare y luego mueva, el mech no tendrá permitido
  correr si ya ha disparado un arma con este símbolo.
- Se le permite andar normalmente.
+ Se le permite andar normalmente sin penalización.
  
 \end_layout
 
@@ -2877,11 +2889,12 @@ El arma no puede rotar junto con el mech, o simplemente el torso de este
  Esto limita el ángulo de disparo del arma a 90º.
  Normalmente significa que el arma solo puede disparar hacia delante en
  un mech, o en el caso de los vehículos, enfrente de la localización donde
- está.
+ está encarado.
  
 \end_layout
 
 \begin_layout Subsubsection*
+x2/x3
 \begin_inset Index idx
 status open
 
@@ -2891,25 +2904,32 @@ Múltiples Disparos
 
 \end_inset
 
+
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:x2/x3Múltiples-Disparos"
+
+\end_inset
+
 Múltiples Disparos
 \end_layout
 
 \begin_layout Standard
-El arma realiza múltiples disparos.
- Contando como una única acción, el arma puede realizar más de una tirada
- de daño.
- Cada tirada de daño tiene que realizar una tirada de localización distinta.
- Todos los disparos se realizan contra un mismo objetivo, aunque el jugador
- puede elegir no realizar todos los disparos si así lo desea.
- El calor generado por el arma es independiente del número de disparos realizado
+El arma realiza múltiples disparos por turno.
+ Contando como una única acción, el arma puede realizar más de un ataque
+ a un mismo o múltiples objetivos.
+ Si se disparan varios disparos a un mismo objetivo, puedes agregar el resultado
+ obtenido por cada disparo en un único ataque antes de que el objetivo tire
+ sus dados de defensa, facilitando el impacto y aumentando el daño.
+ En el caso de que el arma se pueda encasquillar y dispares contra un único
+ enemigo, tira los dados por separtado antes de sumarlos para comprobar
+ los valores de encasquillado o no.
+ El calor generado por el arma se múltiplica por el número de disparos realizado
 s.
  
 \emph on
 Por ejemplo los cañones dobles y los cañones de repetición hacen 2 y 3 disparos
  respectivamente.
-
-\emph default
- 
 \end_layout
 
 \begin_layout Subsubsection*
