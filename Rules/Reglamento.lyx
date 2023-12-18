@@ -528,6 +528,54 @@ Disparo
 
 \end_layout
 
+\begin_layout Paragraph*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "par:Concentración-de-disparos"
+
+\end_inset
+
+Concentración de Disparos
+\end_layout
+
+\begin_layout Standard
+Cuando una unidad o vehículo tienen varias armas iguales, puede intentar
+ dispararlas todas a la vez para mejorar los dados de daño de estas y facilitar
+ que impactes a un enemigo con mucha defensa.
+ Si decides concentrar los disparos, tira el daño base del arma y añade
+ un dado de daño por cada arma extra que dispare junto a ella.
+ El daño afectará El calor generado será el mismo que el de cada una de
+ las armas si se disparara por separado.
+ Además si el arma tiene alguna característica especial, podrá aplicarse
+ una vez por cada arma utilizada en el disparo.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Por ejemplo, un mech con tres láseres pequeños disparará dos dados de daño
+ si dispara uno de ellos, pero si los concentra hará cuatro dados de daño
+ (2 dados por el primer láser más 2 dados por los dos láseres extras).
+ El total de calor generado será de 6 (2 de calor por 3 láseres disparados).
+ Otro ejemplo sería el Cygnus, que tiene 4 láseres medios de pulsos.
+ Podría hacer un único disparo concentrado de un total de 6 dados de daño
+ a corto alcance (o 5 dados a largo alcance) por un total de 16 puntos de
+ calor.
+ Además, podrá repetir cuatro dados de daño, asegurándose de causar una
+ gran cantidad de daño.
+ 
+\end_layout
+
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -1056,7 +1104,7 @@ Ignorar un punto de daño por efecto de calor.
 \end_layout
 
 \begin_layout Enumerate
-Ignorar dos dados de defensa de un adversario o un dado de cobertura.
+Ignorar un dado de cobertura.
  
 \end_layout
 
@@ -1084,7 +1132,7 @@ Si un piloto sobrevive lo suficiente, irá ganando experiencia.
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1325,7 +1373,17 @@ Piloto
 \end_layout
 
 \begin_layout Subsection
-Defensa
+Sistemas de Defensa
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sistemas de Defensa
+\end_layout
+
+\end_inset
+
+
 \begin_inset Index idx
 status open
 
@@ -1415,7 +1473,13 @@ Las contramedidas electrónicas o ECM, es un dispositivo que afecta a los
 
 \begin_layout Enumerate
 Si un enemigo dispara con misiles de ataque, este pierde la bonificacion
- de repetir un dado de daño.
+ de repetir un dado de daño 
+\begin_inset Graphics
+	filename /home/jhortelano/workspace/MechGame/Sheet/icons/reroll.svg
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -2918,18 +2982,50 @@ Múltiples Disparos
 El arma realiza múltiples disparos por turno.
  Contando como una única acción, el arma puede realizar más de un ataque
  a un mismo o múltiples objetivos.
- Si se disparan varios disparos a un mismo objetivo, puedes agregar el resultado
- obtenido por cada disparo en un único ataque antes de que el objetivo tire
- sus dados de defensa, facilitando el impacto y aumentando el daño.
+ Si se disparan varios disparos a un mismo objetivo, puedes aplicar la regla
+ de Concentración de Disparos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+ (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "par:Concentración-de-disparos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
  En el caso de que el arma se pueda encasquillar y dispares contra un único
- enemigo, tira los dados por separtado antes de sumarlos para comprobar
- los valores de encasquillado o no.
+ enemigo, una de las arma se encasquillará si tantos dados como el daño
+ base del arma salen en blanco.
  El calor generado por el arma se múltiplica por el número de disparos realizado
 s.
- 
+ Por ejemplo los cañones dobles y los cañones de repetición hacen 2 y 3
+ disparos respectivamente.
+\end_layout
+
+\begin_layout Standard
+
 \emph on
-Por ejemplo los cañones dobles y los cañones de repetición hacen 2 y 3 disparos
- respectivamente.
+El Cygnus tiene dos cañones largos dobles.
+ Lo que significa que con cada uno puede realizar, dos disparos.
+ Puede decidir aplicar la regla de Concentración de Disparos de uno de ellos
+ sobre un objetivo para realizar 4 dados de daño o los dos con dos disparos
+ para llegar a hacer 6 dados de daño.
+ En el caso de que elija esta última opción, hará 6 de daño, pero generará
+ también 16 puntos de calor.
+ Además uno de los cañones se encasquillará si saca 3 dados en blanco sobre
+ la tirada de 6 dados de daño, lo que es un probabiliad de encasquillamiento
+ bastante elevada.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -3533,7 +3629,18 @@ Combate
 
 \begin_layout Standard
 La infantería dispara en conjunto y el daño realizado siempre depende del
- número de peanas disponibles que queden a la unidad.
+ número de peanas disponibles que queden a la unidad, muy parecido a la
+ regla de Concentración de Disparos (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "par:Concentración-de-disparos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) de los vehículos.
  Así una unidad de 5 miniaturas tirarán un dado de daño dependiendo del
  arma y lo multiplicará por 5.
  Haciendo los grandes batallones de infantería temibles en gran número.
@@ -3619,6 +3726,9 @@ Defensa
 \begin_layout Standard
 La infantería puede tener defensa al igual que cualquier otro vehículo.
  Resuelvela normalmente.
+ Ten en cuenta que su reducido tamaño hará que la infantería lo tenga más
+ fácil para aplicar dados de cobertura.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -3831,7 +3941,7 @@ noprefix "false"
 Módos de juego
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Subsubsection
 \begin_inset Index idx
 status open
 
@@ -3871,6 +3981,50 @@ Modo
 \end_inset
 
 Trifulca
+\end_layout
+
+\begin_layout Paragraph*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Alpha Strike
+\end_layout
+
+\end_inset
+
+Alpha Strike
+\end_layout
+
+\begin_layout Standard
+En el caso de que quieras que un mech dispare todas las armas a la vez,
+ puede realizar un Alpha Strike.
+ En este caso, resuelve todos tus disparos contra un mismo objetivo antes
+ de dejar paso a la siguiente acción de tu adversario.
+ Tiene una penalización de dos puntos de calor extra, debido a la sobrecarga
+ de los sistemas.
+ Alpha Strike no es compatible con la regla de Concentración de Disparos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+ (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "par:Concentración-de-disparos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ 
 \end_layout
 
 \begin_layout Subsection
