@@ -500,6 +500,18 @@ Daños, espalda
 
 \end_layout
 
+\begin_layout Standard
+Un ataque por la espalda que impacte por un mech causará el doble de daño
+ en los torsos centrales y laterales.
+ Tira primero la defensa del mech y la localización.
+ Si impacta en alguno de los torsos duplica el daño realizado.
+\end_layout
+
+\begin_layout Standard
+Esta regla no afecta a los vehículos que tienen sus propios valores de blindaje
+ por la espalda.
+\end_layout
+
 \begin_layout Subsection
 Combate
 \begin_inset Index idx
