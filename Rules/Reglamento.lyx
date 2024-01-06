@@ -3313,6 +3313,34 @@ El arma tiene munición para un único disparo.
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/negatesDefense.svg
+
+\end_inset
+
+Niega Defensa
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Niega Defensa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El arma limita la defensa del objetivo.
+ Quizá tiene un área particularmente grande que resulta más difícil de esquivar,
+ o por cualquier otro motivo resulta particularmente difícil de esquivar.
+ El objetivo tira dos dados menos de defensa cuando es impactado por este
+ arma.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout
