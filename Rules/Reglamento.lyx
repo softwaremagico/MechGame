@@ -2916,6 +2916,34 @@ Por ejemplo, un mech que esté disfrutando de una protección por cobertura
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/no-cover.svg
+
+\end_inset
+
+ Ignora Cobertura 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ignora Cobertura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Por el motivo que sea, el ataque ignora completamente la cobertura.
+ Por lo que el defensor únicamente podrá escoger utilizar los dados de defensa
+ si están disponibles.
+ Nota que esto no se puede aplicar a objetivos que estén completamente cubiertos
+ y no sean alcanzables de ningún modo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/turret.svg
 
 \end_inset
@@ -3218,89 +3246,6 @@ El arma o ataque es especialmente efectiva contra vehículos, por lo que
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
-	filename ../Sheet/icons/no-cover.svg
-
-\end_inset
-
- Ignora Cobertura 
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Ignora Cobertura
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Por el motivo que sea, el ataque ignora completamente la cobertura.
- Por lo que el defensor únicamente podrá escoger utilizar los dados de defensa
- si están disponibles.
- Nota que esto no se puede aplicar a objetivos que estén completamente cubiertos
- y no sean alcanzables de ningún modo.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/repair.svg
-
-\end_inset
-
-Reparar
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Reparar
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Más que un arma es un artilugio que permite realizar reparaciones urgentes
- en mitad del campo de batalla, permitiendo reparar un único punto de armadura
- a cada una de las secciones del mech que todavía no hayan sido destruídas.
- La estructura interna no puede ser reparada y aquellas secciones que hayan
- sido completamente destruídas tampoco.
- Tampoco se puede superar el máximo de armadura de otro vehículo.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/grapple.svg
-
-\end_inset
-
-Agarrar
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Agarrar
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Una extremidad de la unidad permite levantar objetos pesados aunque no otros
- vehículos.
- La utilidad de esta acción depende del tipo de partida que se esté jugando.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
 	filename ../Sheet/icons/oneShoot.svg
 
 \end_inset
@@ -3385,8 +3330,8 @@ Representa a una unidad de comando.
  
 \emph on
 Por ejemplo, el MorningStar tiene un piloto con 2 puntos de comando en su
- ficha, por lo que los podría gastar para que dos mechs aliado a menos de
- 30cms repita una tirada de localización de daños si están a corto alcance.
+ ficha, por lo que los podría gastarlos para que dos mechs aliado a menos
+ de 30cms repitan una tirada de localización de daños si están a corto alcance.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -3450,7 +3395,7 @@ Escudo
 \begin_layout Standard
 El mech sujeta un escudo tradicional en una de sus manos, lo que lo defiende
  de todos los ataques frontales.
- Cada vez que reciba un ataque frontal, no tires 
+ Cada vez que reciba un ataque frontal, no tires los dados de 
 \begin_inset Index idx
 status open
 
@@ -3564,6 +3509,122 @@ La unidad posee carga altamente explosiva.
  unidad.
  Las unidades pueden tirar defensa o cobertura de forma normal contra este
  daño.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/repair.svg
+
+\end_inset
+
+Reparar
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Reparar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La unidad dispone de un artilugio que permite realizar reparaciones urgentes
+ en mitad del campo de batalla, permitiendo reparar un único punto de armadura
+ a cada una de las secciones del mech que todavía no hayan sido destruídas.
+ La estructura interna no puede ser reparada y aquellas secciones que hayan
+ sido completamente destruídas tampoco.
+ Tampoco se puede superar el máximo de armadura de otro vehículo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/grapple.svg
+
+\end_inset
+
+Agarrar
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Agarrar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Una extremidad de la unidad permite levantar objetos pesados aunque no otros
+ vehículos.
+ La utilidad de esta acción depende del tipo de partida que se esté jugando.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/tow.svg
+
+\end_inset
+
+Enganche de Remolque
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Enganche de Remolque
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La unidad tiene un enganche de remolque que permite tirar de otras unidades
+ en el campo de batalla y moverlas sin que le afecte a su rendimiento.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/amphibious.svg
+
+\end_inset
+
+Vehículo Anfibio
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Vehículo anfibio
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Anfibio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El vehículo es capaz de ir por el agua a la mitad de su movimiento normal.
+ De esta forma, es capaz de cruzar ríos y lagos, si bien no le permite hacer
+ grandes traverías por el mar.
  
 \end_layout
 
