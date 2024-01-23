@@ -4323,13 +4323,42 @@ status open
 
 \end_inset
 
-Ángulo Limitado 
+Ángulo Limitado de 90 grados
 \end_layout
 
 \begin_layout Standard
-El arma no puede rotar junto con el mech, o simplemente el torso de este
+El arma no puede rotar sobre el vehículo, o simplemente el torso de este
  no puede rotar como otros mechs.
  Esto limita el ángulo de disparo del arma a 90º.
+ Normalmente significa que el arma solo puede disparar hacia delante en
+ un mech, o en el caso de los vehículos, enfrente de la localización donde
+ está encarado.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/180.svg
+
+\end_inset
+
+ 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Ángulo limitado
+\end_layout
+
+\end_inset
+
+Ángulo Limitado de 180 grados
+\end_layout
+
+\begin_layout Standard
+El arma no puede rotar sobre el vehículo, o simplemente el torso de este
+ no puede rotar como otros mechs.
+ Esto limita el ángulo de disparo del arma a 180º.
  Normalmente significa que el arma solo puede disparar hacia delante en
  un mech, o en el caso de los vehículos, enfrente de la localización donde
  está encarado.
@@ -4615,12 +4644,12 @@ El arma tiene munición para un único disparo.
 
 \end_inset
 
-Niega Defensa
+Reduce Defensa
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Niega Defensa
+Reduce Defensa
 \end_layout
 
 \end_inset
