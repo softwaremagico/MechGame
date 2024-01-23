@@ -53,6 +53,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![VV1 Ranger](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/VV1%20Ranger.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/VV1%20Ranger.svg)
 [![Sniper Artillery](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sniper%20Artillery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sniper%20Artillery.svg)
 [![Po II Heavy Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Po%20II%20Heavy%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Po%20II%20Heavy%20Tank.svg)
+[![JES III](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20III.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20III.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
