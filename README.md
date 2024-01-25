@@ -53,6 +53,8 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![VV1 Ranger](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/VV1%20Ranger.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/VV1%20Ranger.svg)
 [![Sniper Artillery](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sniper%20Artillery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sniper%20Artillery.svg)
 [![Po II Heavy Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Po%20II%20Heavy%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Po%20II%20Heavy%20Tank.svg)
+[![JESI](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20I.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20I.svg)
+[![JES II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20II.svg)
 [![JES III](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20III.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20III.svg)
 
 ## Fichas
