@@ -56,6 +56,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![JESI](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20I.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20I.svg)
 [![JES II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20II.svg)
 [![JES III](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JES%20III.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JES%20III.svg)
+[![Mobile HQ](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Mobile%20HQ.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Mobile%20HQ.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
