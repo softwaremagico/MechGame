@@ -1912,18 +1912,91 @@ Cuando una unidad o vehículo tienen varias armas iguales, puede intentar
 \end_layout
 
 \begin_layout Standard
+El daño generado se repartirá equitativamente según el número de disparos.
+ Es decir, que si se disparan dos armas con esta regla, el daño dará a dos
+ tiradas de localizaciones y se repartirá el daño de la forma más equitativament
+e posible.
+ A excepción de las armas con Daño Disperso
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Daño Disperso
+\end_layout
+
+\end_inset
+
+, que en cuyo caso prevalece esta regla.
+ 
+\end_layout
+
+\begin_layout Standard
 
 \emph on
 Por ejemplo, un mech con tres láseres pequeños disparará dos dados de daño
  si dispara uno de ellos, pero si los concentra hará cuatro dados de daño
  (2 dados por el primer láser más 2 dados por los dos láseres extras).
- El total de calor generado será de 6 (2 de calor por 3 láseres disparados).
- Otro ejemplo sería el Cygnus, que tiene 4 láseres medios de pulsos.
+ El total de calor generado será de 6 (2 de calor por cada uno de los 3
+ láseres disparados) y tirará 3 veces la localización de impacto.
+ Supongamos que los cuatro dados de daño concentrado sacan 3, 2, 1, 1 de
+ daño, para un total de 7 daño.
+ Imaginemos que el enemigo está estático y no tiene defensa para este ejemplo,
+ por lo que recibe los 7 puntos de daño.
+ Debes de tirar 3 tiradas de localización de impactos para repartir el daño
+ de forma equitativa, recibiendo la primera tirada 3 puntos, la segunda
+ 2 y la tercera otros 2.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Otro ejemplo sería el Cygnus, que tiene 4 láseres medios de pulsos.
  Podría hacer un único disparo concentrado de un total de 6 dados de daño
  a corto alcance (o 5 dados a largo alcance) por un total de 16 puntos de
  calor.
  Además, podrá repetir cuatro dados de daño, asegurándose de causar una
  gran cantidad de daño.
+ Dado que ha disparado 4 láseres, deberá de hacer 4 tiradas de localización
+ de daño y repartir el daño lo más equitativamente posible.
+ 
+\end_layout
+
+\begin_layout Paragraph*
+Escuadras
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Escuadras
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Las escuadras pueden disparar a un mismo enemigo de forma coordinada, beneficián
+dose de la regla de Concentración de Disparos.
+ Si bien, el calor se aplica de forma normal a cada una de las unidades.
+ Nota que todas las unidades tienen que estar al alcance del disparo para
+ poder añadir su bonificación.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Una escuadra de 3 Pack Hunters pueden disparar su cañón de partículas a
+ un objetivo de la misma manera que si un mech tuviera tres cañones de partícula
+s y aplicara la regla de Concentración de Disparos haciendo 3 (daño base
+ del cañón de partículas) + 2 dados de daño de partículas por dos unidades
+ extra aparte del principal, para hacer un total 5 dados de ataque.
+ Evidentemente, el calor de cada cañón de partícula se aplica a cada uno
+ de los mechs.
+ Además, ten en cuenta que se harán tres tiradas de localizaciones de impactos
+ para ver que zonas del mech enemigo son afectadas por este disparo.
  
 \end_layout
 
@@ -4575,7 +4648,7 @@ El arma o ataque es especialmente efectiva contra infantería.
  Consulta los detalles en la sección 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "subsec:Resistencia"
+reference "subsec:Atrincherarse"
 plural "false"
 caps "false"
 noprefix "false"
@@ -4999,6 +5072,88 @@ El vehículo es capaz de ir por el agua a la mitad de su movimiento normal.
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
+name "sec:Escuadras"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cuando varias unidades similares se juntan en un pelotón y actúan en conjunto,
+ se llaman escuadras.
+ Todos los integrantes de una escuadra deben ser exactamente el mismo modelo
+ con el mismo equipamiento.
+ Además, deben de permanecer en todo momento a una distancia de 10 cms de
+ otro componente de la escuadra.
+ En el caso de que un miembro de la escuadra sea destruído y no se cumpla
+ la regla de los 10 cms, deberán moverse obligatoriamente para volver a
+ cumplir la norma lo antes posible.
+ 
+\end_layout
+
+\begin_layout Standard
+Esto le da como beneficio la regla de Concentración de Disparos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+ (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "par:Concentración-de-disparos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsection
+Líder
+\end_layout
+
+\begin_layout Standard
+Una escuadra puede tener designado un líder.
+ El lider debe ser el piloto con mayor puntos de acciones disponibles, y
+ habitualmente el único con estos puntos.
+ Si una escuadra aplica la norma de Concentración de Disparos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+, puede utilizar las acciones del lider para repetir los dados de manera
+ habitual con las restricciones de cualquier otro disparo.
+ 
+\end_layout
+
+\begin_layout Subsection
+Daño
+\end_layout
+
+\begin_layout Standard
+El daño se aplica normalmente a los pelotones y cada unidad sufrirá daño
+ de forma individual.
+ Lo que implica que algunos miembros del pelotón puedan estar severamente
+ dañados mientras que otros estén intactos según avanza la batalla.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
 name "sec:Infanteria"
 
 \end_inset
@@ -5178,7 +5333,7 @@ Las unidades de infantería tienen un alcance muy limitado.
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Defensa
 \begin_inset Index idx
 status open
@@ -5222,19 +5377,19 @@ En el caso de la cobertura, tirará un dado extra que en comparación con
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
-name "subsec:Resistencia"
+name "subsec:Atrincherarse"
 
 \end_inset
 
-Resistencia
+Atrincherarse
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Resistencia
+Atrincherarse
 \end_layout
 
 \end_inset
@@ -5243,9 +5398,19 @@ Resistencia
 \end_layout
 
 \begin_layout Standard
-Cuando un mech quiere disparar a un pelotón de infantería, tira el daño
- normalmente restando la defensa de la infantería como en cualquier combate
- normal.
+\begin_inset Graphics
+	filename ../Sheet/icons/entrenched.svg
+
+\end_inset
+
+Cuando una unidad de infantería no ha movido durante su turno, se considera
+ que se atrinchera.
+ Una unidad atrincherada utiliza las pequeñas variaciones de terreno para
+ cubrirse aprovechando su pequeño tamaño.
+ Por tanto, cuando un mech o vehículo enemigo quiere disparar a un pelotón
+ de infantería lo tiene más difícil para hacerles daño.
+ Tira el daño normalmente restando la defensa de la infantería como en cualquier
+ combate normal.
  Sin embargo, el atacante únicamente puede quitar tantas miniaturas de infanterí
 a si el daño iguala o supera el número de soldados por peana.
  Es decir, una infantería normal que tiene cinco soldados por peana, si
@@ -5270,7 +5435,21 @@ Anti Infantería
 , siempre se elimina una peana por daño o fracción.
  Es decir, en el ejemplo de 9 de daño, se hubieran eliminado dos peanas
  si el daño se hace con un lanzallamas.
- También un daño de 6 hubiera elimintado dos peanas.
+ También un daño de 6 hubiera elimintado las mismas dos peanas.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Daño recibido
+\end_layout
+
+\begin_layout Standard
+La infantería no tiene puntos de daños en sí.
+ Elimina una peana por cada punto de daño recibido después de aplicar cualquier
+ modificación por defensa, cobertura o atrincherarse.
+ Esto hace que la infantería sea muy vulnerable a los ataques ya que con
+ un único disparo de un arma se pueden eliminar varias peanas de infantería
+ si estás no están a cubierto.
  
 \end_layout
 
