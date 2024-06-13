@@ -59,6 +59,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Mobile HQ](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Mobile%20HQ.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Mobile%20HQ.svg)
 [![Demon Medium Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Demon%20Medium%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Demon%20Medium%20Tank.svg)
 [![Condor Tank (Upgraded)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Condor%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Condor%20Tank.svg)
+[![JI-100 Transportable Field Repair Vehicle](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JI00%20Recovery%20Vehicle.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JI00%20Recovery%20Vehicle.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
