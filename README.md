@@ -61,6 +61,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Condor Tank (Upgraded)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Condor%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Condor%20Tank.svg)
 [![JI-100 Transportable Field Repair Vehicle](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JI00%20Recovery%20Vehicle.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JI00%20Recovery%20Vehicle.svg)
 [![M1 Marksman Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/M1%20Marksman%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/M1%20Marksman%20Tank.svg)
+[![Sortek Assault Craft](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sortek%20Assault%20Craft.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sortek%20Assault%20Craft.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
