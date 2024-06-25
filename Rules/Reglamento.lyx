@@ -5211,6 +5211,31 @@ El vehículo es capaz de ir por el agua a la mitad de su movimiento normal.
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/wings.svg
+
+\end_inset
+
+Alas 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Alas
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un mech con alas tiene un pequeño plus al movimiento cuando utiliza los
+ reactores de salto (+3) y además facilita la disipación de calor (+1).
+ Estas bonificaciones ya están plasmadas en la ficha de los mechs
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
