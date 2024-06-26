@@ -5236,6 +5236,52 @@ Un mech con alas tiene un pequeño plus al movimiento cuando utiliza los
  Estas bonificaciones ya están plasmadas en la ficha de los mechs
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/masc.svg
+
+\end_inset
+
+MASC 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+MASC
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El dispositivo MASC o (Myomer Accelerator Signal Circuitry) permite a un
+ mech duplicar su velocidad al andar.
+ Por lo que si corre este moverá un total del triple de su velocidad (x2
+ de andar más correr normalmente).
+ Puede ser utilizado en turnos alternos sin penalización o en el caso de
+ que se utilize dos turnos seguidos, tira un dado de calor.
+ Si sale el síombolo de fuego, el dispositivo habrá sobrecalentado las piernas
+ causandole que pierda un punto de estructura interna a cada una de ellas.
+ 
+\emph on
+Los mech con sistema MASC tienen en las fichas un recuadro para marcar cuando
+ ha sido utilizado.
+ Recuerda colocar un cubo cuando lo utilices y quita el cubo cuando hayas
+ movido sin utilizarlo.
+ Si lo utilizas estando ya el cubo en al ficha, aplica la tirada anterior
+ para saber si te ha causado daño.
+ 
+\end_layout
+
+\begin_layout Standard
+Utilizar el dispositivo MASC duplica los dados de defensa al andar, y suma
+ los dados de andar a los de correr si se usa mientras corre.
+ También duplica el calor generado al andar.
+ 
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
