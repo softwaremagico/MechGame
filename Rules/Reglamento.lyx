@@ -3026,6 +3026,16 @@ ECM
 \end_inset
 
 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Contramedidas Electrónicas
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3038,8 +3048,9 @@ Las contramedidas electrónicas o ECM, es un dispositivo que afecta a los
 \end_layout
 
 \begin_layout Enumerate
-Si un enemigo dispara con misiles de ataque, este pierde la bonificacion
- de repetir un dado de daño 
+Si un enemigo dispara con misiles de ataque o cualquier otro misil que permita
+ repetir un dado, este pierde la bonificacion de repetir un dado de daño
+ 
 \begin_inset Graphics
 	filename /home/jhortelano/workspace/MechGame/Sheet/icons/reroll.svg
 
@@ -3074,6 +3085,12 @@ Fuego Indirecto
 Todas las armas realizan un dado menos de daño cuando disparan a un objetivo
  situado a largo alcance, debido a la imposibilidad de usar sistemas de
  fijación de objetivo mientras el objetivo esté protegido por un ECM.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Anula el uso de una Sistema de control de disparo, perdiendo el mech atacante
+ cualquier bonificación otorgado por este.
  
 \end_layout
 
@@ -5186,7 +5203,7 @@ Vehículo Anfibio
 status open
 
 \begin_layout Plain Layout
-Vehículo anfibio
+Vehículo Anfibio
 \end_layout
 
 \end_inset
@@ -5279,6 +5296,56 @@ Los mech con sistema MASC tienen en las fichas un recuadro para marcar cuando
 Utilizar el dispositivo MASC duplica los dados de defensa al andar, y suma
  los dados de andar a los de correr si se usa mientras corre.
  También duplica el calor generado al andar.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/targeting computer.svg
+
+\end_inset
+
+Sistema de Control de Disparo 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sistema de Control de Disparo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Targeting Computer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+FCS
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un sistema de control de disparo (FCS por sus siglas en idioma inglés) es
+ una serie de componentes interconectados, sistemas de datos de armas, guía
+ y radar diseñados para ayudar en el seguimiento, apuntamiento y ataque
+ de armas de largo alcance.
+ Los mechs equipados con esta mejora pueden repetir un dado de localización
+ al disparar con un arma de fuego directo (habitaulamente cañones y láseres).
+ El dado escogido queda a discreción del jugador.
  
 \end_layout
 
@@ -5781,8 +5848,8 @@ Iniciativa ¿quién empieza primero?
 \end_layout
 
 \begin_layout Standard
-La forma más equilibrada de obtener quién empieza primero es hacer el que
- el total del coste (
+La forma más equilibrada de obtener quién empieza primero es hacer que elija
+ el que el total del coste (
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Coste"
