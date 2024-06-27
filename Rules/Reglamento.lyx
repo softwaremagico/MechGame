@@ -3097,6 +3097,54 @@ Anula el uso de una Sistema de control de disparo, perdiendo el mech atacante
 \begin_layout Standard
 Los ECMs no son acumulativos, por lo que solamente te puedes benificiar
  de uno de ellos a la vez.
+ Además, si entran dentro del radio de una Sonda Activa 
+\begin_inset Quotes eld
+\end_inset
+
+Sabueso
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sonda Activa 
+\begin_inset Quotes eld
+\end_inset
+
+Sabueso
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+BAP
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Beagle Active Probe
+\end_layout
+
+\end_inset
+
+, perderá todas las bonificaciones.
+ 
 \end_layout
 
 \begin_layout Paragraph*
@@ -5347,6 +5395,84 @@ Un sistema de control de disparo (FCS por sus siglas en idioma inglés) es
  al disparar con un arma de fuego directo (habitaulamente cañones y láseres).
  El dado escogido queda a discreción del jugador.
  
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/bap.svg
+
+\end_inset
+
+Sonda Activa
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sonda Activa
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+BAP
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Beagle Active Probe
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La Sonda Activa es un sistema de sensores mejorados que permite contrarrestar
+ algunos elementos de la guerra electrónica.
+ Tiene un alcance de 20cms y en ese área es capaz de detectar vehículos
+ o mech ocultos, apagados o que utilecen Contra Medidas Electrónicas
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+CME
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+ECM
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Contramedidas Electrónicas
+\end_layout
+
+\end_inset
+
+.
+ Una Sonda Activa solamente puede contrarrestar un único mech que utilice
+ Contra Medidas Electrónicas.
 \end_layout
 
 \begin_layout Section
