@@ -2669,11 +2669,6 @@ Volver a tirar un dado de localización de impactos.
 Ignorar un punto de daño por efecto de calor.
 \end_layout
 
-\begin_layout Enumerate
-Ignorar un dado de cobertura.
- 
-\end_layout
-
 \begin_layout Subsection
 Experiencia
 \begin_inset Index idx
@@ -4956,12 +4951,12 @@ Otros
 
 \end_inset
 
-Commando
+Comando
 \begin_inset Index idx
 status open
 
 \begin_layout Plain Layout
-Commando
+Comando
 \end_layout
 
 \end_inset
@@ -6016,7 +6011,7 @@ Modo
 Andanada
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Subsubsection
 \begin_inset Index idx
 status open
 
