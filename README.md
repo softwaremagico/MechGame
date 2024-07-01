@@ -31,6 +31,8 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Valiant](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Valiant.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Valiant.svg)
 [![Shrike Black Rose](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Shrike%20BR.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Shrike%20BR.svg)
 [![Mongoose II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Mongoose%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Mongoose%20II.svg)
+[![Cougar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Cougar.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Cougar.svg)
+[![Hatchetman](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hatchetman.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Hatchetman.svg)
 [![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech.svg)
 [![Agromech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II.svg)
 [![Agromech MK II MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II%20MOD.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II%20MOD.svg)
