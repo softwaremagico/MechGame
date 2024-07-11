@@ -1982,15 +1982,15 @@ Daños, espalda
 \end_layout
 
 \begin_layout Standard
-Un ataque por la espalda que impacte por un mech causará el doble de daño
- en los torsos centrales y laterales.
- Tira primero la defensa del mech y la localización.
- Si impacta en alguno de los torsos duplica el daño realizado.
-\end_layout
-
-\begin_layout Standard
-Esta regla no afecta a los vehículos que tienen sus propios valores de blindaje
- por la espalda.
+El blindaje por la parte trasera de los torsos de un mech es mas ligero
+ y protege menos que por el frontal.
+ Si un disparo impacta a un mech en cualquiera de sus torsos por la parte
+ trasera, únicamente el primer punto de daño sera detenido por el blindaje,
+ el resto de daño -si lo hubiere- pasara directamente a la estructura interna
+ de este, (posiblemente causando daños críticos).
+ Esto significa que es posible destruir un torso aunque todavía le quede
+ blindaje siempre que toda su estructura interna sea destruída.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -2232,14 +2232,14 @@ Ten en cuenta que dado que el atacante se queda en contacto con el enemigo,
  Además, como se debe correr en línea recta al menos una distancia de movimiento
  superior al equivalente de andar para considerar que está corriendo, solamente
  podrás realizar un ataque de embestida cada dos turnos, ya que el mech
- deberá alejarse para coger carrerilla en un turno y volver a embestir al
- siguiente.
+ deberá alejarse de nuevo para coger carrerilla en un turno y volver a embestir
+ al siguiente.
  
 \end_layout
 
 \begin_layout Standard
-Recuerda que los ataques de embestida y como cualquier otro ataque con un
- arma cuerpo a cuerpo ignoran la cobertura
+Recuerda que los ataques de embestida al igual que cualquier otro ataque
+ con un arma cuerpo a cuerpo ignoran la cobertura
 \begin_inset Index idx
 status open
 
@@ -2408,7 +2408,8 @@ correr
 \end_inset
 
 .
- 
+ Algunas características especiales de una unidad puede afectar a la defensa
+ como el sistema MASC.
 \end_layout
 
 \begin_layout Standard
@@ -2658,10 +2659,14 @@ Un piloto puede gastar una acción para mejorar una tirada.
 
 \begin_layout Enumerate
 Volver a tirar un dado de daño de un arma.
+ Un dado por acción que se gaste si el disparo es a corto alcance, o un
+ dado por una única acción si el ataque está a medio alcance.
+ No se pueden volver a tirar dados en disparos a largo alcance.
 \end_layout
 
 \begin_layout Enumerate
 Volver a tirar un dado de localización de impactos.
+ Únicamente en ataques a corto alcance.
  
 \end_layout
 
@@ -4329,10 +4334,8 @@ El piloto puede gastar una acción de piloto para repetir un dado cualquiera
 \end_layout
 
 \begin_layout Itemize
-El piloto puede gastar tantas acciones como le queden para sumar daño a
- un único disparo.
- El jugador puede decidir gastar acciones de piloto después de tirar la
- localización del daño.
+El piloto puede gastar tantas acciones como le queden para repetir dados
+ de daño de un arma.
  
 \end_layout
 
@@ -4346,8 +4349,8 @@ No se pueden gastar acciones del piloto para repetir la tirada de localizaciones
 \end_layout
 
 \begin_layout Itemize
-Únicamente se puede gastar una acción del piloto para añadir daño al arma
- por disparo.
+Únicamente se puede gastar una acción del piloto para repetir un dado de
+ daño de un arma.
  
 \end_layout
 

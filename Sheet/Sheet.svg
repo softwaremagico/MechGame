@@ -147,10 +147,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="209.30361"
-     inkscape:cy="485.42881"
+     inkscape:cx="209.3036"
+     inkscape:cy="372.29171"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer12"
      showgrid="false"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
@@ -4441,7 +4441,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="No Data"
-     style="display:inline">
+     style="display:none">
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.710567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect925-7-3-61-49-0-6-7-6-4-6-2"
@@ -4528,7 +4528,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="50.520805"
        y="54.805279"
        id="text1572"><tspan
