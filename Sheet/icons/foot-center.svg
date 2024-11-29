@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="foot-center.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 6.8589293 6.8461938"
+   height="6.8461938mm"
+   width="6.8589292mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="1.2816311"
+     inkscape:cy="-2.2097087"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-150.4884,-112.94971)">
+    <path
+       id="path1569"
+       style="display:inline;fill:#160c0c;fill-opacity:1;stroke-width:0.052653"
+       d="M 152.83813 112.95488 C 152.84613 113.00178 152.85605 113.04423 152.86655 113.07218 C 152.93925 113.26507 153.21637 113.55523 153.41639 113.64838 C 153.66222 113.76288 154.17898 113.71819 154.40599 113.56259 C 154.63714 113.4042 154.7808 113.201 154.83697 112.95488 L 152.83813 112.95488 z M 154.48712 114.06695 C 154.45632 114.06775 154.41115 114.09943 154.3507 114.12483 C 154.09773 114.2309 153.5853 114.23077 153.29805 114.12432 C 153.13418 114.06362 153.07414 114.05818 153.07429 114.10468 C 153.16149 115.3079 153.23596 115.16523 153.3368 116.44975 L 153.20503 116.64302 C 153.12131 116.7664 153.07894 116.90434 153.07274 117.04145 C 153.38168 117.08626 153.71595 117.14867 153.83445 117.2187 C 153.94773 117.15175 154.27521 117.09148 154.58892 117.04713 C 154.58851 117.03816 154.58796 117.02941 154.58737 117.02026 C 154.57277 116.79252 154.53707 116.68564 154.4432 116.58566 L 154.31866 116.45286 C 154.30866 115.35782 154.65506 115.03666 154.48712 114.06695 z M 152.78438 117.17426 C 152.75548 117.1742 152.72737 117.29345 152.72237 117.43936 C 152.71837 117.54779 152.69951 117.65301 152.66811 117.75303 C 152.08614 117.86085 151.79136 117.85023 151.60823 118.19538 C 151.49301 118.41257 151.40031 119.34109 151.49661 119.4475 C 151.58611 119.5464 152.36806 119.45172 153.83652 119.43872 C 153.83852 119.43874 153.84072 119.4387 153.84272 119.43872 C 155.31117 119.45102 156.0471 119.5462 156.13663 119.4475 C 156.23293 119.34109 156.14063 118.41257 156.02501 118.19538 C 155.84188 117.85019 155.61531 117.86085 155.03334 117.75303 C 155.00204 117.65303 154.9835 117.54777 154.9796 117.43936 C 154.9746 117.29345 154.94597 117.1742 154.91707 117.17426 L 154.91759 117.17478 C 154.84399 117.17478 154.07162 117.28468 153.83962 117.42179 C 153.60756 117.28464 152.85797 117.17478 152.78438 117.17478 L 152.78438 117.17426 z " />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect860"
+       width="7.0941477"
+       height="0"
+       x="148.86763"
+       y="129.31949" />
+  </g>
+</svg>
