@@ -153,7 +153,7 @@ El movimiento lo calculo con el valor de movimiento del mech orginal multiplicad
  Calcula el calor generado como las toneladas de peso del mech dividido entre 35 (y redondeado hacia arriba).
  Por ejemplo,
  un mech de 65 toneladas generará 2 de calor al mover y otros 2 de calor al correr haciendo un total de 4 de calor.
- Si pesara 75 toneladas el total de calor sería de 6.
+ Si pesara 75 toneladas el total de calor al correr sería de 6.
  
 \end_layout
 
@@ -263,7 +263,8 @@ Torso Central
 (EI cabeza + EI Torso Central)*0.15 + (1 mech pequeño,
  2 mech medio,
  3 mech pesado,
- 4 asalto)
+ 4 asalto,
+ 5 super pesado)
 \end_layout
 
 \end_inset
@@ -277,7 +278,8 @@ Torso Central
 ((EI cabeza + EI Torso Central + B cabeza + B Torso Central +B Trasero Torso Central)*0.15 + (1 mech pequeño,
  2 mech medio,
  3 mech pesado,
- 4 asalto)) - EI Torso Central
+ 4 asalto,
+ 5 super pesado)) - EI Torso Central
 \end_layout
 
 \end_inset
@@ -557,6 +559,36 @@ Blindaje * 0.15 + Torreta * 0.04
 
 \end_layout
 
+\begin_layout Standard
+En el caso de los mech super pesados
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Mech Super Pesados
+\end_layout
+
+\end_inset
+
+ (con más de 100 toneladas) se considera que tiene un torso frontal o coraza que tiene la misma puntuación de blindaje y estructura interna que un torso lateral.
+\end_layout
+
 \begin_layout Subsection
 Dados
 \end_layout
@@ -683,7 +715,7 @@ Artilleria
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../Dices/Faces/Artillery2.svg
+	filename ../Dices/Faces/Artillery3.svg
 
 \end_inset
 
@@ -711,7 +743,7 @@ Artilleria
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../Dices/Faces/EmptyFace.svg
+	filename ../Dices/Faces/Artillery2.svg
 
 \end_inset
 
@@ -1562,7 +1594,7 @@ Cobertura
 \begin_inset Text
 
 \begin_layout Plain Layout
-ación 
+Localización 
 \begin_inset Graphics
 	filename ../Dices/Localization.svg
 
@@ -2013,7 +2045,7 @@ El blindaje por la parte trasera de los torsos de un mech es mas ligero y proteg
  únicamente el primer punto de daño sera detenido por el blindaje,
  el resto de daño -si lo hubiere- pasara directamente a la estructura interna de este,
  (posiblemente causando daños críticos).
- Esto significa que es posible destruir un torso aunque todavía le quede blindaje siempre que toda su estructura interna sea destruída.
+ Esto significa que es posible destruir un torso aunque todavía le quede blindaje siempre que toda su estructura interna sea destruida.
  
 \end_layout
 
@@ -5846,7 +5878,8 @@ nolink "false"
 \end_inset
 
 ).
- 
+ Evidentemente,
+ esto destruye directamente cualquier vehículo volador o VTOL.
 \end_layout
 
 \begin_layout Standard
@@ -6430,7 +6463,7 @@ Beagle Active Probe
 \begin_layout Standard
 La Sonda Activa es un sistema de sensores mejorados que permite contrarrestar algunos elementos de la guerra electrónica.
  Tiene un alcance de 20cms y en ese área es capaz de detectar vehículos o mech ocultos,
- apagados o que utilecen Contra Medidas Electrónicas
+ apagados o que utilicen Contra Medidas Electrónicas
 \begin_inset Index idx
 range none
 pageformat default
