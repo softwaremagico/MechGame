@@ -74,7 +74,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Sortek Assault Craft](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sortek%20Assault%20Craft.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sortek%20Assault%20Craft.svg)
 
 ## Fichas
-La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus accions, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
+La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus acciones, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
 
 ![Thor Sheet](https://github.com/softwaremagico/MechGame/blob/main/PNG/Thor.png)
 
