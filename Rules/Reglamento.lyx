@@ -73,6 +73,30 @@
 \shortcut idx
 \color #008000
 \end_index
+\spellchecker_ignore spanish Battlemech
+\spellchecker_ignore spanish Cygnus
+\spellchecker_ignore spanish Pack
+\spellchecker_ignore spanish Hunters
+\spellchecker_ignore spanish MASC
+\spellchecker_ignore spanish maniobrabilidad
+\spellchecker_ignore spanish antimisiles
+\spellchecker_ignore spanish Antimisiles
+\spellchecker_ignore spanish ECM
+\spellchecker_ignore spanish CME
+\spellchecker_ignore spanish thunderbolt
+\spellchecker_ignore spanish ECMs
+\spellchecker_ignore spanish BAP
+\spellchecker_ignore spanish Beagle
+\spellchecker_ignore spanish Probe
+\spellchecker_ignore spanish Thunderbolt
+\spellchecker_ignore spanish Gauss
+\spellchecker_ignore spanish negarles
+\spellchecker_ignore spanish Encasquillable
+\spellchecker_ignore spanish VTOL
+\spellchecker_ignore spanish MorningStar
+\spellchecker_ignore spanish Alpha
+\spellchecker_ignore spanish Strike
+\spellchecker_ignore spanish VIP
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -146,7 +170,7 @@ Movimiento
 \end_layout
 
 \begin_layout Standard
-El movimiento lo calculo con el valor de movimiento del mech orginal multiplicado x2.5.
+El movimiento lo calculo con el valor de movimiento del mech original multiplicado x2.5.
  El movimiento actual es en centímetros.
  En mi versión de juego,
  el movimiento genera calor y este además depende de la masa movida.
@@ -195,7 +219,7 @@ Calor
 \begin_layout Standard
 El valor del calor aquí es ligeramente distinto e incluso el tope es algo inferior.
  Lo que necesitas convertir es el valor de disipación del calor.
- Coge el valor original y dividelo entre dos.
+ Coge el valor original y divídelo entre dos.
  
 \end_layout
 
@@ -264,7 +288,7 @@ Torso Central
  2 mech medio,
  3 mech pesado,
  4 asalto,
- 5 super pesado)
+ 5 súper pesado)
 \end_layout
 
 \end_inset
@@ -408,7 +432,7 @@ nolink "false"
  Es decir,
  un blindaje de 2.67 serán redondeados a 3 puntos de blindaje en este sistema,
  mientras que un valor de 2.45 serán 2 puntos de blindaje.
- Sientete libre de compensar blindajes entre secciones para equilibrar o si lo prefieres ajusta sus puntos de coste.
+ Siéntete libre de compensar blindajes entre secciones para equilibrar o si lo prefieres ajusta sus puntos de coste.
  
 \end_layout
 
@@ -560,7 +584,7 @@ Blindaje * 0.15 + Torreta * 0.04
 \end_layout
 
 \begin_layout Standard
-En el caso de los mech super pesados
+En el caso de los mech súper pesados
 \begin_inset Index idx
 range none
 pageformat default
@@ -581,7 +605,7 @@ status open
 \uwave off
 \noun off
 \color none
-Mech Super Pesados
+Mech Súper Pesados
 \end_layout
 
 \end_inset
@@ -685,7 +709,7 @@ Los dados de juego viene definidos como la siguiente tabla,
 \begin_inset Text
 
 \begin_layout Plain Layout
-Artilleria
+Artillería
 \begin_inset Graphics
 	filename ../Dices/Artillery.svg
 
@@ -2396,7 +2420,7 @@ Golpe
 \end_layout
 
 \begin_layout Standard
-Un ataque cuerpo a cuerpo más sencillo que cualquier mech puede utilzar también.
+Un ataque cuerpo a cuerpo más sencillo que cualquier mech puede utilizar también.
  Consiste en usar una extremidad de este y lanzarla contra el enemigo para causarle el mayor daño posible.
  Para ello,
  debes de estar contacto peana con peana con el enemigo como podría pasar después de una embestida.
@@ -2558,7 +2582,7 @@ Vehículos voladores y mech con capacidad de salto
 
 \begin_layout Standard
 Los vehículos suspendidos en el aire tienen una mayor maniobrabilidad y son blancos más difíciles de impactar.
- Por lo que tienen una bonoficación de dos dados a su defensa,
+ Por lo que tienen una bonificación de dos dados a su defensa,
  que excepcionalmente se aplica aunque no se hayan movido siempre que estén suspendidos en el aire.
  Habitualmente esta bonificación ya aparece reflejada en la ficha en los vehículos voladores o se indica como opción en los mechs con capacidad de salto.
 \end_layout
@@ -2677,7 +2701,7 @@ Un mech que disfruta de ambas bonificaciones,
  podrá elegir que dados tirar,
  pero no podrá sumar ambas modificaciones.
  Por ejemplo,
- un mech que corra para cubrise detrás de un edificio podrá elegir para cada disparo,
+ un mech que corra para cubrirse detrás de un edificio podrá elegir para cada disparo,
  si quiere utilizar sus dados de defensa o sus dados de cobertura,
  pero no ambos.
  
@@ -2688,7 +2712,7 @@ Cobertura e infantería
 \end_layout
 
 \begin_layout Standard
-Si una unidad de infanteria (ya sea motorizada o no) disfruta de algun modificador de cobertura,
+Si una unidad de infantería (ya sea motorizada o no) disfruta de algún modificador de cobertura,
  puede tirar además un dado extra de cobertura.
  
 \end_layout
@@ -3081,7 +3105,7 @@ El mech es un cuadrúpedo.
  Sin embargo,
  limita también los daños que puede tener.
  Con una extremidad destruida (brazo o pierna) el mech será incapaz de correr.
- Con dos extremidades destruídas,
+ Con dos extremidades destruidas,
  el mech se considera inutilizado.
  
 \end_layout
@@ -3222,7 +3246,7 @@ Las contramedidas electrónicas o ECM,
 
 \begin_layout Enumerate
 Si un enemigo dispara con misiles de ataque o cualquier otro misil que permita repetir un dado,
- este pierde la bonificacion de repetir un dado de daño 
+ este pierde la bonificación de repetir un dado de daño 
 \begin_inset Graphics
 	filename /home/jhortelano/workspace/MechGame/Sheet/icons/reroll.svg
 
@@ -3270,7 +3294,7 @@ Anula el uso de una Sistema de control de disparo,
 
 \begin_layout Standard
 Los ECMs no son acumulativos,
- por lo que solamente te puedes benificiar de uno de ellos a la vez.
+ por lo que solamente te puedes beneficiar de uno de ellos a la vez.
  Además,
  si entran dentro del radio de una Sonda Activa 
 \begin_inset Quotes eld
@@ -3460,7 +3484,7 @@ Mechs
 \begin_inset space ~
 \end_inset
 
-Super
+Súper
 \begin_inset space ~
 \end_inset
 
@@ -3526,7 +3550,7 @@ Mech
 \begin_inset Text
 
 \begin_layout Plain Layout
-Super Pesados
+Súper Pesados
 \end_layout
 
 \end_inset
@@ -4098,7 +4122,7 @@ Características especiales
 
 \begin_layout Standard
 Algunas armas tienen algunas características que las hacen únicas.
- Junto al tipo de daño del arma aparecerá algún símbolo especial en el caso de que el árma tenga alguna característica especial.
+ Junto al tipo de daño del arma aparecerá algún símbolo especial en el caso de que el arma tenga alguna característica especial.
  Toda la información la tienes en la Sección 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -4122,7 +4146,7 @@ pageformat default
 status open
 
 \begin_layout Plain Layout
-Localizaciónes,
+Localizaciones,
  armas
 \end_layout
 
@@ -4164,7 +4188,7 @@ El tonelaje clasifica el mech.
  los pesados entre las 60 y 75,
  y por último los de asalto entre las 80 y 100 toneladas.
  Además,
- existe una categoría extra llamada super pesados.
+ existe una categoría extra llamada súper pesados.
  Estos van entre las 100 y 150 toneladas.
  
 \end_layout
@@ -4233,20 +4257,20 @@ Un arma que lanza un haz de luz muy energético que permite derretir incluso los
 \end_layout
 
 \begin_layout Itemize
-Láse Convencional
+Láser Convencional
 \begin_inset Index idx
 range none
 pageformat default
 status open
 
 \begin_layout Plain Layout
-Láse Convencional
+Láser Convencional
 \end_layout
 
 \end_inset
 
 .
- El módelo más habitual de este arma.
+ El modelo más habitual de este arma.
  
 \end_layout
 
@@ -4358,7 +4382,7 @@ Cañón
 \begin_layout Standard
 Un sistema que lanza un obús inteligente que explota cuando está lo suficientemente cerca del objetivo para causar daño.
  Evidentemente,
- cuando más grande sea el obus,
+ cuando más grande sea el obús,
  mayor es la explosión y su radio de acción.
  Aunque no tiene un área suficientemente grande para impactar a más de un mech enemigo de forma práctica,
  cuanto mayor sea la explosión,
@@ -4411,7 +4435,7 @@ Cañón Ligero
 \end_inset
 
 .
- Pesa menos que el modelo convenciónal,
+ Pesa menos que el modelo convencional,
  pero tiene menos alcance.
 \end_layout
 
@@ -4427,14 +4451,14 @@ Cañón Ligero
 \end_layout
 
 \begin_layout Itemize
-Cañon Doble
+Cañón Doble
 \begin_inset Index idx
 range none
 pageformat default
 status open
 
 \begin_layout Plain Layout
-Cañon Doble
+Cañón Doble
 \end_layout
 
 \end_inset
@@ -4712,7 +4736,7 @@ Misiles Tácticos
 \end_inset
 
 .
- Mísiles que utilizan parte de su combustible como explosivo al detonar.
+ Misiles que utilizan parte de su combustible como explosivo al detonar.
  Por lo que cuanto mayor es la distancia recorrida,
  menor es el daño causado.
  Debido a que necesitan un tiempo para establecer el blanco enemigo,
@@ -4863,7 +4887,7 @@ Un arma muy tradicional aunque en versión más grande y eficiente.
  En general dispara una gran cantidad de pequeños proyectiles que pueden dañar el blindaje enemigo.
  En comparación con otras armas no tienen mucho alcance,
  pero son muy utilizadas para protegerse de la infantería,
- ya que son anti infanteria
+ ya que son anti infantería
 \begin_inset Index idx
 range none
 pageformat default
@@ -5042,7 +5066,7 @@ Garras
 
 ,
  etc.
- Armás que simplemente mejoran la efectividad de la unidad cuerpo a cuerpo.
+ Armas que simplemente mejoran la efectividad de la unidad cuerpo a cuerpo.
 \end_layout
 
 \begin_layout Standard
@@ -5166,8 +5190,8 @@ Normalmente las armas disponen de tres rangos de alcance:
  mientras que medio es el rango central e igualmente con largo,
  que es el rango que incluye la máxima distancia del arma.
  Existen algunas excepciones,
- por ejemplo un mísil de largo alcance no puede disparar a corto alcance,
- pero un laser pequeño únicamente puede disparar a corto alcance.
+ por ejemplo un misil de largo alcance no puede disparar a corto alcance,
+ pero un láser pequeño únicamente puede disparar a corto alcance.
  
 \end_layout
 
@@ -5562,7 +5586,7 @@ nolink "false"
 ).
  En el caso de que el arma se pueda encasquillar y dispares contra un único enemigo,
  una de las arma se encasquillará si tantos dados como el daño base del arma salen en blanco.
- El calor generado por el arma se múltiplica por el número de disparos realizados.
+ El calor generado por el arma se multiplica por el número de disparos realizados.
  Por ejemplo los cañones dobles y los cañones de repetición hacen 2 y 3 disparos respectivamente.
 \end_layout
 
@@ -5577,7 +5601,7 @@ El Cygnus tiene dos cañones largos dobles.
  hará 6 de daño,
  pero generará también 16 puntos de calor.
  Además uno de los cañones se encasquillará si saca 3 dados en blanco sobre la tirada de 6 dados de daño,
- lo que es un probabiliad de encasquillamiento bastante elevada.
+ lo que es un probabilidad de encasquillamiento bastante elevada.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -5604,7 +5628,7 @@ Daño Disperso
 \begin_layout Standard
 Los disparos afectan a más de una localización.
  Por tanto,
- una vez calculado el daño efecturado y sustraído cualquier defensa o cobertura que el enemigo que tenga,
+ una vez calculado el daño efectuado y sustraído cualquier defensa o cobertura que el enemigo que tenga,
  se deberá tirar los dados de localización por cada punto de daño de forma separada.
  
 \end_layout
@@ -5964,7 +5988,7 @@ Comando
 
 \begin_layout Standard
 Representa a una unidad de comando.
- Las unidades de comando coordinand mejor a todas aquellas unidades cercanas a esta,
+ Las unidades de comando coordinan mejor a todas aquellas unidades cercanas a esta,
  mejorando sus habilidades.
  Una unidad de comandos puede gastar sus puntos de piloto pero sobre cualquier unidad amiga a 30cms.
  
@@ -6009,8 +6033,8 @@ VTOL
 \end_inset
 
 ).
- Esto signficia que el vehículo siempre está volando,
- dandole dos dados más a la defensa (ya incluído en la ficha).
+ Esto significa que el vehículo siempre está volando,
+ dándole dos dados más a la defensa (ya incluido en la ficha).
  Por contra,
  a pesar de la pericia del piloto,
  lo tiene más difícil para buscar cobertura,
@@ -6058,7 +6082,7 @@ Localizaciones
  localización de daño,
  sino que aplica directamente el daño al escudo.
  Una vez el escudo se queda sin puntos de blindaje,
- se considera destruído y el daño restante y subsiguiente se aplicará en las localizaciones normalmente.
+ se considera destruido y el daño restante y subsiguiente se aplicará en las localizaciones normalmente.
  El blindaje del escudo depende de su tamaño:
  5 para los escudos pequeños,
  10 para los medianos y 15 para los grandes.
@@ -6154,7 +6178,7 @@ La unidad posee carga altamente explosiva.
  Ya sea la carga en sí,
  algún tipo de arma experimental o la munición de esta.
  Sea como sea,
- cuando la unidad es destruída hace una gran explosión que puede afectar a todas las unidades cercanas.
+ cuando la unidad es destruida hace una gran explosión que puede afectar a todas las unidades cercanas.
  Tira 5 dados de calor 
 \begin_inset Graphics
 	filename ../Sheet/icons/heat.svg
@@ -6190,8 +6214,8 @@ Reparar
 
 \begin_layout Standard
 La unidad dispone de un artilugio que permite realizar reparaciones urgentes en mitad del campo de batalla,
- permitiendo reparar un único punto de armadura a cada una de las secciones del mech que todavía no hayan sido destruídas.
- La estructura interna no puede ser reparada y aquellas secciones que hayan sido completamente destruídas tampoco.
+ permitiendo reparar un único punto de armadura a cada una de las secciones del mech que todavía no hayan sido destruidas.
+ La estructura interna no puede ser reparada y aquellas secciones que hayan sido completamente destruidas tampoco.
  Tampoco se puede superar el máximo de armadura de otro vehículo.
  
 \end_layout
@@ -6286,7 +6310,7 @@ Anfibio
 El vehículo es capaz de ir por el agua a la mitad de su movimiento normal.
  De esta forma,
  es capaz de cruzar ríos y lagos,
- si bien no le permite hacer grandes traverías por el mar.
+ si bien no le permite hacer grandes travesías por el mar.
  
 \end_layout
 
@@ -6338,12 +6362,28 @@ MASC
 \end_layout
 
 \begin_layout Standard
-El dispositivo MASC o (Myomer Accelerator Signal Circuitry) permite a un mech duplicar su velocidad al andar.
+El dispositivo MASC o (
+\nospellcheck on
+Myomer
+\nospellcheck default
+ 
+\nospellcheck on
+Accelerator
+\nospellcheck default
+ 
+\nospellcheck on
+Signal
+\nospellcheck default
+ 
+\nospellcheck on
+Circuitry
+\nospellcheck default
+) permite a un mech duplicar su velocidad al andar.
  Por lo que si corre este moverá un total del triple de su velocidad (x2 de andar más correr normalmente).
- Puede ser utilizado en turnos alternos sin penalización o en el caso de que se utilize dos turnos seguidos,
+ Puede ser utilizado en turnos alternos sin penalización o en el caso de que se utilice dos turnos seguidos,
  tira un dado de calor.
- Si sale el síombolo de fuego,
- el dispositivo habrá sobrecalentado las piernas causandole que pierda un punto de estructura interna a cada una de ellas.
+ Si sale el símbolo de fuego,
+ el dispositivo habrá sobrecalentado las piernas causándole que pierda un punto de estructura interna a cada una de ellas.
  
 \emph on
 Los mech con sistema MASC tienen en las fichas un recuadro para marcar cuando ha sido utilizado.
@@ -6385,7 +6425,13 @@ pageformat default
 status open
 
 \begin_layout Plain Layout
-Targeting Computer
+
+\nospellcheck on
+Targeting
+\nospellcheck default
+ 
+\nospellcheck on
+Computer
 \end_layout
 
 \end_inset
@@ -6397,6 +6443,8 @@ pageformat default
 status open
 
 \begin_layout Plain Layout
+
+\nospellcheck on
 FCS
 \end_layout
 
@@ -6406,11 +6454,15 @@ FCS
 \end_layout
 
 \begin_layout Standard
-Un sistema de control de disparo (FCS por sus siglas en idioma inglés) es una serie de componentes interconectados,
+Un sistema de control de disparo (
+\nospellcheck on
+FCS
+\nospellcheck default
+ por sus siglas en idioma inglés) es una serie de componentes interconectados,
  sistemas de datos de armas,
  guía y radar diseñados para ayudar en el seguimiento,
  apuntamiento y ataque de armas de largo alcance.
- Los mechs equipados con esta mejora pueden repetir un dado de localización al disparar con un arma de fuego directo (habitaulamente cañones y láseres).
+ Los mechs equipados con esta mejora pueden repetir un dado de localización al disparar con un arma de fuego directo (habitualmente cañones y láseres).
  El dado escogido queda a discreción del jugador.
  
 \end_layout
@@ -6503,6 +6555,49 @@ Contramedidas Electrónicas
  Una Sonda Activa solamente puede contrarrestar un único mech que utilice Contra Medidas Electrónicas.
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/anti-personnel.svg
+
+\end_inset
+
+Equipo Antipersonal
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Equipo Antipersonal
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El vehículo tiene un equipo anti personal especializado.
+ Puede ser una granada que cubre un área de metralla,
+ armas incendiarias o cualquier otra cosa similar.
+ El efecto es que cuando una unidad con esta propiedad elimina cualquier unidad de infantería que esté situada a menos de 5 centímetros.
+ 
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
@@ -6519,7 +6614,7 @@ Cuando varias unidades similares se juntan en un pelotón y actúan en conjunto,
  Todos los integrantes de una escuadra deben ser exactamente el mismo modelo con el mismo equipamiento.
  Además,
  deben de permanecer en todo momento a una distancia de 10 cms de otro componente de la escuadra.
- En el caso de que un miembro de la escuadra sea destruído y no se cumpla la regla de los 10 cms,
+ En el caso de que un miembro de la escuadra sea destruido y no se cumpla la regla de los 10 cms,
  deberán moverse obligatoriamente para volver a cumplir la norma lo antes posible.
  
 \end_layout
@@ -6557,7 +6652,7 @@ Líder
 
 \begin_layout Standard
 Una escuadra puede tener designado un líder.
- El lider debe ser el piloto con mayor puntos de acciones disponibles,
+ El líder debe ser el piloto con mayor puntos de acciones disponibles,
  y habitualmente el único con estos puntos.
  Si una escuadra aplica la norma de Concentración de Disparos
 \begin_inset Index idx
@@ -6572,7 +6667,7 @@ Concentración de Disparos
 \end_inset
 
 ,
- puede utilizar las acciones del lider para repetir los dados de manera habitual con las restricciones de cualquier otro disparo.
+ puede utilizar las acciones del líder para repetir los dados de manera habitual con las restricciones de cualquier otro disparo.
  
 \end_layout
 
@@ -6794,7 +6889,11 @@ Defensa
 
 \begin_layout Standard
 La infantería puede tener defensa al igual que cualquier otro vehículo.
- Resuelvela normalmente.
+ 
+\nospellcheck on
+Resuélvela
+\nospellcheck default
+ normalmente.
  Ten en cuenta que su reducido tamaño hará que la infantería lo tenga más fácil para aplicar dados de cobertura.
  
 \end_layout
@@ -6851,12 +6950,11 @@ Atrincherarse
 
 \end_inset
 
-Cuando una unidad de infantería no ha movido durante su turno,
- se considera que se atrinchera.
+Una unidad de infantería tiene la capacidad de atrincherarse.
  Una unidad atrincherada utiliza las pequeñas variaciones de terreno para cubrirse aprovechando su pequeño tamaño.
  Por tanto,
  cuando un mech o vehículo enemigo quiere disparar a un pelotón de infantería lo tiene más difícil para hacerles daño.
- Tira el daño normalmente restando la defensa de la infantería como en cualquier combate normal.
+ Tira el daño normalmente restando la defensa de la infantería o cobertura como en cualquier combate normal.
  Sin embargo,
  el atacante únicamente puede quitar tantas miniaturas de infantería si el daño iguala o supera el número de soldados por peana.
  Es decir,
@@ -6890,7 +6988,7 @@ Anti Infantería
  Es decir,
  en el ejemplo de 9 de daño,
  se hubieran eliminado dos peanas si el daño se hace con un lanzallamas.
- También un daño de 6 hubiera elimintado las mismas dos peanas.
+ También un daño de 6 hubiera eliminado las mismas dos peanas.
  
 \end_layout
 
@@ -7053,7 +7151,7 @@ nolink "false"
 \end_layout
 
 \begin_layout Subsection
-Módos de juego
+Modos de juego
 \end_layout
 
 \begin_layout Subsubsection
@@ -7277,22 +7375,22 @@ Este es un escenario no demasiado realista,
 \begin_layout Standard
 Escoge un objetivo a mitad del campo de batalla y márcalo de alguna manera.
  Puede ser un edificio,
- un vehículo inmobilizado,
+ un vehículo inmovilizado,
  etc.
  Mientras no exista ninguna unidad del bando normal en contacto con este objetivo,
  la oleada estará en activo,
- lo que significa que aunque un mech del bando de la oleada sea destruído,
+ lo que significa que aunque un mech del bando de la oleada sea destruido,
  este aparece de nuevo por su lado de la mesa en su próximo turno.
  Si mantienes un mech en contacto con el objetivo o a menos de 5 cms,
- la oleada estará desactivada y en el caso de que un mech sea destruído,
+ la oleada estará desactivada y en el caso de que un mech sea destruido,
  no volverá a aparecer.
  Sin embargo,
  si dejas de tener mechs protegiendo el objetivo,
- automáticamente la oleada vuelve a estar en activo ¡y todos los mechs del bando de la oleada anteriomente destruídos aparecerán inmediatamente!
+ automáticamente la oleada vuelve a estar en activo ¡y todos los mechs del bando de la oleada anteriormente destruidos aparecerán inmediatamente!
 \end_layout
 
 \begin_layout Standard
-El bando de la oleada ganará si es capaz de eliminar los mechs del bando normal o si una de sus unidades alcanza el objetivo y se situa a menos de 5 cms (se supone que lo destruye).
+El bando de la oleada ganará si es capaz de eliminar los mechs del bando normal o si una de sus unidades alcanza el objetivo y se sitúa a menos de 5 cms (se supone que lo destruye).
  
 \end_layout
 
