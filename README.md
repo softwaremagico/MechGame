@@ -48,6 +48,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![ConstructionMech MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ConstructionMech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/ConstructionMech.svg)
 [![ConstructionMech MkII](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ConstructionMech%20MkII.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/ConstructionMech%20MkII.svg)
 [![ConstructionMech MkII MOD](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ConstructionMech%20MkII%20MOD.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/ConstructionMech%20MkII%20MOD.svg)
+[![ForestryMech ED-X4B](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/ForestryMech%20ED-X4B.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/ForestryMech%20ED-X4B.svg)
 
 
 [![DI Schmitt](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/DI%20Schmitt.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/DI%20Schmitt.svg)

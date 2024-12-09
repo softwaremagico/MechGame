@@ -5168,6 +5168,48 @@ Pala Excavadora.
 
 \end_layout
 
+\begin_layout Itemize
+Bola de Demoliciones
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Bola de Demoliciones
+\end_layout
+
+\end_inset
+
+.
+ Un arma que puede impactar a varios enemigos a la vez.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Sheet/Weapons/WreckingBall.svg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Alcance
 \begin_inset Index idx
@@ -5961,6 +6003,50 @@ Recarga Lenta
  Es decir,
  después de disparar un turno,
  el siguiente no puede ser utilizada.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/multiples-targets.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Múltiples Objetivos
+\end_layout
+
+\end_inset
+
+Múltiples Objetivos
+\end_layout
+
+\begin_layout Standard
+Un arma con esta característica impactará a varios objetivos a la vez.
+ Normalmente,
+ si es un arma cuerpo a cuerpo impactará a todos los objetivos dentro de su alcance,
+ mientras que si es un arma de disparo,
+ impactará a todos los objetivos en una misma línea dentro de su alcance.
+ 
 \end_layout
 
 \begin_layout Subsection
