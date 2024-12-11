@@ -146,16 +146,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84475806"
-     inkscape:cx="464.03819"
-     inkscape:cy="314.88306"
+     inkscape:zoom="1.1946683"
+     inkscape:cx="610.62974"
+     inkscape:cy="372.48833"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1854"
-     inkscape:window-height="1011"
-     inkscape:window-x="66"
-     inkscape:window-y="1112"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="false"
@@ -1922,7 +1922,7 @@
     <g
        style="display:inline"
        id="g3612-9"
-       transform="translate(20.47236,60.663073)">
+       transform="translate(20.47236,38.278713)">
       <rect
          y="-44.796879"
          x="209.82574"
@@ -1951,7 +1951,7 @@
          style="display:inline;fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-width:0.0255349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-43.116614,28.795395)"
+       transform="translate(-43.116614,51.179755)"
        style="display:inline"
        id="g2735">
       <rect

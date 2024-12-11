@@ -6686,6 +6686,121 @@ El vehículo tiene un equipo anti personal especializado.
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/laser-tag.svg
+
+\end_inset
+
+Láser TAG
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+Láser TAG
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El mech tiene un láser que favorece el apuntar a un objetivo y guiar los misiles hasta este.
+ Un Mech con esta función puede elegir un objetivo situado en su línea de visión y contar con dos beneficios:
+ todos los ataques de misiles tienen la habilidad de Reduce Defensa (
+\begin_inset Graphics
+	filename ../Sheet/icons/negatesDefense.svg
+
+\end_inset
+
+)
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Reduce Defensa
+\end_layout
+
+\end_inset
+
+ contra dicho objetivo hasta el final del turno que usa el TAG (pon un marcador a la miniatura para acordarte).
+ Se aplica tanto a los misiles que lance la unidad que tiene el TAG,
+ como a aquellos aliados que disparen a este objetivo durante este turno.
+ Además los aliados equipados con misiles con Fuego Indirecto (
+\begin_inset Graphics
+	filename ../Sheet/icons/IndirectFire.svg
+
+\end_inset
+
+)
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Fuego Indirecto
+\end_layout
+
+\end_inset
+
+ pueden disparar a objetivos a los que no tengan visión.
+ 
+\end_layout
+
+\begin_layout Standard
+Existen dos tipos de Láser Tag:
+ normal 
+\begin_inset Graphics
+	filename ../Sheet/icons/laser-tag.svg
+
+\end_inset
+
+ y ligero 
+\begin_inset Graphics
+	filename ../Sheet/icons/light-laser-tag.svg
+
+\end_inset
+
+.
+ La versión normal tiene un alcance de 65 cms,
+ mientras que la versión ligera tiene un alcance de 40 cms.
+ 
+\end_layout
+
 \begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
