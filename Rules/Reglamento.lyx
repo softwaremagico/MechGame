@@ -5414,14 +5414,15 @@ Mira Lenta
 \end_layout
 
 \begin_layout Standard
-El arma necesita cierta estabilidad para apuntar.
- Lo que significa que para poder disparar,
- el mech no debe haber corrido.
+El arma necesita cierta calma para poder apuntar correctamente.
+ Lo que significa que para poder disparar a largas distancias,
+ la unidad que la dispara no debe haber corrido.
  Si ya ha corrido,
- lanzará un dado menos de daño.
+ lanzará un dado menos de daño que refleja la falta de precisión del arma.
  En el caso de que primero dispare y luego mueva,
- el mech no tendrá permitido correr si ya ha disparado un arma con este símbolo.
- Se le permite andar normalmente sin penalización.
+ el mech no tendrá permitido correr si ya ha utilizado un arma con este símbolo contra un objetivo a largo alcance.
+ Se le permite andar normalmente sin penalización,
+ así como correr y disparar a objetivos a corto o medio alcance normalmente.
  
 \end_layout
 
@@ -5455,6 +5456,39 @@ Por ejemplo,
  un mech que esté disfrutando de una protección por cobertura de tipo parcial,
  tirará dos dados de cobertura habitualmente,
  pero solamente un dado si el arma que le dispara son misiles de largo alcance.
+ 
+\end_layout
+
+\begin_layout Standard
+Además,
+ permiten disparar a objetivos a los que no tengan visión directa si están afectados por un Láser TAG
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Láser TAG
+\end_layout
+
+\end_inset
+
+ simpre y cuando sea razonable que el arma les pueda impactar.
+ Si bien en este caso el objetivo tendrá derecho a tres dados de cobertura.
  
 \end_layout
 
@@ -5889,7 +5923,8 @@ Reduce Defensa
 El arma limita la defensa del objetivo.
  Quizá tiene un área particularmente grande que resulta más difícil de esquivar,
  o por cualquier otro motivo resulta particularmente difícil de esquivar.
- El objetivo tira dos dados menos de defensa cuando es impactado por este arma.
+ El objetivo tira dos dados menos de defensa cuando es impactado por este arma,
+ hasta un mínimo de cero dados.
  
 \end_layout
 
