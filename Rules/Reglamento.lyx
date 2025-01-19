@@ -3283,8 +3283,10 @@ Fuego Indirecto
 \end_layout
 
 \begin_layout Enumerate
-Todas las armas realizan un dado menos de daño cuando disparan a un objetivo situado a largo alcance,
- debido a la imposibilidad de usar sistemas de fijación de objetivo mientras el objetivo esté protegido por un ECM.
+El atacante debe descartar un dado como si el objetivo hubiera sacado un 1 en cobertura.
+ Este penalizador se aplica tanto si el objetivo utiliza los dados de defensa o escoge la bonificación por cobertura.
+ En el segundo caso,
+ este punto se suma a la bonificación obtenida a la tirada por cobertura.
  
 \end_layout
 
@@ -3376,6 +3378,76 @@ Puedes usar un ECM aliado para cancelar el efecto de un ECM enemigo si esté est
  Si bien el ECM que esté en modo disruptivo no podrá beneficiarse tampoco de la protección que ofrece el suyo.
  En el caso de que una unidad esté dentro del radio de acción de dos o más ECMs aliados,
  se deben anular todos ellos por un número igual de ECMs enemigos para que la unidad deje de beneficiarse de la protección de este.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/stealth-armor.svg
+
+\end_inset
+
+Armadura Sigilosa
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Armadura Sigilosa
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+Stealth Armor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La armadura sigilosa (o 
+\begin_inset Quotes eld
+\end_inset
+
+stealth armor
+\begin_inset Quotes erd
+\end_inset
+
+ como se denomina en inglés),
+ protege al mech haciendo más difícil de detectar,
+ al coste de una penalización al calor.
+ Un mech con esta equipación puede decidir si lo activa o no durante este turno.
+ Si lo activa,
+ generará 5 puntos de calor por turno,
+ pero cualquier atacante debe descartar un dado como si el objetivo hubiera sacado un 1 en cobertura.
+ Si se combina con un ECM tendrá un total de 2 de cobertura extra.
+ Estos penalizadores se aplican tanto si el objetivo utiliza los dados de defensa o escoge la bonificación por cobertura.
+ En el segundo caso,
+ este punto se suma a la bonificación por cobertura.
+ 
 \end_layout
 
 \begin_layout Subsection
