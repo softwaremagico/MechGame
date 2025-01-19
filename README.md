@@ -37,6 +37,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Crimson Hawk 4](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Crimson%20Hawk%204.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Crimson%20Hawk%204.svg)
 [![Black Hawk](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Black%20Hawk.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Black%20Hawk.svg)
 [![Koshi](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Koshi.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Koshi.svg)
+[![Firestarter](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Firestarter.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Firestarter.svg)
 [![Poseidon](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Poseidon.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Poseidon.svg)
 [![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech.svg)
 [![Agromech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II.svg)
