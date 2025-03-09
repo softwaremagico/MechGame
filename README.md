@@ -39,7 +39,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Koshi](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Koshi.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Koshi.svg)
 [![Koshi Six Guns](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Koshi%20Six%20Guns.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Koshi%20Six%20Guns.svg)
 [![Firestarter](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Firestarter.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Firestarter.svg)
-[![Solitaire](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/solitaire.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/solitaire.svg)
+[![Solitaire](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Solitaire.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Solitaire.svg)
 [![Poseidon](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Poseidon.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Poseidon.svg)
 [![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech.svg)
 [![Agromech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II.svg)
