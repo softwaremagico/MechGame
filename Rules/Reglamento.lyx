@@ -4155,6 +4155,12 @@ Sin calor
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Alcance"
+
+\end_inset
+
 Alcance
 \begin_inset Index idx
 range none
@@ -4168,6 +4174,46 @@ Alcance
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Las armas tienen distinto alcance según el tipo y categoría.
+ Ya viene indicado en cada uno de ellas.
+\end_layout
+
+\begin_layout Standard
+Un disparo a corto alcance no tiene penalización.
+ Mientras que un disparo a medio alcance tiene un -1 al resultado de la tirada del dado.
+ Un disparo a largo alcance sin embargo,
+ tiene un -2 a la tirada del dado.
+ Esta penalización puede ser modificada con algunas características,
+ como la mejora de Arma Estabilizada
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Arma Estabilizada
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsubsection
@@ -6906,6 +6952,103 @@ Existen dos tipos de Láser Tag:
  La versión normal tiene un alcance de 65 cms,
  mientras que la versión ligera tiene un alcance de 40 cms.
  
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/improved-cooling.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Enfriamiento Mejorado
+\end_layout
+
+\end_inset
+
+Enfriamiento Mejorado
+\end_layout
+
+\begin_layout Standard
+Un arma con esta cualidad genera un punto menos de calor de lo habitual.
+ Hasta un mínimo de uno.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/stabilized.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Arma Estabilizada
+\end_layout
+
+\end_inset
+
+Arma Estabilizada
+\end_layout
+
+\begin_layout Standard
+Un arma con esta habilidad reduce en uno la penalización a disparar en movimiento según su alcance (ver 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Alcance"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+).
+ Por lo que el penalizador al daño se queda en:
+ Corto:
+ +0,
+ Medio:
+ +0,
+ Largo:
+ -1.
 \end_layout
 
 \begin_layout Section
