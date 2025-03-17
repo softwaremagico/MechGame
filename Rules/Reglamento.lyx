@@ -6202,6 +6202,146 @@ Un arma con esta característica impactará a varios objetivos a la vez.
  
 \end_layout
 
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/improved-cooling.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Enfriamiento Mejorado
+\end_layout
+
+\end_inset
+
+Enfriamiento Mejorado
+\end_layout
+
+\begin_layout Standard
+Un arma con esta cualidad genera un punto menos de calor de lo habitual.
+ Hasta un mínimo de uno.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/stabilized.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Arma Estabilizada
+\end_layout
+
+\end_inset
+
+Arma Estabilizada
+\end_layout
+
+\begin_layout Standard
+Un arma con esta habilidad reduce en uno la penalización a disparar en movimiento según su alcance (ver 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Alcance"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+).
+ Por lo que el penalizador al daño se queda en:
+ Corto:
+ +0,
+ Medio:
+ +0,
+ Largo:
+ -1.
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/critical.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Perforante
+\end_layout
+
+\end_inset
+
+Perforante
+\end_layout
+
+\begin_layout Standard
+Las armas perforantes logran atravesar la armadura por pequeñas secciones de estas si necesidad de destruirla completamente.
+ Siempre que un arma perforante haga daño,
+ tirará el dado de daños críticos,
+ incluso si no ha eliminado toda la armadura del objetivo.
+ 
+\end_layout
+
 \begin_layout Subsection
 Otros
 \end_layout
@@ -6798,6 +6938,51 @@ Contramedidas Electrónicas
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/narrow.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Perfil Reducido
+\end_layout
+
+\end_inset
+
+Perfil Reducido
+\end_layout
+
+\begin_layout Standard
+La unidad tiene un perfil reducido que lo hace más difícil de impactar.
+ La unidad tiene un dado extra de defensa cuando anda y uno extra cuando corre.
+ Además estos dados no podrán ser reducido de ninguna manera,
+ por lo que siempre se tiran estos dados aunque,
+ por ejemplo,
+ se combine con cobertura.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/anti-personnel.svg
 
 \end_inset
@@ -6952,103 +7137,6 @@ Existen dos tipos de Láser Tag:
  La versión normal tiene un alcance de 65 cms,
  mientras que la versión ligera tiene un alcance de 40 cms.
  
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/improved-cooling.svg
-
-\end_inset
-
-
-\begin_inset Index idx
-range none
-pageformat default
-status open
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Enfriamiento Mejorado
-\end_layout
-
-\end_inset
-
-Enfriamiento Mejorado
-\end_layout
-
-\begin_layout Standard
-Un arma con esta cualidad genera un punto menos de calor de lo habitual.
- Hasta un mínimo de uno.
-\end_layout
-
-\begin_layout Subsubsection*
-\begin_inset Graphics
-	filename ../Sheet/icons/stabilized.svg
-
-\end_inset
-
-
-\begin_inset Index idx
-range none
-pageformat default
-status open
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Arma Estabilizada
-\end_layout
-
-\end_inset
-
-Arma Estabilizada
-\end_layout
-
-\begin_layout Standard
-Un arma con esta habilidad reduce en uno la penalización a disparar en movimiento según su alcance (ver 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "subsec:Alcance"
-plural "false"
-caps "false"
-noprefix "false"
-nolink "false"
-
-\end_inset
-
-).
- Por lo que el penalizador al daño se queda en:
- Corto:
- +0,
- Medio:
- +0,
- Largo:
- -1.
 \end_layout
 
 \begin_layout Section
