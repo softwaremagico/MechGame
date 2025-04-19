@@ -41,6 +41,8 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Firestarter](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Firestarter.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Firestarter.svg)
 [![Solitaire](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Solitaire.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Solitaire.svg)
 [![Nyx](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Nyx.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Nyx.svg)
+[![Spider](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Spider.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Spider.svg)
+[![Spider SL-L](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Spider%20SL-L.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Spider%20SL-L.svg)
 [![Poseidon](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Poseidon.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Poseidon.svg)
 [![Agromech](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech.svg)
 [![Agromech MK II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Agromech%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Agromech%20MK%20II.svg)

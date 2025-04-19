@@ -1519,7 +1519,6 @@ Defensa
 \begin_inset Text
 
 \begin_layout Plain Layout
-Cobertura
 \begin_inset Graphics
 	filename ../Dices/Cover.svg
 
@@ -2706,6 +2705,9 @@ Un mech que disfruta de ambas bonificaciones,
  un mech que corra para cubrirse detrás de un edificio podrá elegir para cada disparo,
  si quiere utilizar sus dados de defensa o sus dados de cobertura,
  pero no ambos.
+ La única excepción es la regla de Perfil Reducido,
+ en la que los dados no se reducen,
+ por lo que podrá acumular únicamente la bonificación de perfil reducido a la cobertura.
  
 \end_layout
 
@@ -2716,6 +2718,20 @@ Cobertura e infantería
 \begin_layout Standard
 Si una unidad de infantería (ya sea motorizada o no) disfruta de algún modificador de cobertura,
  puede tirar además un dado extra de cobertura.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Usar otra miniatura como cobertura
+\end_layout
+
+\begin_layout Standard
+Las demás miniaturas no ofrecen cobertura,
+ salvo que se indique expresamente.
+ Una miniatura que cubre a otra miniatura,
+ no podrá mover y no podrá disfrutar de ningún dado de defensa.
+ Además,
+ recibirá todo el daño que reciba como cobertura.
  
 \end_layout
 
@@ -2881,7 +2897,7 @@ placement document
 alignment document
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -6339,6 +6355,10 @@ Las armas perforantes logran atravesar la armadura por pequeñas secciones de es
  Siempre que un arma perforante haga daño,
  tirará el dado de daños críticos,
  incluso si no ha eliminado toda la armadura del objetivo.
+ Además,
+ si se golpea el torso central y se obtiene el efecto de arma destruída,
+ el motor será destruido y por tanto,
+ el objetivo será eliminado.
  
 \end_layout
 
@@ -6978,6 +6998,7 @@ La unidad tiene un perfil reducido que lo hace más difícil de impactar.
  por lo que siempre se tiran estos dados aunque,
  por ejemplo,
  se combine con cobertura.
+ Normalmente estos dados extras vienen reflejados en la ficha con un color distinto a los normales.
  
 \end_layout
 
@@ -7136,6 +7157,49 @@ Existen dos tipos de Láser Tag:
 .
  La versión normal tiene un alcance de 65 cms,
  mientras que la versión ligera tiene un alcance de 40 cms.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/easy.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Fácil de Pilotar
+\end_layout
+
+\end_inset
+
+Fácil de Pilotar
+\end_layout
+
+\begin_layout Standard
+El mech es fácil de pilotar,
+ lo que significa que si un piloto es cadete y pilota este mech,
+ será considerado como soldado.
+ Por tanto tendrá un dado de piloto que podrá usar normalmente.
  
 \end_layout
 
