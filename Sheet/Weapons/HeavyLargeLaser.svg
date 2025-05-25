@@ -7,7 +7,7 @@
    viewBox="0 0 120 23.016712"
    version="1.1"
    id="svg1100"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="HeavyLargeLaser.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142137"
-     inkscape:cx="173.5947"
-     inkscape:cy="-19.091881"
+     inkscape:zoom="2.8284274"
+     inkscape:cx="269.76121"
+     inkscape:cy="8.1317272"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -42,7 +42,9 @@
      fit-margin-bottom="0"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1097">
     <rdf:RDF>
@@ -242,7 +244,7 @@
          y="47.528111"
          x="42.532101"
          id="tspan1086-8"
-         sodipodi:role="line">15</tspan></text>
+         sodipodi:role="line">20</tspan></text>
     <text
        id="text1088-0-9"
        y="47.509373"
@@ -253,7 +255,7 @@
          y="47.509373"
          x="60.52253"
          id="tspan1086-9-2"
-         sodipodi:role="line">30</tspan></text>
+         sodipodi:role="line">40</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -270,7 +272,7 @@
          y="47.509373"
          x="68.985878"
          id="tspan1086-97"
-         sodipodi:role="line">30</tspan></text>
+         sodipodi:role="line">40</tspan></text>
     <text
        id="text1088-0-6"
        y="47.491932"
@@ -281,7 +283,7 @@
          y="47.491932"
          x="87.0737"
          id="tspan1086-9-1"
-         sodipodi:role="line">45</tspan></text>
+         sodipodi:role="line">60</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -320,7 +322,7 @@
          y="47.528111"
          x="34.158619"
          id="tspan1086-9"
-         sodipodi:role="line">15</tspan></text>
+         sodipodi:role="line">20</tspan></text>
     <g
        id="g18128"
        transform="translate(-1.4738913)">
