@@ -37,6 +37,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Nyx](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Nyx.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Nyx.svg)
 [![Panther  13K](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Panther%2013K.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Panther%2013K.svg)
 [![Poseidon](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Poseidon.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Poseidon.svg)
+[![Raven](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Raven.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Raven.svg)
 [![Ryoken II](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Ryoken%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Ryoken%20II.svg)
 [![Solitaire](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Solitaire.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Solitaire.svg)
 [![Spider](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Spider.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Spider.svg)
