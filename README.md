@@ -80,6 +80,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![JI-100 Transportable Field Repair Vehicle](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/JI00%20Recovery%20Vehicle.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/JI00%20Recovery%20Vehicle.svg)
 [![Joust BE701](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Joust%20BE701.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Joust%20BE701.svg)
 [![M1 Marksman Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/M1%20Marksman%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/M1%20Marksman%20Tank.svg)
+[![Mars Assault Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Mars%20Assault%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Mars%20Assault%20Tank.svg)
 [![Mobile HQ](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Mobile%20HQ.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Mobile%20HQ.svg)
 [![MorningStar CV](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/MorningStar%20CV.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/MorningStar%20CV.svg)
 [![Po II Heavy Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Po%20II%20Heavy%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Po%20II%20Heavy%20Tank.svg)
