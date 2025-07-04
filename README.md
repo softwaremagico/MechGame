@@ -87,6 +87,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Sniper Artillery](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sniper%20Artillery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sniper%20Artillery.svg)
 [![Sortek Assault Craft](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sortek%20Assault%20Craft.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sortek%20Assault%20Craft.svg)
 [![Skanda Light Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Skanda.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Skanda.svg)
+[![SM1 Tank Destroyer](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/SM1%20Tank%20Destroyer.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/SM1%20Tank%20Destroyer.svg)
 [![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Tokugawa%20Tank.svg)
 [![VV1 Ranger](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/VV1%20Ranger.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/VV1%20Ranger.svg)
 
