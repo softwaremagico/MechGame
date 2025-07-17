@@ -84,6 +84,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Mobile HQ](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Mobile%20HQ.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Mobile%20HQ.svg)
 [![MorningStar CV](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/MorningStar%20CV.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/MorningStar%20CV.svg)
 [![Po II Heavy Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Po%20II%20Heavy%20Tank.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Po%20II%20Heavy%20Tank.svg)
+[![Regulator II](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Regulator%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Regulator%20II.svg)
 [![Scimitar MKII](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Scimitar%20MK%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Scimitar%20MK%20II.svg)
 [![Sniper Artillery](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sniper%20Artillery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sniper%20Artillery.svg)
 [![Sortek Assault Craft](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Sortek%20Assault%20Craft.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Sortek%20Assault%20Craft.svg)
