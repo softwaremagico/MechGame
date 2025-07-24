@@ -104,4 +104,4 @@ Y la ficha simplificada para vehículos es:
 
 ![Tokugawa Sheet](https://github.com/softwaremagico/MechGame/blob/main/PNG/Tokugawa%20Tank.png)
 
-Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el ![Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). 
+Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el ![Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). La fuente utilizada para la ficha es [Robotech](https://fontsgeek.com/robotech-font), por lo que deberás descargarla para poder ver la ficha de forma correcta. 
