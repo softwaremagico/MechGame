@@ -95,6 +95,19 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Tokugawa Tank](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/Tokugawa.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Tokugawa%20Tank.svg)
 [![VV1 Ranger](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/Drawings/VV1%20Ranger.svg)](https://github.com/softwaremagico/MechGame/blob/main/Vehicles/VV1%20Ranger.svg)
 
+[![Regular](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Regular.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Regular.svg)
+[![Anti Armor](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Anti%20Armor.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Anti%20Armor.svg)
+[![Elemental I](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Elemental%20I.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Elemental%20I.svg)
+[![Elemental II](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Elemental%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Elemental%20II.svg)
+[![Elemental III](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Elemental%20III.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Elemental%20III.svg)
+[![Centaur](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Centaur.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Centaur.svg)
+[![Hoverbike](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Hoverbike.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Hoverbike.svg)
+[![Laser Battery](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Laser%20Battery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Laser%20Battery.svg)
+[![LRM Battery](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/LRM%20Battery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/LRM%20Battery.svg)
+[![SRM Battery](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/SRM%20Battery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/SRM%20Battery.svg)
+[![Towed AC](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20AC.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20AC.svg)
+[![Towed Gauss](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20Gauss.svg)
+
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus acciones, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
 
