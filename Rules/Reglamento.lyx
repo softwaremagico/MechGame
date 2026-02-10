@@ -6356,10 +6356,83 @@ Las armas perforantes logran atravesar la armadura por pequeñas secciones de es
  tirará el dado de daños críticos,
  incluso si no ha eliminado toda la armadura del objetivo.
  Además,
- si se golpea el torso central y se obtiene el efecto de arma destruída,
+ si se golpea el torso central y se obtiene el efecto de arma destruida,
  el motor será destruido y por tanto,
  el objetivo será eliminado.
  
+\end_layout
+
+\begin_layout Subsubsection*
+x2 
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+x2
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Por Dos
+\end_layout
+
+\end_inset
+
+Por Dos
+\end_layout
+
+\begin_layout Standard
+El arma hace dos disparos.
+ Ambos disparos deberán de ir al mismo objetivo.
+ Las tiradas de cobertura y defensa no se repiten contra esta arma,
+ pero se aplica el valor obtenido a ambos disparos por separado.
+ También puedes decidir agrupar ambos disparos en uno solo aplicando las reglas de Concentración de Disparos
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+Concentración de Disparos
+\end_layout
+
+\end_inset
+
+ (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "par:Concentración-de-disparos"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Subsection
@@ -7200,6 +7273,40 @@ El mech es fácil de pilotar,
  lo que significa que si un piloto es cadete y pilota este mech,
  será considerado como soldado.
  Por tanto tendrá un dado de piloto que podrá usar normalmente.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/can-opener.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+Abrelatas
+\end_layout
+
+\end_inset
+
+Abrelatas
+\end_layout
+
+\begin_layout Standard
+La unidad está especialmente preparada para lidiar en combate cuerpo a cuerpo con unidades mecanizadas,
+ ya sean mechs o vehículos.
+ Una unidad con esta capacidad,
+ podrá atacar con sus armas cuerpo a cuerpo a una unidad mecanizada normalmente,
+ pero la unidad mecanizada no podrá utilizar ningún arma cuerpo a cuerpo sobre esta.
+ Además,
+ en el caso de que no tenga ninguna arma cuerpo a cuerpo específica se considera que lanzará un dado negro como ataque.
+ En el caso de unidades de infantería,
+ el daño causado por la habilidad de abrelatas se dispersará normalmente.
  
 \end_layout
 

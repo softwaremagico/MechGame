@@ -7,7 +7,7 @@
    viewBox="0 0 297 210.00001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Anti Armor.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -147,15 +147,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1946683"
-     inkscape:cx="413.92243"
-     inkscape:cy="410.57422"
+     inkscape:cx="414.34095"
+     inkscape:cy="410.99274"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer11"
      showgrid="false"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="false"
@@ -166,7 +166,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="mm"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -961,7 +963,7 @@
          id="tspan1548-9-6-3"
          x="149.29082"
          y="82.577423"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Robotech;-inkscape-font-specification:Robotech;stroke-width:0.264583">5</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Robotech;-inkscape-font-specification:Robotech;stroke-width:0.264583">3</tspan></text>
     <g
        transform="matrix(0.68468708,0,0,0.68468708,64.789156,87.122683)"
        id="layer1-6-3-0-7"
