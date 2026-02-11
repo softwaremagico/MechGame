@@ -101,6 +101,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Elemental II](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Elemental%20II.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Elemental%20II.svg)
 [![Elemental III](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Elemental%20III.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Elemental%20III.svg)
 [![Centaur](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Centaur.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Centaur.svg)
+[![Trackbike](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Trackbike.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Trackbike.svg)
 [![Hoverbike](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Hoverbike.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Hoverbike.svg)
 [![Laser Battery](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Laser%20Battery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Laser%20Battery.svg)
 [![LRM Battery](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/LRM%20Battery.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/LRM%20Battery.svg)

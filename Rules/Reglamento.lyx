@@ -6744,6 +6744,8 @@ Enganche de Remolque
 
 \begin_layout Standard
 La unidad tiene un enganche de remolque que permite tirar de otras unidades en el campo de batalla y moverlas sin que le afecte a su rendimiento.
+ Si este símbolo aparece en una unidad de infantería,
+ significa que la unidad puede ser remolcada por un vehículo con esta habilidad.
  
 \end_layout
 
@@ -7273,6 +7275,7 @@ El mech es fácil de pilotar,
  lo que significa que si un piloto es cadete y pilota este mech,
  será considerado como soldado.
  Por tanto tendrá un dado de piloto que podrá usar normalmente.
+ No afecta a rangos superiores.
  
 \end_layout
 
@@ -7306,7 +7309,32 @@ La unidad está especialmente preparada para lidiar en combate cuerpo a cuerpo c
  Además,
  en el caso de que no tenga ninguna arma cuerpo a cuerpo específica se considera que lanzará un dado negro como ataque.
  En el caso de unidades de infantería,
- el daño causado por la habilidad de abrelatas se dispersará normalmente.
+ escoge a que zona del objetivo se adhieren y aplica el daño directamente a esta zona sin tirar daños de localización.
+ 
+\end_layout
+
+\begin_layout Standard
+Si un vehículo o mech es alcanzado por una unidad asaltante con esta habilidad,
+ se considerará que dichos asaltantes se adhiere al vehículo o mech.
+ Por lo que cualquier movimiento de esta unidad moverá también a la unidad asaltante.
+ Además,
+ debido a la proximidad de contacto,
+ el vehículo o mech no puede ni atacar ni disparar a los asaltantes,
+ por lo que permanecerá indefenso.
+ Sin embargo,
+ cualquier otra unidad que dispare a este vehículo o mech podrá dar a los asaltantes.
+ Considera cualquier impacto que obtenga un impacto en la zona en la que los asaltantes estén situados,
+ como que impacta a los asaltantes en vez del objetivo.
+ Con cualquier otro resultado impactará normalmente al objetivo en la zona resultante.
+ 
+\end_layout
+
+\begin_layout Standard
+Si la zona donde se sitúan los asaltantes es destruida,
+ ya sea por los propios asaltantes o por cualquier otro efecto,
+ se consideran que los asaltantes ya no están adheridos al objetivo,
+ por lo que podrán ser atacados normalmente.
+ Deberán esperar a su turno para asaltar de nuevo al objetivo y volver a aplicar las normas.
  
 \end_layout
 
@@ -7325,7 +7353,7 @@ Cuando varias unidades similares se juntan en un pelotón y actúan en conjunto,
  se llaman escuadras.
  Todos los integrantes de una escuadra deben ser exactamente el mismo modelo con el mismo equipamiento.
  Además,
- deben de permanecer en todo momento a una distancia de 10 cms de otro componente de la escuadra.
+ deben de permanecer en todo momento a una distancia menor de 10 cms de otro componente de la escuadra.
  En el caso de que un miembro de la escuadra sea destruido y no se cumpla la regla de los 10 cms,
  deberán moverse obligatoriamente para volver a cumplir la norma lo antes posible.
  
@@ -7513,8 +7541,8 @@ nolink "false"
 ) de los vehículos.
  Así una unidad de 5 miniaturas tirarán un dado de daño dependiendo del arma y lo multiplicará por 5.
  Haciendo los grandes batallones de infantería temibles en gran número.
- Debido al alto número de disparos que hace el pelotón,
- independientemente del arma utilizada,
+ Además,
+ debido al alto número de disparos que hace el pelotón,
  siempre se aplica el efecto de 
 \begin_inset Graphics
 	filename ../Sheet/icons/spread.svg
@@ -7533,7 +7561,7 @@ Daño Disperso
 
 \end_inset
 
-.
+ independientemente del arma utilizada.
  
 \end_layout
 
@@ -7578,8 +7606,8 @@ Alcance
 Las unidades de infantería tienen un alcance muy limitado.
  Se considera que únicamente pueden disparar a corto alcance con sus armas.
  Para medir la distancia,
- puedes usar cualquier peana de infantería que forme el pelotón.
- Se considera que todos los disparos alcanzaran su objetivo si la peana más cercana al objetivo está dentro del alcance.
+ cuenta cuantas peanas están dentro del alcance para calcular los dados de daño,
+ ya que aquellas peanas que estén fuera de alcance no podrán disparar.
  
 \end_layout
 
@@ -7628,9 +7656,10 @@ Cobertura
 
 \begin_layout Standard
 En el caso de la cobertura,
- tirará un dado extra que en comparación con cualquier otro vehículo o mech debido a su pequeño tamaño.
+ tirará un dado extra en comparación con cualquier otro vehículo o mech debido a su pequeño tamaño.
  Si bien,
- para lanzar un mínimo de un dado la infantería debe de contar con algún elemento que le de cobertura.
+ para lanzar algún dado la infantería debe de contar con mínimo,
+ con algún elemento que le de cobertura.
  
 \end_layout
 

@@ -146,9 +146,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1946683"
-     inkscape:cx="596.39985"
-     inkscape:cy="332.30981"
+     inkscape:zoom="2.3893366"
+     inkscape:cx="539.27103"
+     inkscape:cy="345.70265"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -1335,6 +1335,10 @@
          x="75.879379"
          y="140.35178" />
     </g>
+    <path
+       id="path1224"
+       style="color:#000000;display:inline;fill:#000000;stroke-width:1;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 123.94294,77.74464 a 1.46505,1.46505 0 0 0 -1.46502,1.46502 1.46505,1.46505 0 0 0 0.96118,1.37511 v 1.0387 h -0.76171 l -0.37104,-1.387 h -2.61793 v 1.16582 h 1.72548 l 0.37103,1.38493 h 2.8944 a 0.58249997,0.58249997 0 0 0 0.58188,-0.58187 0.58249997,0.58249997 0 0 0 -0.58188,-0.58188 h -0.23203 v -1.0387 a 1.46505,1.46505 0 0 0 0.96067,-1.37511 1.46505,1.46505 0 0 0 -1.46503,-1.46502 z" />
   </g>
   <g
      inkscape:groupmode="layer"
