@@ -48,6 +48,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Shrike Black Rose](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Shrike%20BR.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Shrike%20BR.svg)
 [![Thor](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Thor.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Thor.svg)
 [![Valiant 3E](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Valiant%203E.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Valiant%203E.svg)
+[![Vixen 6](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Vixen%206.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Vixen%206.svg)
 [![Vulture](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Vulture%20MK%20IV.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Vulture%20MK%20IV.svg)
 [![Warhammer IIC](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Warhammer%20IIC.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Warhammer%20IIC.svg)
 [![Zeus](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Zeus.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Zeus.svg)
