@@ -7281,6 +7281,47 @@ El mech es fácil de pilotar,
 
 \begin_layout Subsubsection*
 \begin_inset Graphics
+	filename ../Sheet/icons/ambusher.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Emboscador
+\end_layout
+
+\end_inset
+
+Emboscador
+\end_layout
+
+\begin_layout Standard
+La unidad puede empezar en cualquier zona de tu mitad del tablero,
+ por lo que puede empezar mucho más cerca del enemigo.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
 	filename ../Sheet/icons/can-opener.svg
 
 \end_inset
