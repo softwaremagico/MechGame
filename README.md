@@ -29,6 +29,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Dire Wolf](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Dire%20Wolf.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Dire%20Wolf.svg)
 [![Firestarter](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Firestarter.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Firestarter.svg)
 [![Hatchetman 5D](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hatchetman%205D.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Hatchetman%205D.svg)
+[![Hellion](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellion.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Hellion.svg)
 [![Hellstar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Hellstar.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Hellstar.svg)
 [![Jaguar](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Jaguar.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Jaguar%20JGR-20-L.svg)
 [![Koshi](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Koshi.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Koshi.svg)
