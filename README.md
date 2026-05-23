@@ -12,7 +12,7 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 - Reglamento simple, que puede ser resumido en unas pocas páginas. Las reglas más complejas son opcionales y se pueden ajustar de acuerdo a la edad del jugador. 
 - Un montón de dados. La mayoría de acciones se resuelven con dados de distintos colores. El jugador únicamente tiene que contar los puntos obtenidos en cada dado. 
 - Fichas variadas. Mantiene las cualidades y diferencias de cada mech para que el juego sea divertido. 
-- Instructivo. Desarrollé este juego para enseñar a sumar y restar. Potencia las matemáticas básicas en los más pequeños. 
+- Instructivo. Desarrollé este juego para enseñar a sumar y restar. Con los años, también he añadido multiplicaciones. Potencia las matemáticas básicas en los más pequeños. 
 
 
 [![Arbalest](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Drawings/Arbalest.svg)](https://github.com/softwaremagico/MechGame/blob/main/Mechs/Arbalest.svg)
