@@ -111,6 +111,12 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Towed AC](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20AC.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20AC.svg)
 [![Towed Gauss](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20Gauss.svg)
 
+[![Turret - AC10](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20AC10.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20AC10.svg)
+[![Turret - Arrow](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Arrow.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Arrow.svg)
+[![Turret - ATM](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20ATM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20ATM.svg)
+[![Turret - Gauss](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Gauss.svg)
+[![Turret - Laser](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Laser.svg)
+
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus acciones, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
 
@@ -120,4 +126,4 @@ Y la ficha simplificada para vehículos es:
 
 ![Tokugawa Sheet](https://github.com/softwaremagico/MechGame/blob/main/PNG/Tokugawa%20Tank.png)
 
-Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el ![Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). La fuente utilizada para la ficha es [Robotech](https://fontsgeek.com/robotech-font), por lo que deberás descargarla para poder ver la ficha de forma correcta. 
+Evidentemente, aunque algunos campos son intuitivos, para poder entender la ficha al completo es necesario leer el [Reglamento](https://github.com/softwaremagico/MechGame/blob/main/Rules/Reglamento.pdf). La fuente utilizada para la ficha es [Robotech](https://fontsgeek.com/robotech-font), por lo que deberás descargarla para poder ver la ficha de forma correcta. 
