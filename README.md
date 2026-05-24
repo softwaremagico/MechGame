@@ -117,11 +117,11 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Turret - CPP](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20CPP.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20CPP.svg)
 [![Turret - Gauss](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Gauss.svg)
 [![Turret - HAG 20](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2020.svg)
-[![Turret - HAG 30](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%30-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2030.svg)
-[![Turret - HAG 40](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%40-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2040.svg)
+[![Turret - HAG 30](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20HAG%2030.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2030.svg)
+[![Turret - HAG 40](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20HAG%2040.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2040.svg)
 [![Turret - Large Laser](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Large%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Large%20Laser.svg)
 [![Turret - Medium Laser](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Laser.svg)
-[![Turret - Medium Rotary](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Rotarysvg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Rotary.svg)
+[![Turret - Medium Rotary](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Rotary.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Rotary.svg)
 [![Turret - VeryLargeLRM](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20VeryLargeLRM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20VeryLargeLRM.svg)
 
 ## Fichas
