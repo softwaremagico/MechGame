@@ -111,11 +111,18 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Towed AC](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20AC.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20AC.svg)
 [![Towed Gauss](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Towed%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Towed%20Gauss.svg)
 
-[![Turret - AC10](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20AC10.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20AC10.svg)
-[![Turret - Arrow](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Arrow.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Arrow.svg)
-[![Turret - ATM](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20ATM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20ATM.svg)
-[![Turret - Gauss](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Gauss.svg)
-[![Turret - Laser](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Drawings/Turret%20-%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Infantry/Turret%20-%20Laser.svg)
+[![Turret - AC10](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20AC10.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20AC10.svg)
+[![Turret - Arrow](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Arrow.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Arrow.svg)
+[![Turret - ATM](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20ATM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20ATM.svg)
+[![Turret - CPP](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20CPP.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20CPP.svg)
+[![Turret - Gauss](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Gauss.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Gauss.svg)
+[![Turret - HAG 20](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2020.svg)
+[![Turret - HAG 30](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%30-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2030.svg)
+[![Turret - HAG 40](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%40-%20HAG%2020.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20HAG%2040.svg)
+[![Turret - Large Laser](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Large%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Large%20Laser.svg)
+[![Turret - Medium Laser](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Laser.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Laser.svg)
+[![Turret - Medium Rotary](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Rotarysvg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Rotary.svg)
+[![Turret - VeryLargeLRM](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20VeryLargeLRM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20VeryLargeLRM.svg)
 
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus acciones, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
