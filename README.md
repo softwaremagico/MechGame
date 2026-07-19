@@ -124,6 +124,10 @@ Algunas características de este proyecto que lo diferencia sobre cualquier otro
 [![Turret - Medium Rotary](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20Medium%20Rotary.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20Medium%20Rotary.svg)
 [![Turret - VeryLargeLRM](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Drawings/Turret%20-%20VeryLargeLRM.svg)](https://github.com/softwaremagico/MechGame/blob/main/Turrets/Turret%20-%20VeryLargeLRM.svg)
 
+[![Tripedo A](https://github.com/softwaremagico/MechGame/blob/main/Custom/Drawings/Tripod%20A.svg)](https://github.com/softwaremagico/MechGame/blob/main/Custom/Tripod%20A.svg)
+[![Tripedo B](https://github.com/softwaremagico/MechGame/blob/main/Custom/Drawings/Tripod%20B.svg)](https://github.com/softwaremagico/MechGame/blob/main/Custom/Tripod%20B.svg)
+[![Assault Tripod](https://github.com/softwaremagico/MechGame/blob/main/Custom/Drawings/Assault%20Tripod.svg)](https://github.com/softwaremagico/MechGame/blob/main/Custom/Assault%20Tripod.svg)
+
 ## Fichas
 La parte más interesante de este proyecto es la creación de las fichas para cada uno de los mechs. La idea es crear unas fichas que puedan tener marcadores sencillos para poder llevar un registro del mech, sus acciones, daños, gestión del calor, etc. Un ejemplo de ficha de un mech sería:
 

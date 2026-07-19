@@ -6181,6 +6181,8 @@ Recarga Lenta
  Es decir,
  después de disparar un turno,
  el siguiente no puede ser utilizada.
+ Utiliza un marcador para recordar cuando haya disparado un turno.
+ 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -6980,8 +6982,9 @@ FCS
  sistemas de datos de armas,
  guía y radar diseñados para ayudar en el seguimiento,
  apuntamiento y ataque de armas de largo alcance.
- Los mechs equipados con esta mejora pueden repetir un dado de localización al disparar con un arma de fuego directo (habitualmente cañones y láseres).
- El dado escogido queda a discreción del jugador.
+ Los mechs equipados con esta mejora tiran un dado extra al disparar,
+ para después retirar el dado con el menor valor.
+ Esta bonificación solamente se aplica al disparar cualquier arma de fuego directo (habitualmente cañones y láseres).
  
 \end_layout
 
@@ -7418,6 +7421,36 @@ Si la zona donde se sitúan los asaltantes es destruida,
  se consideran que los asaltantes ya no están adheridos al objetivo,
  por lo que podrán ser atacados normalmente.
  Deberán esperar a su turno para asaltar de nuevo al objetivo y volver a aplicar las normas.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Graphics
+	filename ../Sheet/icons/flare.svg
+
+\end_inset
+
+
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+Bengala
+\end_layout
+
+\end_inset
+
+Bengala
+\end_layout
+
+\begin_layout Standard
+La unidad puede lanzar bengalas hasta 20 centímetros,
+ iluminando el área y resaltando cualquier enemigo dentro de ella,
+ atrayendo la atención de todos los aliados sobre estos enemigos.
+ Esto se traduce en que ningún enemigo a menos de 20 centímetros de esta unidad,
+ podrá aplicar el bonus de armadura sigilosa.
  
 \end_layout
 
