@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.530727mm"
+   height="10.530727mm"
+   viewBox="0 0 10.530727 10.530727"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="Defense2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="14.268405"
+     inkscape:cy="17.488266"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1033"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.92077,-36.602315)">
+    <path
+       id="path1391-3"
+       style="display:inline;fill:#000000;stroke-width:0.010408"
+       d="M 54.298797 38.240975 C 54.246007 38.236475 54.216918 38.24889 53.207908 38.697278 C 52.637463 38.950764 52.157372 39.168983 52.141306 39.182519 C 52.125146 39.196049 52.10205 39.228193 52.08963 39.253833 C 52.06734 39.300243 52.067113 39.303112 52.071543 39.844494 C 52.076643 40.431105 52.083647 40.521239 52.145957 40.826347 C 52.296156 41.561657 52.624579 42.202373 53.147446 42.778682 C 53.332713 42.982888 53.552106 43.168519 53.760329 43.3125 C 53.708189 43.148465 53.66226 42.981803 53.627004 42.809171 C 53.553684 42.450245 53.545284 42.343769 53.539154 41.653686 C 53.533854 41.016811 53.533951 41.013754 53.560341 40.959155 C 53.574991 40.928985 53.602329 40.890832 53.621319 40.874922 C 53.640229 40.859002 54.204959 40.602097 54.876023 40.303898 C 56.063012 39.77643 56.097562 39.762224 56.159666 39.767496 C 56.186406 39.769796 56.288423 39.809299 56.498663 39.899271 C 56.498898 39.872991 56.499462 39.864896 56.499697 39.836226 L 56.504347 39.295691 L 56.479543 39.249182 C 56.465973 39.223872 56.438881 39.190358 56.419081 39.174768 C 56.399261 39.159198 55.926114 38.943511 55.367983 38.695727 C 54.557701 38.335999 54.342114 38.244616 54.298797 38.240975 z M 56.098171 40.170056 C 56.045376 40.165572 56.015772 40.17798 55.006764 40.626359 C 54.436321 40.879844 53.956233 41.09807 53.940163 41.1116 C 53.924003 41.12512 53.900916 41.157274 53.888486 41.182914 C 53.866246 41.229326 53.866 41.231677 53.8704 41.773059 C 53.87555 42.35967 53.882504 42.450319 53.944814 42.755428 C 54.095014 43.490739 54.423435 44.131457 54.946303 44.707763 C 55.264739 45.058756 55.688776 45.374008 55.97208 45.470508 L 55.972597 45.470508 C 56.065671 45.501978 56.094634 45.502848 56.185504 45.475158 C 56.453941 45.393313 56.901358 45.062475 57.223167 44.707763 C 57.819253 44.050755 58.165448 43.304593 58.277366 42.436584 C 58.289946 42.33697 58.294953 42.179713 58.298553 41.765307 L 58.303204 41.224255 L 58.278399 41.178263 C 58.264819 41.152943 58.237728 41.119439 58.217938 41.103849 C 58.198118 41.088269 57.724972 40.872592 57.166839 40.624808 C 56.356557 40.265082 56.141481 40.173656 56.098171 40.170056 z " />
+  </g>
+</svg>
